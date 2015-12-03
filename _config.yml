@@ -27,30 +27,28 @@ avatar: "/img/giving-jar-icon-square.svg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
+  About: "aboutme"
   Contact: "contact"
-  Author's home: "http://deanattali.com"
+  Author: "http://technicalrex.com"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+  name: Technical Rex
+  url: http://technicalrex.com
+  email: "hello@givingjar.org"
+  facebook: givingjarorg
+  twitter: givingjar
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
-  github: true
+  github: false
   linkedin: false
   stackoverflow: false
 
