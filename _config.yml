@@ -26,10 +26,8 @@ avatar: "/img/giving-jar-icon-square.svg"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  About: "aboutme"
-  Contact: "contact"
-  Author: "http://technicalrex.com"
+  Giving Jar: "http://givingjar.surge.sh"
+# Add link to charity spotlights here
 
 # --- Footer options --- #
 
