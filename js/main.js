@@ -16,5 +16,3 @@ $('#main-navbar').on('show.bs.collapse', function () {
 $('#main-navbar').on('hidden.bs.collapse', function () {
   $(".navbar").removeClass("top-nav-expanded");
 })
-
-// 2fc73a3a967e97599c9763d05e564189
