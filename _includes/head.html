@@ -17,7 +17,7 @@
   <link rel="apple-touch-icon" type="image/png" href="/images/giving-jar-icon-180.png">
   <link rel="icon" type="image/png" href="/images/giving-jar-icon-196.png">
 
-  <link rel="image_src" href="{{ '/images/giving-jar-icon-196.png' | prepend: site.url | prepend: site.baseurl | replace: '//', '/' }}" />
+  <link rel="image_src" href="{{ '/images/giving-jar-icon-196.png' | prepend: site.baseurl | replace: '//', '/' | prepend: site.url }}" />
 
   {% if page.common-ext-css %}
     {% for css in page.common-ext-css %}
