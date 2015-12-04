@@ -16,7 +16,7 @@ baseurl: ""
 title: Giving Jar Blog
 
 # Short description of your site
-description: Discover Giving Jar, Charities, and Nonprofits
+description: Discover Giving Jar, Nonprofits, and Charitable Giving
 
 # --- Navigation bar options --- #
 
@@ -28,6 +28,7 @@ avatar: "/img/giving-jar-icon-square.svg"
 navbar-links:
   Giving Jar: "http://givingjar.surge.sh"
 # Add link to charity spotlights here
+# Thank You
 
 # --- Footer options --- #
 
