@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 @font-face {
     font-family: 'EstrangeloEdessaRegular';
-    src: url('/css/fonts/EstrangeloEdessaRegular.ttf') format('truetype');
+    src: url('EstrangeloEdessaRegular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
