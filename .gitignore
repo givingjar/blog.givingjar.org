@@ -1,7 +1,7 @@
 # project
 _site
 .sass-cache
-.vagrant
+.jekyll-metadata
 
 # general
 .DS_Store
