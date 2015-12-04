@@ -178,7 +178,7 @@ img::-moz-selection {
 
 footer {
   padding: 30px 0 0 0;
-  background: #ebfaff;
+  background: #ebfaff; /* f5f5f5 */
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
