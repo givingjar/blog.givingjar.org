@@ -99,9 +99,13 @@ img::-moz-selection {
   font-family: 'EstrangeloEdessaRegular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.navbar-custom .navbar-brand {
+    font-size: 20px;
+}
+
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1px;
 }
 
@@ -210,7 +214,7 @@ footer .theme-by {
     font-size: 18px;
   }
   footer .copyright {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
@@ -296,8 +300,8 @@ header.header-page .page-heading .page-subheading {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'EstrangeloEdessaRegular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 100;
   margin: 10px 0 0;
 }
 
@@ -313,7 +317,7 @@ header.header-post .post-heading .post-subheading {
 
 @media only screen and (min-width: 768px) {
   header.header-page .page-heading h1 {
-    font-size: 80px;
+    font-size: 88px;
   }
 }
 
