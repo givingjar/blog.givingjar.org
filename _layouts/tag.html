@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<header class="header-page">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading">
+                {% if site.tag_meta[page.tag].title %}
+                <h1>{{ site.tag_meta[page.tag].title }}</h1>
+                {% else %}
+                <h1>Posts Tagged &ldquo;{{ page.tag }}&rdquo;</h1>
+                {% endif %}
+                <hr class="small">
+                {% if site.tag_meta[page.tag].subtitle %}
+                <span class="page-subheading">{{ site.tag_meta[page.tag].subtitle }}</span>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="posts-list">
+            {% for post in page.posts %}
+            <article class="post-preview">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <h2 class="post-title">{{ post.title }}</h2>
+
+                    {% if post.subtitle %}
+                    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+                    {% endif %}
+                </a>
+
+                <p class="post-meta">
+                    Posted on {{ post.date | date: "%B %-d, %Y" }}
+                </p>
+            </article>
+            {% endfor %}
+        </div>
+        {% if page.comments %}
+        <div class="disqus-comments">
+            {% include disqus.html %}
+        </div>
+        {% endif %}
+    </div>
+</div>

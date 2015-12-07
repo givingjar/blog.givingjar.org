@@ -30,6 +30,17 @@ navbar-links:
 # Add link to charity spotlights here
 # Thank You
 
+# --- Tag Information --- #
+
+tag_permalink_style: pretty
+tag_page_layout: tag
+tag_page_dir: tag
+
+tag_meta:
+  spotlight:
+    title: In the Spotlight
+    # subtitle: Where unsung nonprofits sing their hearts out
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
