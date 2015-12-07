@@ -8,6 +8,11 @@
         {% capture title %}Posts Tagged {{ page.tag }}{% endcapture %}
     {% endif %}
 {% endif %}
+
+{% assign description = site.description %}
+{% if page.subtitle %}
+    {% assign description = page.subtitle %}
+{% endif %}
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,13 +21,7 @@
     <title>{{ title }}</title>
 
     <meta name="author" content="{{ site.author.name }}" />
-    {% if page.subtitle %}
-    <meta name="description" content="{{ page.subtitle }}">
-    {% elsif page.title %}
-    <meta name="description" content="{{ page.title }}">
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    {% endif %}
+    <meta name="description" content="{{ description | escape }}">
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -84,4 +83,5 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@{{ site.author.twitter }}" />
     <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
+    <meta name="twitter:description" value="{{ description | escape }}" />
 </head>
