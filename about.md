@@ -13,11 +13,11 @@ There are nearly two million nonprofits in the United States alone and many of t
 
 Right now you can sign up for the Giving Jar newsletter to start discovering new charities. As Giving Jar grows, more tools will become available to help you search for the perfect charity.
 
-#### Make every donation count.
+#### Every donation is precious.
 
-Donations made with Giving Jar will always go to your charity of choice. It is also important that as much of every donation makes it to the charity as possible.
+Donations made with Giving Jar will always go to the charity you choose. It is also important that as much of every donation makes it to the charity as possible.
 
-We are constantly looking for better ways to donate that minimize processing fees and eliminate unnecessary steps between your bank and charity.
+We are constantly looking for better ways to donate that minimize processing fees and eliminate unnecessary steps between your bank and the charity.
 
 #### Offer convenient ways to donate online.
 
