@@ -20,7 +20,7 @@ avatar: "/img/giving-jar-icon-square.svg"
 
 # List of links in the navigation bar
 navbar-links:
-  About: "http://givingjarblog.surge.sh/welcome/"
+  About: "http://givingjarblog.surge.sh/about/"
   Giving Jar: "http://givingjar.surge.sh"
 # Add link to charity spotlights here
 # Thank You
