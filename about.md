@@ -5,9 +5,7 @@ subtitle: Giving Jar is an upcoming platform that makes it convenient for people
 permalink: /about/
 ---
 
-Giving Jar is an upcoming platform that makes it convenient for people online to donate to the charities of their choice.
-
-This platform is being built with three important ideas in mind.
+The Giving Jar platform is being built with three important ideas in mind.
 
 #### Help people find charities that share their cause.
 
