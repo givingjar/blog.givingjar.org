@@ -3,6 +3,7 @@ layout: post
 title: Welcome to an Example Article
 subtitle: Use this as a template for your own articles.
 permalink: /always-specify-a-permalink/
+tags: [progress-report,spotlight]
 snippet: >
     A brief intro to the blog content goes here. Avoid any styling in this part!
 ---
