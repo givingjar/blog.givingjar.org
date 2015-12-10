@@ -3,7 +3,7 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "http://givingjarblog.surge.sh"
+url: "http://blog.givingjar.org"
 baseurl: ""
 
 # Name of website
@@ -20,8 +20,8 @@ avatar: "/img/giving-jar-icon-square.svg"
 
 # List of links in the navigation bar
 navbar-links:
-  About: "http://givingjarblog.surge.sh/about/"
-  Giving Jar: "http://givingjar.surge.sh"
+  About: "http://blog.givingjar.org/about/"
+  Giving Jar: "http://givingjar.org"
 # Add link to charity spotlights here
 # Thank You
 
@@ -94,7 +94,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
 
 # prose.io config
 prose:
