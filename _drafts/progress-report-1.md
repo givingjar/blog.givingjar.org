@@ -128,7 +128,7 @@ Finally, a meeting needs to be scheduled with Technical Rex's accountant. There 
 
 ## Footnotes
 
-[^1]: As it is used here, "sensitive" means information that could be used in malicious ways against Giving Jar or its employees. For example: social security numbers, usernames/passwords, etc.
+[^1]: "Sensitive" information is anything that could be used in malicious ways against Giving Jar or its employees (social security numbers, usernames/passwords, etc.).
 
 
 
