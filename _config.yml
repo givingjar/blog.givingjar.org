@@ -32,9 +32,12 @@ tag_page_layout: tag
 tag_page_dir: tag
 
 tag_meta:
+  progress-report:
+    title: Progress Reports
+    subtitle: Little updates every other week so you know how Giving Jar is coming along.
   spotlight:
     title: In the Spotlight
-    # subtitle: Where unsung nonprofits sing their hearts out
+    subtitle: Where unsung nonprofits sing their hearts out
 
 # --- Footer options --- #
 
