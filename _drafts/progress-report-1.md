@@ -122,9 +122,9 @@ Finally, thanks to everyone following Giving Jar:
 
 The first charity spotlight will be published next week! Giving Jar is on the lookout for charities to interview, too. If you know a charity that might be interested, [send an email][1], [tweet][3], or write on [Facebook][4].
 
-*[What's in a Landing Page?][5]* is going to be put turned into a slide deck and presented by Erik Gillespie at [DemoCamp Lansing][29] this Thursday. Feel free to attend!
+A meeting needs to be scheduled with Technical Rex's accountant. There are lots of financial considerations to be made for a startup as it rolls into the new year.
 
-Finally, a meeting needs to be scheduled with Technical Rex's accountant. There are lots of financial considerations to be made for a startup as it rolls into the new year.
+It doesn't sound like much, but with Christmas falling at the end of the next week, it'll be enough!
 
 ## Footnotes
 
@@ -136,7 +136,7 @@ Finally, a meeting needs to be scheduled with Technical Rex's accountant. There 
 [2]: http://givingjar.org "Giving Jar Landing Page"
 [3]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [4]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[5]: http://technicalrex.com "What's in a Landing Page? on the Technical Rex Blog"
+[5]: http://technicalrex.com/whats-in-a-landing-page/ "What's in a Landing Page? on the Technical Rex Blog"
 [6]: http://technicalrex.com "Technical Rex Blog"
 [7]: #failure "Failure Section"
 [8]: http://blog.givingjar.org "Giving Jar Blog"
