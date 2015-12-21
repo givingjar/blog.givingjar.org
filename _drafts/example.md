@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to an Example Article
-subtitle: Use this as a template for your own articles.
+title: "Welcome to an Example Article"
+subtitle: "Use this as a template for your own articles.""
 permalink: /always-specify-a-permalink/
 tags: [progress-report,spotlight]
 snippet: >
