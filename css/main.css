@@ -47,6 +47,9 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
+img {
+    max-width: 100%;
+}
 
 .main-content {
   padding-top: 80px;
