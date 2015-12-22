@@ -413,3 +413,38 @@ header.header-post .post-heading .post-subheading {
 .blog-post table tr td :last-child {
   margin-bottom: 0;
 }
+
+/* --- Web Links --- */
+
+.web-links {
+    margin: 30px 0;
+}
+
+a.home {
+  color: #33C3F0;
+}
+a.home:hover,
+a.home:focus {
+  color: #33C3F0;
+}
+a.facebook {
+    color: #3b5998;
+}
+a.facebook:hover,
+a.facebook:focus {
+    color: #3b5998;
+}
+a.twitter {
+    color: #55acee;
+}
+a.twitter:hover,
+a.twitter:focus {
+    color: #55acee;
+}
+a.instagram {
+    color: #125688;
+}
+a.instagram:hover,
+a.instagram:focus {
+    color: #125688;
+}
