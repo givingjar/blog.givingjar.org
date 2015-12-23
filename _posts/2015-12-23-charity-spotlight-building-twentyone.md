@@ -46,7 +46,7 @@ Building Twentyone also recently celebrated its largest fundraiser. With utility
 
 ## Advice For Donors
 
-Benjamin revealed to me that Building Twentyone is primarily volunteer-operated. The larger expenses are rent and utilities. It's very easy for those expenses to exceed 33%.
+Benjamin revealed to me that Building Twentyone is primarily volunteer-operated. The larger expenses are rent and utilities. It's very easy for those expenses to exceed 33% of their expenses.
 
 When donors look at that percentage to gauge the quality of a charity, it's also important that they look at the value being offered by that number. Facilities like Building Twentyone's are invaluable to teens, and letting them explore technology, art, and other indoor activities year-round have a high energy cost.
 
