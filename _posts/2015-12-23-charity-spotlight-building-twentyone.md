@@ -50,7 +50,7 @@ Benjamin revealed to me that Building Twentyone is primarily volunteer-operated.
 
 When donors look at that percentage to gauge the quality of a charity, it's also important that they look at the value being offered by that number. Facilities like Building Twentyone's are invaluable to teens, and letting them explore technology, art, and other indoor activities year-round have a high energy cost.
 
-Fortunately, Building Twentyone was recently awarded a grant that they are hoping to use to reduce their utility bills by 70%.
+Fortunately, Building Twentyone was recently awarded a grant that will reduce their utility bills by 70%.
 
 ![][6]
 
