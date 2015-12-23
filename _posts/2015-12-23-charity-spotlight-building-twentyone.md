@@ -46,9 +46,9 @@ Building Twentyone also recently celebrated its largest fundraiser. With utility
 
 ## Advice For Donors
 
-One revelation Benjamin shared with me was about operating costs. Building Twentyone consists mostly of volunteers. This means the larger expenses are rent and utilities. It's very easy for those expenses to exceed 33%.
+Benjamin revealed to me that Building Twentyone is primarily volunteer-operated. The larger expenses are rent and utilities. It's very easy for those expenses to exceed 33%.
 
-When donors look at that percentage to gauge the quality of a charity, it's also important that they look at the value being offered by that number.
+When donors look at that percentage to gauge the quality of a charity, it's also important that they look at the value being offered by that number. Facilities like Building Twentyone's are invaluable to teens, and letting them explore technology, art, and other indoor activities year-round have a high energy cost.
 
 Fortunately, Building Twentyone was recently awarded a grant that they are hoping to use to reduce their utility bills by 70%.
 
@@ -81,4 +81,4 @@ If you want to learn more about Building Twentyone or get involved, you can find
 [3]: http://www.buildingtwentyone.org/ "Building Twentyone Homepage"
 [4]: /img/spotlight/building-twentyone/work-area.jpg "One of Building Twentyone's Many Open Workspaces"
 [5]: /img/spotlight/building-twentyone/building-sign.jpg "Building Twentyone's Sign"
-[6]: /img/spotlight/building-twentyone/graffiti-1.jpg "One Side-Effect of Massively Expensive Lights "
+[6]: /img/spotlight/building-twentyone/graffiti-4.jpg "One Side-Effect of Massively Expensive Lights "
