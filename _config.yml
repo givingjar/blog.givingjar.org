@@ -4,6 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 url: "http://blog.givingjar.org"
+#url: "http://givingjarblog.surge.sh"
 baseurl: ""
 
 # Name of website
