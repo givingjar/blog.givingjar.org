@@ -24,7 +24,7 @@ Here are the major wins in this progress report:
 
 If you don't want to know about the details of these wins, feel free to skip to *[Failure][2]*.
 
-### Charity Spotlights
+#### Charity Spotlights
 
 Probably the most exciting news to report is that the [first charity spotlight][6] was published!
 
@@ -32,13 +32,13 @@ Every other week, Giving Jar will interview a different charity and write about 
 
 Since Giving Jar is located just outside Lansing, Michigan, expect many of the early spotlights to focus on mid-Michigan charities.
 
-### Progress Reports
+#### Progress Reports
 
 The first progress report was sent out two weeks ago. It was pretty long because it covered about a month of work at Giving Jar. This and all future reports will cover two weeks of progress, so you'll be reading much shorter reports moving forward. They'll also be much easier and faster to write!
 
 Version 1.0 of the progress report structure was also established. If you haven't picked up on it yet, this structure is *SFTU* (not to be confused with *STFU*). A section to celebrate ***Success***, a section to reflect on ***Failure***, a section to give ***Thanks***, and a section to peek at ***Upcoming*** work.
 
-### What's in a Landing Page?
+#### What's in a Landing Page?
 
 [Technical Rex][8] is as much about giving to the software development community as Giving Jar is about helping charities.
 
@@ -53,7 +53,7 @@ There are almost always setbacks when working on a project of any size. Here are
 
 Here are the stories behind those takeaways. If you don't want the details, jump ahead to the *[Thanks][3]*.
 
-### Transcribing a Voice Recording Takes Time
+#### Transcribing a Voice Recording Takes Time
 
 A lot of information was covered in the interview with Benjamin Schartow of Building Twentyone. Notes were taken, but they weren't good enough to distill all of that information down into a 500-600 word article.
 
@@ -61,7 +61,7 @@ Transcribing the interview into [text][10] worked, but it took a loooooong time.
 
 The good news is that a nice format came out of it, and capturing that same information in future interviews should take much less time.
 
-### Celebrate People, Not Just Charities
+#### Celebrate People, Not Just Charities
 
 This was a bit of a face palm moment. The Building Twentyone story started with tragedy, but out of it came an organization that is really working hard to help keep teens safe and set them up for better futures.
 

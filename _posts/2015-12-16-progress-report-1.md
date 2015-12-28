@@ -26,13 +26,13 @@ Here are the major wins in this progress report:
 
 If you don't want to know about the details of these wins, feel free to skip to *[Failure][7]*.
 
-### Landing Page
+#### Landing Page
 
 The biggest news of the first progress report is that the [landing page][2] is live! Go there to learn all about Giving Jar and sign up for the newsletter.
 
 If you want to learn more about what went into the landing page (logo design, wordsmithing, mobile-friendly layout, analytics, etc.), read *[What's in a Landing Page?][5]* on the [Technical Rex blog][6].
 
-### Giving Jar Blog
+#### Giving Jar Blog
 
 Writing is the earliest way that Giving Jar can help people discover charities and learn about the Giving Jar platform. The charity spotlights and progress reports are two such examples.
 
@@ -40,7 +40,7 @@ All written content will be published to the [Giving Jar blog][8]. If the conten
 
 If you prefer to get your news in one place, there are Atom feeds for both blogs.
 
-### Weekly Newsletter
+#### Weekly Newsletter
 
 At the time of this writing, there is a sign up form on the Giving Jar landing page. Subscribe if you want to discover more about nonprofits, charitable giving, and Giving Jar.
 
@@ -49,13 +49,13 @@ The newsletter will be sent weekly and will contain one of the following:
 1. **Charity Spotlights.** These charity interviews will help nonprofits get the word out about their mission and explore valuable information about how they operate, the challenges they face, and how donors can help.
 2. **Progress Reports.** This is what you're reading now. These reports are how Giving Jar keep interested readers up to date.
 
-### Curated News
+#### Curated News
 
 This idea was a last-minute addition to the rollout of the landing page. If you follow Giving Jar on social media then you will see daily items from the news about charities and donations.
 
 These shared links exist to inform and inspire. Each one is hand-picked because of the positive message or information it provides about the nonprofit space. They are not ads and Giving Jar does not make money from them whatsoever.
 
-### Open Filing Cabinet
+#### Open Filing Cabinet
 
 In the name of transparency and potentially helping other startups out, all files that don't have sensitive[^1] information will be made publicly available in the [Giving Jar Filing Cabinet][9].
 
@@ -64,7 +64,7 @@ Right now there are two files available:
 * *[Giving Jar Blogging Guide][10]*
 * *[Giving Jar Social Media Guide][11]*
 
-### Open Source Content
+#### Open Source Content
 
 Along the same vein as the open filing cabinet, all web content for Giving Jar is being open sourced. The following repositories are available for perusal:
 
@@ -83,7 +83,7 @@ There are almost always setbacks when working on a project of any size. Here are
 
 Here are the stories behind those takeaways. If you don't want the details, jump ahead to the *[Thanks][15]*.
 
-### Tasks Should Be Small and Specific.
+#### Tasks Should Be Small and Specific.
 
 The first handful of tasks for Giving Jar were very high-level:
 
@@ -94,7 +94,7 @@ The first handful of tasks for Giving Jar were very high-level:
 
 The reason these tasks should have been smaller is a matter of prioritization. Here's a real example: hours of time went into picking a color scheme for the site. After the photos were taken, though, it was obvious what the color scheme should be.
 
-### Expect Technical Difficulties.
+#### Expect Technical Difficulties.
 
 Technical difficulties will happen. When they do, it's important to be able to quickly adapt your plan accordingly.
 
