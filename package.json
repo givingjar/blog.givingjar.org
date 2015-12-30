@@ -1,0 +1,17 @@
+{
+  "name": "blog.givingjar.org",
+  "version": "1.0.0",
+  "homepage": "http://blog.givingjar.org",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technical-rex/blog.givingjar.org.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-jekyll": "^0.4.3"
+  }
+}
