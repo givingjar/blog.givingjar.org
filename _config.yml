@@ -102,3 +102,6 @@ exclude:
   - package.json
   - Gruntfile.js
   - node_modules/*
+
+gems:
+  - jekyll-paginate
