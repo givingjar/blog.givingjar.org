@@ -105,3 +105,4 @@ exclude:
 
 gems:
   - jekyll-paginate
+  - jekyll/tagging
