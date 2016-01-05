@@ -16,6 +16,8 @@ snippet: >
 
 In this charity spotlight I spoke with the Treasurer of Michigan Remembers 9/11, Scott Watkins.
 
+![][4]
+
 ## Origin Story
 
 On September 11, 2001, two of Scott's colleagues, Patrick Anderson and Ilhan Geckil, were attending a conference at the World Trade Center when the first plane hit. Cell towers were completely jammed. Facebook and other means of getting immediate updates from family and friends did not exist. It took Patrick and Ilhan hours to get to away from the WTC buildings and use a land line to contact their family.
@@ -32,6 +34,8 @@ Each year they award three scholarships to the winners of an essay contest that 
 
 The charity also organizes an annual "Run to Remember." This fundraiser is a 5K that reminds participants of the trek Stephen Siller made on foot with 60 pounds of gear, from the Brooklyn Battery Tunnel to the Twin Towers, before giving his life saving others. Donations for this event send two Michigan first responders to the "Tunnel to Tower" run in New York, further honoring those who risk their lives on a daily basis.
 
+![][6]
+
 ## Advice to Nonprofits
 
 Scott's advice for anyone wanting to start their own nonprofit is "Don't be afraid to ask for help." There are many lawyers and news stations that offer help nonprofits for little or no cost. All you have to do is reach out to them.
@@ -41,6 +45,8 @@ Scott's advice for anyone wanting to start their own nonprofit is "Don't be afra
 It took a large amount of time and effort for the charity to be confident they had properly identified the people with Michigan connections who were directly impacted by 9/11. When this research was complete, they began sharing their stories, identifying memorials, and organizing events to honor their memory.
 
 Participation in the charity really started to grow when Michigan Remembers 9/11 introduced their annual scholarship and 5K. Organizing these events is challenging, but for Scott and his peers, helping younger generations remember that day while honoring those affected by 9/11 is rewarding and well worth the effort.
+
+![][5]
 
 ## Goals
 
@@ -65,3 +71,6 @@ If you want to learn more about Michigan Remembers 9/11, you can reach them usin
 [1]: http://www.michiganremembers.dreamhosters.com/ "Michigan Remembers 9/11 Homepage"
 [2]: http://www.michiganremembers.dreamhosters.com/?page_id=213 "Michigan Remembers 9/11 - In Remembrance Page"
 [3]: http://www.michiganremembers.dreamhosters.com/?page_id=665 "Michigan Remembers 9/11 - Interactive Map of Michigan 9/11 Memorials"
+[4]: /img/spotlight/michigan-remembers-9-11/2015-never-forget.jpg "Never Forget Those Who Helped and Those Who Lived"
+[5]: /img/spotlight/michigan-remembers-9-11/2015-run-to-remember.jpg "2015 Run to Remember"
+[6]: /img/spotlight/michigan-remembers-9-11/2015-scholarship-essay-winners.jpg "2015 Scholarship Essay Winners"
