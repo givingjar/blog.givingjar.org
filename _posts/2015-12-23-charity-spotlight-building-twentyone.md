@@ -74,7 +74,7 @@ If you want to learn more about Building Twentyone or get involved, you can find
 
 {% include web-links.html home="http://www.buildingtwentyone.org" twitter="Building21" facebook="buildingtwentyone" instagram="buildingtwentyone" %}
 
-###### Photography by [Ian Kast][5]
+###### Photography by [Ian Kast][2]
 
 [1]: /img/spotlight/building-twentyone/skate-park.jpg "Building Twentyone's Indoor Skate Park"
 [2]: https://twitter.com/MrIanKast "Ian Kast on Twitter"
