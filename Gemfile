@@ -13,5 +13,9 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 gem 'jekyll-gist'
-gem 'jekyll-paginate'
-gem 'jekyll-tagging'
+
+group :jekyll_plugins do
+  gem 'jekyll-paginate'
+  gem 'jekyll-compose'
+  gem 'jekyll-tagging'
+end
