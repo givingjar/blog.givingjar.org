@@ -42,7 +42,7 @@ Scott's advice for anyone wanting to start their own nonprofit is "Don't be afra
 
 ## Big Wins
 
-It took a large amount of time and effort for the charity to be confident they had properly identified the people with Michigan connections who were directly impacted by 9/11. When this research was complete, they began sharing their stories, identifying memorials, and organizing events to honor their memory.
+It required a great amount of time and effort to identify the people with Michigan connections who were directly impacted by 9/11. When this research was complete, they began sharing their stories, identifying memorials, and organizing events to honor their memory.
 
 Participation in the charity really started to grow when Michigan Remembers 9/11 introduced their annual scholarship and 5K. Organizing these events is challenging, but for Scott and his peers, helping younger generations remember that day while honoring those affected by 9/11 is rewarding and well worth the effort.
 
