@@ -7,12 +7,12 @@ tags: [spotlight]
 preview-image: /img/spotlight/michigan-remembers-9-11/michigan-remembers-9-11-logo.jpg
 snippet: >
     Michigan Remembers 9/11 wants to make sure the significance of the tragic events on
-    September 11, 2001 live on in Michigan for all generations. They know that high school
+    September 11, 2001 lives on in Michigan for all generations. They know that high school
     graduates this year may not have any personal recollection of that day, and they are
     helping to educate our youth so that the tragedy of 9/11 will long be remembered.
 ---
 
-[Michigan Remembers 9/11][1] wants to make sure the significance of the tragic events on September 11, 2001 live on in the minds and hearts of Michiganders for generations to come. They know that high school graduates this year may not have any personal recollection of that day, though, and they are helping to educate our youth so that the tragedy of 9/11 will long be remembered.
+[Michigan Remembers 9/11][1] wants to make sure the significance of the tragic events on September 11, 2001 lives on in the minds and hearts of Michiganders for generations to come. They know that high school graduates this year may not have any personal recollection of that day, though, and they are helping to educate our youth so that the tragedy of 9/11 will long be remembered.
 
 In this charity spotlight I spoke with the Treasurer of Michigan Remembers 9/11, Scott Watkins.
 
@@ -28,7 +28,7 @@ Scott and Patrick founded Michigan Remembers 9/11 in 2007 to honor those who los
 
 ## Today
 
-Michigan Remembers 9/11 has done extensive research to identify the people of Michigan who died or risked their lives on that tragic day and share their stories on their [In Remembrance][2] site. They also maintain an [interactive map][3] of 9/11 memorials in the state of Michigan.
+Michigan Remembers 9/11 has done extensive research to identify the people of Michigan who died or risked their lives on that tragic day and shared their stories on their [In Remembrance][2] site. They also maintain an [interactive map][3] of 9/11 memorials in the state of Michigan.
 
 Each year they award three scholarships to the winners of an essay contest that asks junior and senior high school students to reflect on how the events of September 11, 2001 have had an impact on their life.
 
