@@ -22,7 +22,7 @@ In this charity spotlight I spoke with the Treasurer of Michigan Remembers 9/11,
 
 On September 11, 2001, two of Scott's colleagues, Patrick Anderson and Ilhan Geckil, were attending a conference at the World Trade Center when the first plane hit. Cell towers were completely jammed. Facebook and other means of getting immediate updates from family and friends did not exist. It took Patrick and Ilhan hours to get to away from the WTC buildings and use a land line to contact their family.
 
-Scott's friends survived this tragic day, but they will never forget the site of first responders running to the catastrophe, not thinking they may lose their lives, just rushing to help save the lives of others.
+Scott's friends survived this tragic day, but they will never forget the sight of first responders running to the catastrophe, not thinking they may lose their lives, just rushing to help save the lives of others.
 
 Scott and Patrick founded Michigan Remembers 9/11 in 2007 to honor those who lost and risked their lives on that tragic day. They also want to make sure that first responders everywhere are honored for the service and risks they take every day.
 
