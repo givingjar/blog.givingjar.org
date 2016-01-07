@@ -21,10 +21,9 @@ avatar: "/img/giving-jar-icon-square.svg"
 
 # List of links in the navigation bar
 navbar-links:
-  About: "http://blog.givingjar.org/about/"
-  Giving Jar: "http://givingjar.org"
-# Add link to charity spotlights here
-# Thank You
+  Newsletter: "http://givingjar.org"
+  Spotlights: "/tag/spotlight/"
+  About: "/about/"
 
 # --- Tag Information --- #
 
@@ -37,8 +36,8 @@ tag_meta:
     title: Progress Reports
     subtitle: Little updates every other week so you know how Giving Jar is coming along.
   spotlight:
-    title: In the Spotlight
-    subtitle: Where unsung nonprofits sing their hearts out
+    title: Charity Spotlights
+    subtitle: Interviews with unsung charities that are doing amazing good in the world, updated every other week.
 
 # --- Footer options --- #
 
