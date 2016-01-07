@@ -36,7 +36,7 @@ If you want to learn more about what went into the landing page (logo design, wo
 
 Writing is the earliest way that Giving Jar can help people discover charities and learn about the Giving Jar platform. The charity spotlights and progress reports are two such examples.
 
-All written content will be published to the [Giving Jar blog][8]. If the content is more technical in nature, the article will be published on the [Technical Rex blog][6] and a link will be provided on the Giving Jar blog.
+All written content will be published to the [Giving Jar blog][8]. If the content is more technical in nature, you'll find the details on the [Technical Rex blog][6]. Until Giving Jar gets its own development blog, those technical articles will just be linked to from here.
 
 If you prefer to get your news in one place, there are Atom feeds for both blogs.
 
@@ -72,7 +72,7 @@ Along the same vein as the open filing cabinet, all web content for Giving Jar i
 2. [Giving Jar Blog (made with Jekyll)][13]
 3. [Giving Jar Media Assets][14]
 
-Feel free to fork and use these resources, but please abide by the license assigned to each repository. If there is no license file, then the content of the repository should not be used without explicit permission from Giving Jar or Technical Rex.
+Feel free to fork and use these resources, but please abide by the license assigned to each repository. If there is no license file, then the content of the repository should not be used without explicit permission from Giving Jar.
 
 ## Failure {#failure}
 
@@ -122,7 +122,7 @@ Finally, thanks to everyone following Giving Jar:
 
 The first charity spotlight will be published next week! Giving Jar is on the lookout for charities to interview, too. If you know a charity that might be interested, [send an email][1], [tweet][3], or write on [Facebook][4].
 
-A meeting needs to be scheduled with Technical Rex's accountant. There are lots of financial considerations to be made for a startup as it rolls into the new year.
+A meeting needs to be scheduled with an accountant. There are lots of financial considerations to be made for a startup as it rolls into the new year.
 
 It doesn't sound like much, but with Christmas falling at the end of the next week, it'll be enough!
 
@@ -141,8 +141,8 @@ It doesn't sound like much, but with Christmas falling at the end of the next we
 [7]: #failure "Failure Section"
 [8]: http://blog.givingjar.org "Giving Jar Blog"
 [9]: https://github.com/givingjar/filing-cabinet "Giving Jar Filing Cabinet"
-[10]: https://github.com/givingjar/filing-cabinet/blob/master/files/blogging-guide.md "Giving Jar Blogging Guide"
-[11]: https://github.com/givingjar/filing-cabinet/blob/master/files/social-media-guide.md "Giving Jar Social Media Guide"
+[10]: https://github.com/givingjar/filing-cabinet/blob/master/files/guides/blogging-guide.md "Giving Jar Blogging Guide"
+[11]: https://github.com/givingjar/filing-cabinet/blob/master/files/guides/social-media-guide.md "Giving Jar Social Media Guide"
 [12]: https://github.com/givingjar/givingjar.org "Giving Jar Landing Page Code"
 [13]: https://github.com/givingjar/blog.givingjar.org "Giving Jar Blog Code"
 [14]: https://github.com/givingjar/media "Giving Jar Media Assets"

@@ -40,9 +40,7 @@ Version 1.0 of the progress report structure was also established. If you haven'
 
 #### What's in a Landing Page?
 
-[Technical Rex][8] is as much about giving to the software development community as Giving Jar is about helping charities.
-
-A long, technical [article][9] about what went into the Giving Jar landing page was written and published there. If you're making your own landing page you should read it thoroughly. There is a lot to think about!
+A long, technical [article][9] about what went into the Giving Jar landing page was written and published on the [Technical Rex][8] blog. If you're making your own landing page you should read it thoroughly. There is a lot to think about!
 
 ## Failure {#failure}
 

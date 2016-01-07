@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/technical-rex/blog.givingjar.org.git"
+    "url": "git+https://github.com/givingjar/blog.givingjar.org.git"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
