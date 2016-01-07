@@ -100,7 +100,7 @@ It doesn't sound like much, but with two days off for New Years, it's enough!
 [7]: http://www.buildingtwentyone.org/ "Building Twentyone Homepage"
 [8]: http://technicalrex.com "Technical Rex Homepage"
 [9]: http://technicalrex.com/whats-in-a-landing-page/ "What's in a Landing Page? on Technical Rex"
-[10]: https://github.com/technical-rex/givingjar-filing-cabinet/blob/master/files/interviews/2015-12-18-building-twentyone.md "Benjamin Schartow of Building Twentyone Interview"
+[10]: https://github.com/givingjar/filing-cabinet/blob/master/files/interviews/2015-12-18-building-twentyone.md "Benjamin Schartow of Building Twentyone Interview"
 [11]: https://twitter.com/Building21 "Building Twentyone on Twitter"
 [12]: https://www.facebook.com/buildingtwentyone "Building Twentyone on Facebook"
 [13]: https://twitter.com/MrIanKast "Ian Kast on Twitter"

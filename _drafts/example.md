@@ -10,7 +10,7 @@ snippet: >
 
 ## Content Goes Here
 
-See the [Giving Jar Blogging Strategy](https://github.com/technical-rex/givingjar-filing-cabinet/blob/master/files/blogging-strats.md)
+See the [Giving Jar Blogging Strategy](https://github.com/givingjar/filing-cabinet/blob/master/files/blogging-strats.md)
 for a style guide, scheduling, how to post, what to do after you post, etc.
 
 See the [Kramdown Syntax Guide](http://kramdown.gettalong.org/syntax.html) for how to use Kramdown/Markdown to create blog content.
