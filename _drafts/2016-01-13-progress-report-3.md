@@ -77,14 +77,14 @@ Finally, thanks to everyone following Giving Jar:
 
 ## Upcoming {#upcoming}
 
-The next charity spotlight will be published next week! As always, Giving Jar is looking for charities to interview. If you know a charity that might be interested, [send an email][5], [tweet][6], or write on the [Facebook][7] wall.
+Here's where the focus will be in the next two weeks at Giving Jar:
 
-More effort will be placed on contacting charities and building up a queue of spotlights.
+* The next charity spotlight will be published!
+* More effort will be placed on contacting charities and building up a queue of spotlights.
+* An attorney will be contacted so Giving Jar can be established as an LLC.
+* Hopefully there will be much more progress on automating deployments.
 
-An attorney will be contacted so Giving Jar can be established as an LLC.
-
-Hopefully there will be much more progress on automating deployments.
-
+As always, Giving Jar is looking for charities to interview. If you know a charity that might be interested, [send an email][5], [tweet][6], or write on the [Facebook][7] wall.
 
 
 [1]: #success "Success Section"
