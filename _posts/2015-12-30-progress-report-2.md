@@ -12,8 +12,6 @@ snippet: >
 
 Progress reports are Giving Jar's way of celebrating *[Success][1]*, reflecting on *[Failure][2]* (and what was learned from it), giving *[Thanks][3]*, and taking a peek at what's *[Up and Coming][4]*. Hopefully you will find these progress reports informative. If you have feedback to offer, [send it along][5]!
 
-Since this is the first progress report, it's not so much an update as it is a baseline from which all other progress reports can be measured. The next one will be much shorter!
-
 ## Success {#success}
 
 Here are the major wins in this progress report:
