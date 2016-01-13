@@ -31,7 +31,7 @@ Every other week, Giving Jar will interview a different charity and write about 
 
 #### Website Improvements
 
-Updating the Giving Jar websites is a very manual process right now. The goal is to full automate publishing progress reports, charity spotlights, and all other content. Small strides were made these past two weeks: the blog is now using Jekyll 3 instead of GitHub Pages and is being built with Grunt.
+Updating the Giving Jar websites is a very manual process right now. The goal is to fully automate publishing progress reports, charity spotlights, and all other content. Small strides were made these past two weeks: the blog is now using Jekyll 3 instead of GitHub Pages and is being built with Grunt.
 
 There were some superficial changes made as well. The logo now has a colored background, the landing page has a new social card that doesn't use the logo, and there's a link in the top right of the blog to all of the published charity spotlights.
 
