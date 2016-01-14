@@ -17,7 +17,7 @@ snippet: >
 
 In this charity spotlight I spoke with the President of Cuts and Convos, Jonathan Arias.
 
-![][4]
+![][7]
 
 ## Origin Story
 
@@ -31,11 +31,11 @@ Cuts and Convos wants to help people become gainfully employed by helping them l
 
 They are able to connect with so many people by working with other charitable organizations in the area such as [Homeless Angels][3] and [Haven House][4]. They also maintain a strong relationship with the City Rescue Mission of Lansing.
 
-![][6]
+![][5]
 
 ## Big Wins
 
-Cuts and Convos has won the [Soup Grant Lansing][] micro-grant twice and they recently introduced a free van service to help get interested persons to church, but for Jonathan the big wins are the personal stories.
+Cuts and Convos has won the [Soup Grant Lansing][8] micro-grant twice and they recently introduced a free van service to help get interested persons to church, but for Jonathan the big wins are the personal stories.
 
 One such story was about a man was in prison for 21 years and had just been released three days prior. His hair had not been cut in seven years and he was eager for a fresh start. Jonathan wasn't just cutting a man's hair that day, he was cutting his past away and helping him move forward with a new life.
 
@@ -45,7 +45,7 @@ Jonathan loves helping people make those kinds of transformations.
 
 For anyone who is running a nonprofit or is interested in starting a charity, Jonathan recommends focusing on your mission and goals. It's all about the good work you're doing. Love your work and word will get around.
 
-![][5]
+![][6]
 
 ## Goals
 
@@ -71,3 +71,7 @@ If you want to learn more about Cuts and Convos, you can reach them by clicking 
 [2]: http://lcrm.org/ "Lansing City Rescue Mission Homepage"
 [3]: http://www.homelessangels.org/ "Homeless Angels"
 [4]: http://www.havenhouseel.org/ "Haven House"
+[5]: /img/spotlight/cuts-and-convos/cuts-and-convos-before-after.jpg "Before and After Cut and Convo"
+[6]: /img/spotlight/cuts-and-convos/cuts-and-convos-hair-styling.jpg "Cuts and Convos Styles Hair"
+[7]: /img/spotlight/cuts-and-convos/cuts-and-convos-kids-too.jpg "Cuts and Convos Helps Kids Too"
+[8]: http://soupgrantlansing.com/ "Soup Grant Lansing Homepage"
