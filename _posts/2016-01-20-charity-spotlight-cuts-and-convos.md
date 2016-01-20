@@ -37,7 +37,7 @@ They are able to connect with so many people by working with other charitable or
 
 Cuts and Convos has won the [Soup Grant Lansing][8] micro-grant twice and they recently introduced a free van service to help get interested persons to church, but for Jonathan the big wins are the personal stories.
 
-One such story was about a man was in prison for 21 years and had just been released three days prior. His hair had not been cut in seven years and he was eager for a fresh start. Jonathan wasn't just cutting a man's hair that day, he was cutting his past away and helping him move forward with a new life.
+One such story was about a man who was in prison for 21 years and had just been released three days prior. His hair had not been cut in seven years and he was eager for a fresh start. Jonathan wasn't just cutting a man's hair that day, he was cutting his past away and helping him move forward with a new life.
 
 Jonathan loves helping people make those kinds of transformations.
 
