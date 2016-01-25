@@ -25,9 +25,9 @@ Here are the major wins in this progress report:
 
 There are almost always setbacks when working on a project of any size. Here are the lessons learned from the last round of setbacks:
 
-1. Scheduling blog posts is a headache!
-2. Local charity news gets more attention.
-3. Need to learn more about social media.
+1. Scheduling blog posts on a static site is a headache!
+2. Local charity news gets more attention than national news.
+3. Need to spend more time learning about marketing.
 
 ## Thanks {#thanks}
 
@@ -65,4 +65,4 @@ As always, Giving Jar is looking for charities to interview. If you know a chari
 [8]: http://blog.givingjar.org/charity-spotlight-cuts-and-convos/ "Charity Spotlight: Cuts and Convos"
 [9]: http://cutsandconvos.com "Cuts and Convos Homepage"
 [10]: http://www.creatingheroesstephensway.com/ "Creating Heroes Stephen's Way Homepage"
-[11]: http://www.helpingwomenperiod.org/home.html "Helping Women Period Homepage"
+[11]: http://www.helpingwomenperiod.org/ "Helping Women Period Homepage"
