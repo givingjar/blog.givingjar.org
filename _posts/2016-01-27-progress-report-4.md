@@ -6,11 +6,13 @@ permalink: /progress-report-4-improvements-in-interviewland/
 tags: [progress-report]
 snippet: >
     Two interviews were given and another one scheduled! Read about that and
-    other successes, lessons learned, who helped, and what's coming soon in the
+    other successes, lessons learned, who helped, and what's coming soon in this
     new progress report.
 ---
 
-Progress reports are Giving Jar's way of celebrating *[Success][1]*, reflecting on *[Failure][2]* (and what was learned from it), giving *[Thanks][3]*, and taking a peek at what's *[Up and Coming][4]*. Hopefully you will find these progress reports informative. All [feedback][5] is welcome!
+***Note:** Progress reports will be trimmed back for a while to assess the importance of the extra details in the original reports. If you want those details back, ask for them in an email or on social media.*
+
+Progress reports are Giving Jar's way of celebrating *[Success][1]*, reflecting on *[Failure][2]* (and what was learned from it), giving *[Thanks][3]*, and taking a peek at what's *[Up and Coming][4]*. Hopefully you will find these progress reports informative. As always, all [feedback][5] is welcome!
 
 ## Success {#success}
 
