@@ -6,10 +6,10 @@ permalink: /charity-spotlight-building-twentyone/
 tags: [spotlight]
 preview-image: /img/spotlight/building-twentyone/skate-park.jpg
 snippet: >
-    Building Twentyone helps teenagers develop positive habits and values by giving
-    them a safe, constructive place to drop in after school. They offer tutoring and
-    mentoring, a large space for safe party alternatives, workspaces for meeting and
-    learning, and the only indoor skate park within 75 miles of Lansing, Michigan.
+    Building Twentyone helps teenagers develop positive habits and values by
+    giving them a safe, constructive place to drop in after school. They offer
+    tutoring, safe party alternatives, and the only indoor skate park within 75
+    miles of Lansing, Michigan.
 ---
 
 [Building Twentyone][3] helps teenagers develop positive habits and values by giving them a safe, constructive place to drop in after school. They offer tutoring, a large space for safe party alternatives, workspaces for homework and projects, and the only indoor skate park within 75 miles of Lansing, Michigan.
