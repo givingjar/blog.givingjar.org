@@ -14,7 +14,7 @@ snippet: >
 
 [Creating Heroes Stephen's Way][1] is a comic book shop in Lansing, Michigan that provides kids with a safe place to play games, learn to read and draw from comics, and get mentoring from enthusiastic volunteers. All profits from their comic book sales are dedicated to helping children.
 
-In this charity spotlight I spoke with the Director of Creating Heroes Stephen's Way, Monica Jahner.
+In this charity spotlight, I spoke with the Director of Creating Heroes Stephen's Way, Monica Jahner.
 
 ## Origin Story
 
