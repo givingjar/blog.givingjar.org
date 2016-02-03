@@ -39,6 +39,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-surge');
   
   grunt.registerTask('default', ['jekyll:dist']);
-  grunt.registerTask('qa', ['jekyll:qa', 'surge:qa']);
+  grunt.registerTask('qa', ['jekyll:qa']);
   grunt.registerTask('test', ['jekyll:test']);
 };
