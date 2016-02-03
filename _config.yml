@@ -37,14 +37,14 @@ tag_meta:
     subtitle: Little updates every other week so you know how Giving Jar is coming along.
   spotlight:
     title: Charity Spotlights
-    subtitle: Interviews with unsung charities that are doing amazing good in the world, updated every other week.
+    subtitle: Interviews with unsung charities that are doing amazing good in the world. Updated every other week.
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Giving Jar
+  name: "Giving Jar, LLC"
   url: http://givingjar.org
   email: "hello@givingjar.org"
   facebook: givingjarorg
