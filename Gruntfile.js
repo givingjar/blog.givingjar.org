@@ -1,6 +1,7 @@
 module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
+    
     jekyll: {
       dist: {
         options: {
@@ -25,12 +26,19 @@ module.exports = function(grunt) {
           future: true
         }
       }
+    },
+    surge: {
+      qa: {
+        project: './_site.qa',
+        domain: 'givingjarblog.surge.sh'
+      }
     }
   });
   
   grunt.loadNpmTasks('grunt-jekyll');
+  grunt.loadNpmTasks('grunt-surge');
   
   grunt.registerTask('default', ['jekyll:dist']);
-  grunt.registerTask('qa', ['jekyll:qa']);
+  grunt.registerTask('qa', ['jekyll:qa', 'surge:qa']);
   grunt.registerTask('test', ['jekyll:test']);
 };
