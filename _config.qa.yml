@@ -1,11 +1,1 @@
 url: "http://givingjarblog.surge.sh"
-
-exclude:
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - package.json
-  - Gruntfile.js
-  - node_modules/*

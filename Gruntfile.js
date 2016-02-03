@@ -29,8 +29,10 @@ module.exports = function(grunt) {
     },
     surge: {
       qa: {
-        project: './_site.qa',
-        domain: 'givingjarblog.surge.sh'
+        options: {
+          project: '_site.qa/',
+          domain: 'givingjarblog.surge.sh'
+        }
       }
     }
   });
@@ -39,6 +41,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-surge');
   
   grunt.registerTask('default', ['jekyll:dist']);
-  grunt.registerTask('qa', ['jekyll:qa']);
+  grunt.registerTask('qa', ['jekyll:qa', 'surge:qa']);
   grunt.registerTask('test', ['jekyll:test']);
 };
