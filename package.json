@@ -11,7 +11,14 @@
     "url": "git+https://github.com/givingjar/blog.givingjar.org.git"
   },
   "devDependencies": {
+    "git-scripts": "^0.2.1",
     "grunt": "~0.4.5",
-    "grunt-jekyll": "^0.4.3"
+    "grunt-jekyll": "^0.4.3",
+    "surge": "latest"
+  },
+  "git": {
+    "scripts": {
+      "pre-commit": "jekyll build --future --config _config.yml,_config.qa.yml --destination _site.qa"
+    }
   }
 }
