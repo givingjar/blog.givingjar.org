@@ -9,6 +9,15 @@ module.exports = function(grunt) {
           future: false
         }
       },
+      qa: {
+        options: {
+          serve: false,
+          drafts: false,
+          future: true,
+          dest: './_site.qa',
+          config: '_config.yml,_config.qa.yml'
+        }
+      },
       test: {
         options: {
           serve: true,
@@ -22,5 +31,6 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-jekyll');
   
   grunt.registerTask('default', ['jekyll:dist']);
+  grunt.registerTask('qa', ['jekyll:qa']);
   grunt.registerTask('test', ['jekyll:test']);
 };

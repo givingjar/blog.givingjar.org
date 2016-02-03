@@ -18,7 +18,7 @@
   },
   "git": {
     "scripts": {
-      "pre-commit": "jekyll build --future --config _config.yml,_config.qa.yml --destination _site.qa"
+      "pre-commit": "grunt qa"
     }
   }
 }
