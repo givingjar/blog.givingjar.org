@@ -18,7 +18,7 @@
   },
   "git": {
     "scripts": {
-      "pre-commit": "grunt qa"
+      "pre-push": "grunt qa"
     }
   }
 }
