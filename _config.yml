@@ -96,4 +96,4 @@ exclude:
   - README.md
   - package.json
   - Gruntfile.js
-  - node_modules/*
+  - node_modules
