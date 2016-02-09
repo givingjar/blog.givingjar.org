@@ -16,22 +16,21 @@ Progress reports are Giving Jar's way of celebrating *[Success][1]*, reflecting 
 
 Here are the major wins in this progress report:
 
-1. [Creating Heroes Stephen's Way][8] was spotlighted.
+1. Spotlighted [Creating Heroes Stephen's Way][8].
 2. Giving Jar is officially an LLC!
 3. Wrote next spotlight.
-4. Created a test site where all blog changes are automatically published.
+4. Blog changes are automatically published to a test site.
 
 ## Failure {#failure}
 
 There are almost always setbacks when working on a project of any size. Here are the lessons learned from the last round of setbacks:
 
 1. *Send* and *Save Draft* do not mean the same thing. 
-2. Scheduling one blog post is tough.
-3. Scheduling more than one is tougher.
+2. Scheduling static content changes is tough with zero infrastructure in place.
 
 ## Thanks {#thanks}
 
-Thanks to everyone suggesting charities to spotlight!
+Thanks to everyone recommending charities to spotlight!
 
 Thank you to all of the new friends on social media!
 
