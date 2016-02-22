@@ -16,7 +16,7 @@ Progress reports are Giving Jar's way of celebrating *[Success][1]*, reflecting 
 Here are the major wins in this progress report:
 
 1. Spotlighted [Helping Women Period][8].
-2. Interviewed [Firecracker Foundation][9]
+2. Interviewed [Firecracker Foundation][9].
 3. Wrote next spotlight.
 4. Provided local tech support for GitHub's Jekyll 3 migration.
 
@@ -43,7 +43,7 @@ Here's where the focus will be in the next two weeks at Giving Jar:
 
 * Spotlight [Firecracker Foundation][9].
 * Interview [Happendance][10].
-* Schedule articles on VM.
+* Schedule articles on a VM.
 * Reprioritize.
 
 As always, Giving Jar is looking for charities to interview. If you know a charity that might be interested, [send an email][5], [tweet][6], or write on the [Facebook][7] wall.
