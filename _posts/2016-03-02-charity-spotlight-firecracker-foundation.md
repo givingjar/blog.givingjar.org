@@ -4,7 +4,7 @@ title: "Charity Spotlight: The Firecracker Foundation"
 subtitle: "Helping survivors of child sexual assault heal their whole being."
 permalink: /charity-spotlight-firecracker-foundation/
 tags: [spotlight]
-preview-image: /img/spotlight/firecracker-foundation/amy-and-lysne.jpg
+preview-image: /img/spotlight/firecracker-foundation/firecracker-foundation-sparklers.jpg
 snippet: >
     The Firecracker Foundation helps children who have survived sexual trauma by
     providing professional therapy and trauma-sensitive yoga. With this support
@@ -40,7 +40,7 @@ Firecracker also raises awareness of sexual trauma and honors survivors through 
 
 ## Big Wins
 
-The Firecracker Foundation was awarded a three year, $75,000 annual grant. Combined with donations and a larger office in REO Town, this will allow even more children and families to receive the support and care they need.
+The Firecracker Foundation was awarded a three-year, $75,000 annual grant. Combined with donations and a larger office in REO Town, this will allow even more children and families to receive the support and care they need.
 
 ## To Nonprofits
 
@@ -66,7 +66,7 @@ Charities want to leverage the strengths of their volunteers to make sure everyt
 
 ## Get Involved
 
-If you want to learn more about [Firecracker Foundation][1], you can reach them by clicking one of the buttons below.
+If you want to learn more about the [Firecracker Foundation][1], you can reach them by clicking one of the buttons below.
 
 {% include web-links.html home="http://thefirecrackerfoundation.org/" twitter="firecrackerfdn" facebook="TheFirecrackerFoundation" instagram="thefirecrackerfoundation" %}
 
