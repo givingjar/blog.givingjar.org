@@ -65,6 +65,6 @@ module.exports = function(grunt) {
   
   grunt.registerTask('default', ['jekyll:dist']);
   grunt.registerTask('qa', ['jekyll:qa', 'surge:qa']);
-  grunt.registerTask('prod', ['gitfetch:latest', 'gitreset:latest', 'jekyll:dist']);
+  grunt.registerTask('prod', ['gitfetch:latest', 'gitreset:latest', 'jekyll:dist', 'surge:prod']);
   grunt.registerTask('test', ['jekyll:test']);
 };
