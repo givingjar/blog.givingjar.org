@@ -11,5 +11,9 @@ if [ "$#" -ne 2 ]; then
 fi
 
 . ~/.bash_profile
+
+. ~/.nvm/nvm.sh
+nvm use default
+
 cd $2
 grunt $1
