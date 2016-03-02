@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 exit_usage()
 {
@@ -10,6 +10,6 @@ if [ "$#" -ne 2 ]; then
   exit_usage
 fi
 
-. ~/.profile
+. ~/.bash_profile
 cd $2
 grunt $1
