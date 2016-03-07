@@ -17,8 +17,8 @@ Progress reports are Giving Jar's way of celebrating *[Success][1]*, reflecting 
 Here are the major wins in this progress report:
 
 1. Spotlights automatically appear on the day they are scheduled!
-1. Spotlighted [Firecracker Foundation][8].
-2. Interviewed [Happendance][9].
+2. Spotlighted [Firecracker Foundation][8].
+3. Interviewed [Happendance][9].
 4. Created VM where code can be hosted.
 
 ## Failure {#failure}
@@ -30,9 +30,9 @@ There are almost always setbacks when working on a project of any size. Here are
 
 ## Thanks {#thanks}
 
-Thanks to Missy for inviting me to the Lansing Rotary, introducing me to new charities, and sharing the Happendance story with me!
+Thanks to Missy for introducing me to new charities and sharing the Happendance story!
 
-Much appreciation goes to the Surge.sh and Jekyll communities for helping identify issues found in that third party software.
+Much appreciation goes to the Surge.sh and Jekyll communities for helping confirms issues in their software.
 
 Thank you to all of the new friends on social media:
 
