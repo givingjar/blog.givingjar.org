@@ -4,7 +4,7 @@ title: "Charity Spotlight: Happendance"
 subtitle: "Promoting lifelong physical and mental well-being through dance education and performances."
 permalink: /charity-spotlight-happendance/
 tags: [spotlight]
-preview-image: /img/spotlight/happendance/firecracker-foundation-sparklers.jpg
+preview-image: /img/spotlight/happendance/happendance-color-lineup.jpg
 snippet: >
     Happendance makes the art of dance accessible to people of all ages and
     backgrounds through a variety of educational programs, indoor and outdoor
