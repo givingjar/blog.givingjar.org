@@ -42,7 +42,7 @@ Happendance managed to grow through the recession and saw one of their biggest y
 
 Through a fortuitous series of events that included a partnership with Sparrow Hospital and the addition of Heather Vaughn-Southard to their team, Happendance has also been able to grow their dance therapy practice.
 
-## Nonprofits
+## To Nonprofits
 
 "In business and sales, the biggest mistake is thinking you know what your constituents want." Making a wrong assumption is a mistake, but it's also easy to avoid. Missy suggests talking to your audience, customers, volunteers, students, or anyone else you are working with and learn instead of guessing.
 
@@ -54,7 +54,7 @@ If you work at something you care deeply about, you will be rewarded in kind. In
 
 Missy would love to see Happendance become an institution that shows how a professional dance company can be both world class and profitable -- this is not typically the case. This all begins with getting dancers to mingle with new audiences. In order to grow dance as an art form, the stigma of dance must be removed. And that's exactly what Missy wants, more art in everyone's life.
 
-## Volunteers
+## To Volunteers
 
 There are so many ways that you can get involved with a charity, all you need to do is reach out. You can be an audience member, an advocate, a cheerleader, or a board member even. Every little bit helps, and the perks can be pretty nice too!
 
