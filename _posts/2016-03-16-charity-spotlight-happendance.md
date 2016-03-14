@@ -72,6 +72,6 @@ If you want to learn more about [Happendance][1], you can reach them by clicking
 [2]: https://www.facebook.com/Happendance "Firecracker Foundation on Facebook"
 [3]: http://www.sparrow.org/ "Sparrow Hospital Homepage"
 [4]: https://www.msu.edu/~dancemsu/DanceMSU/Orchesis.html "Orchesis MSU Homepage"
-[5]: /img/spotlight/happendance/happendance-color-lineup.jpg "A Colorful Cast of Smiles at Happendance"
-[6]: /img/spotlight/happendance/happendance-all-ages.jpg "All Ages are Welcome at Happendance!"
-[7]: /img/spotlight/happendance/happendance-outdoor.jpg "Happendance is Everywhere"
+[5]: /img/spotlight/happendance/happendance-color-lineup.jpg
+[6]: /img/spotlight/happendance/happendance-all-ages.jpg
+[7]: /img/spotlight/happendance/happendance-outdoor.jpg
