@@ -18,7 +18,7 @@ In this charity spotlight, I spoke with the Executive Director of Happendance, M
 
 ## Origin Story
 
-In the 1970's, many dance mentors found themselves traveling to New York for work and return home to continue their studies. Diane Newman, a mentor for [Orchesis at Michigan State University][4], was no exception, but she found it increasingly difficult to travel.
+In the 1970s, many dance mentors found themselves traveling to New York for work and return home to continue their studies. Diane Newman, a mentor for [Orchesis at Michigan State University][4], was no exception, but she found it increasingly difficult to travel.
 
 On June 12, 1976, Diane decided to remain in Lansing and host outdoor dance concerts that would be free to anyone who happened upon them. These "Happenings" introduced contemporary dance to a much more diverse audience, and they wowed attendees for over ten years. They also formed the inspiration for Happendance's name.
 
@@ -32,7 +32,7 @@ The services that Happendance offers are almost too numerous to count. Over 75 d
 
 *Happendance Heals* works in conjunction with [Sparrow Hospital][3] to offer therapeutic dance to children and families. *DANCE Lansing* is a community project that aims to build and enrich a diverse dance community. One such program is *Everybody Dance Now*, which has people of all levels of experience, including beginners and people with disabilities, dancing together.
 
-Happendance also has several community, student, and professional dance companies that put on a wide variety of performances.
+Happendance also has community, student, and professional dance companies that put on a wide variety of performances.
 
 ![][6]
 
@@ -69,7 +69,7 @@ If you want to learn more about [Happendance][1], you can reach them by clicking
 
 
 [1]: http://happendance.org/ "Happendance Homepage"
-[2]: https://www.facebook.com/Happendance "Firecracker Foundation on Facebook"
+[2]: https://www.facebook.com/Happendance "Happendance on Facebook"
 [3]: http://www.sparrow.org/ "Sparrow Hospital Homepage"
 [4]: https://www.msu.edu/~dancemsu/DanceMSU/Orchesis.html "Orchesis MSU Homepage"
 [5]: /img/spotlight/happendance/happendance-color-lineup.jpg
