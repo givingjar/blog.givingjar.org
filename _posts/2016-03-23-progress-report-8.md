@@ -31,7 +31,7 @@ Setbacks are bound to happen no matter the size of the project. Here are the les
 
 ## Thanks {#thanks}
 
-[LEAP][11] put on an amazing and affordable Branding and Marketing Bootcamp.
+[LEAP][11] organized an amazing and affordable Branding and Marketing Bootcamp.
 
 Thank you to all of the new friends on social media:
 
