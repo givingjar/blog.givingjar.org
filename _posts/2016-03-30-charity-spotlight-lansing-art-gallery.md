@@ -4,7 +4,7 @@ title: "Charity Spotlight: Lansing Art Gallery"
 subtitle: "Expanding love of the visual arts through public exhibits and education."
 permalink: /charity-spotlight-lansing-art-gallery/
 tags: [spotlight]
-preview-image: /img/spotlight/lansing-art-gallery/lansing-art-gallery-.jpg
+preview-image: /img/spotlight/lansing-art-gallery/lansing-art-gallery-education.jpg
 snippet: >
     The Lansing Art Gallery expands appreciation for the visual arts by
     providing a permanent location for art exhibits and educational programs
