@@ -38,7 +38,7 @@ The Lansing Art Gallery also has a [gallery shop][13] where visitors can buy or 
 
 ## Big Wins
 
-In 2015, the Lansing Art Gallery celebrated its 50th anniversary. Hitting this milestone was huge, as the gallery saw increased engagement in every program that they offer. Membership also more than doubled over the past year and a half.
+In 2015, the Lansing Art Gallery celebrated its 50th anniversary. Hitting this milestone was huge, and the gallery saw increased engagement in every program that they offer. Membership also more than doubled over the past year and a half.
 
 ## For Nonprofits
 
