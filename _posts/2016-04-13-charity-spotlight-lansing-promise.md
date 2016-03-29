@@ -1,30 +1,39 @@
 ---
 layout: post
 title: "Charity Spotlight: Lansing Promise"
-subtitle: "Encouraging students to complete high school and pursue post-secondary education."
+subtitle: "Encouraging students to graduate high school and pursue post-secondary education."
 permalink: /charity-spotlight-lansing-promise/
 tags: [spotlight]
 preview-image: /img/spotlight/lansing-promise/lansing-promise-.jpg
 snippet: >
-    The Lansing Art Gallery expands appreciation for the visual arts by
-    providing a permanent location for art exhibits and educational programs
-    that are open to the public. The gallery also promotes Michigan artists and
-    craftspeople by providing a place where their works can be purchased.
+    The Lansing Promise provides higher education scholarships to the children
+    of Lansing. These scholarships inspire kids to graduate, attend college, and
+    develop the skills and confidence they need to succeed. The Lansing Promise
+    firmly believes that when the children of a community succeed, the community
+    will flourish.
 ---
 
-The [Lansing Promise][1] expands appreciation for the visual arts by providing a permanent location for art exhibits and educational programs that are open to the public. The gallery also promotes Michigan artists and craftspeople by providing a place where their works can be purchased.
+The [Lansing Promise][1] provides higher education scholarships to the children of Lansing. These scholarships inspire kids to graduate, attend college, and develop the skills and confidence they need to succeed. The Lansing Promise firmly believes that when the children of a community succeed, the community will flourish.
 
 In this charity spotlight, I spoke with the Executive Director of the Lansing Promise, Justin Sheehan.
 
 ## Origin Story
 
+In 2009, ten districts in Michigan with a higher-than-average number of children living below the federal poverty level were identified. The State of Michigan sought to improve the quality of life for children in these districts by providing higher education opportunities at little or no cost. These opportunities would encourage children to graduate from high school and pursue careers that would have a lasting, positive impact on themselves, their family, and their community.
 
+Legislation was introduced to transform these districts into Promise Zones and offer scholarships to students who completed their high school education within those zones.
+
+The Lansing School District was one such district, and the Lansing Promise was established to help its children.
 
 ![][19]
 
 ## Today
 
-The Lansing Promise has two similar scholarship opportunities for students.
+Any student who lives in a Lansing School District and completes their 9th through 12th grade education at a public or private Lansing High School may [apply][6] for the Lansing Promise scholarship online after they have completed their [FAFSA][7]. The scholarship covers up to 65 credits at [Lansing Community College][5] or the financial equivalent at [Michigan State University][4].
+
+The Lansing Promise is also a strong advocate of the separately-managed [Lansing SAVE][9] (an educational savings program) and the [HOPE Scholarship][8]. These three programs provide financial options for children of all grades, kindergarten through 12th.
+
+If a student needs more than financial support, the Lansing Promise will engage other organizations in Lansing that can provide help. These organizations work together to improve the lives of children by offering academic assistance, social and emotional support, school counseling, career advice, and other basic needs.
 
 ![][16]
 
@@ -65,3 +74,9 @@ If you want to learn more about the [Lansing Promise][1], you can reach them by 
 [1]: http://www.lansingpromise.org/ "Lansing Promise Homepage"
 [2]: https://www.facebook.com/LansingPromise "Lansing Promise on Facebook"
 [3]: http://www.guidestar.org/ "GuideStar Homepage"
+[4]: https://msu.edu/ "Michigan State University Homepage"
+[5]: http://lcc.edu/ "Lansing Community College Homepage"
+[6]: http://www.lansingpromise.org/lansing-promise-online-application/ "Apply for the Lansing Promise Scholarship Online"
+[7]: https://fafsa.ed.gov/ "Free Application for Federal Student Aid (FAFSA)"
+[8]: http://www.lansingmi.gov/hope "Lansing 'Helping Other People Excel' (HOPE) Scholarship"
+[9]: http://www.lansingmi.gov/LansingSAVE "Lansing 'Student Accounts Valuing Education' (SAVE) Program"
