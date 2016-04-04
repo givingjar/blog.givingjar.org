@@ -25,17 +25,17 @@ Legislation was introduced to transform these districts into Promise Zones and o
 
 The Lansing School District was one such district, and the Lansing Promise was established to help its children.
 
-![][19]
+![][12]
 
 ## Today
 
-Any student who lives in a Lansing School District and completes their 9th through 12th grade education at a public or private Lansing High School may [apply][6] for the Lansing Promise scholarship online after they have completed their [FAFSA][7]. The scholarship covers up to 65 credits at [Lansing Community College][5] or the financial equivalent at [Michigan State University][4].
+Any student who lives in a Lansing School District and completes their 9th- through 12th-grade education at a public or private Lansing High School may [apply][6] for the Lansing Promise scholarship online after they have completed their [FAFSA][7]. The scholarship covers up to 65 credits at [Lansing Community College][5] or the financial equivalent at [Michigan State University][4].
 
 The Lansing Promise is also a strong advocate of the separately-managed [Lansing SAVE][9] (an educational savings program) and the [HOPE Scholarship][8]. These three programs provide financial options for children of all grades, kindergarten through 12th.
 
 If a student needs more than financial support, the Lansing Promise will engage other organizations in Lansing that can provide help. These organizations work together to improve the lives of children by offering academic assistance, social and emotional support, school counseling, career advice, and other basic needs.
 
-![][16]
+![][11]
 
 ## Big Wins
 
@@ -47,7 +47,7 @@ Beyond the numbers, there have also been several important partnerships establis
 
 The Lansing Promise hopes to increase college and career attainment for *every* person in Lansing. More broadly, Justin wants to help kids succeed by giving them the hope and confidence they need to grow. In order to achieve these goals, students and their parents need to know the Lansing Promise exists and it needs to be approachable.
 
-![][17]
+![][10]
 
 ## For Nonprofits
 
@@ -59,15 +59,13 @@ Part of your research should also include comparing what you want to do with oth
 
 Research is important when you want to volunteer your time or donate. Even if it's a simple charity search on [GuideStar][3], make sure you have a basic understanding of an organization and do a gut check before you commit yourself or your money to them.
 
-![][18]
-
 ## Get Involved
 
 If you want to learn more about the [Lansing Promise][1], you can reach them by clicking one of the buttons below.
 
 {% include web-links.html home="http://www.lansingpromise.org/" twitter="LansingPromise" facebook="LansingPromise" %}
 
-###### Photographs courtesy of the [Lansing Promise][1].
+###### Photographs courtesy of [Lansing Promise][1] and [Lansing State Journal][13].
 
 
 
@@ -80,3 +78,7 @@ If you want to learn more about the [Lansing Promise][1], you can reach them by 
 [7]: https://fafsa.ed.gov/ "Free Application for Federal Student Aid (FAFSA)"
 [8]: http://www.lansingmi.gov/hope "Lansing 'Helping Other People Excel' (HOPE) Scholarship"
 [9]: http://www.lansingmi.gov/LansingSAVE "Lansing 'Student Accounts Valuing Education' (SAVE) Program"
+[10]: /img/spotlight/lansing-promise/lansing-promise-fundraiser.jpg "Lansing Promise Fundraiser"
+[11]: /img/spotlight/lansing-promise/lansing-promise-students.jpg "Lansing Promise Students"
+[12]: /img/spotlight/lansing-promise/lansing-promise-graduation.jpg "Lansing Promise Graduation"
+[13]: http://www.lansingstatejournal.com/story/opinion/editorials/2015/04/24/editorial-fulfilling-lansing-promise/26327277/ "Lansing State Journal"
