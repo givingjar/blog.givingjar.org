@@ -4,6 +4,7 @@ title: Getting Ahead on Spotlights
 subtitle: "Progress Report #3"
 permalink: /progress-report-3-getting-ahead-on-spotlights/
 tags: [progress-report]
+preview-image: /img/cards/coming-soon.jpg
 snippet: >
     Good first steps were made to get ahead on the charity spotlights, but as always, there's
     still a lot of work to be done! Read about that and other successes, lessons learned, who

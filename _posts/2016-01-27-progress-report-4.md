@@ -4,6 +4,7 @@ title: Improvements in Interviewland
 subtitle: "Progress Report #4"
 permalink: /progress-report-4-improvements-in-interviewland/
 tags: [progress-report]
+preview-image: /img/cards/coming-soon.jpg
 snippet: >
     Two interviews were given and another one scheduled! Read about that and
     other successes, lessons learned, who helped, and what's coming soon in this

@@ -4,6 +4,7 @@ title: The Landing Page is Live!
 subtitle: "Progress Report #1"
 permalink: /progress-report-1-landing-page-is-live/
 tags: [progress-report]
+preview-image: /img/cards/coming-soon.jpg
 snippet: >
     The Giving Jar landing page is live, and that's only one of the six features that were rolled out. Read the first
     progress report to learn about those features, the road bumps encountered, who helped, and what's coming next.

@@ -4,6 +4,7 @@ title: "Wanted: Priority"
 subtitle: "Progress Report #6"
 permalink: /progress-report-6-wanted-priority/
 tags: [progress-report]
+preview-image: /img/cards/coming-soon.jpg
 snippet: >
     Being a busy bee is not always a good thing! Read about that and other successes,
     lessons learned, who helped, and what's coming soon in this new progress report.
