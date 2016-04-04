@@ -57,6 +57,7 @@
     <link rel="image_src" href="{{ '/img/giving-jar-icon-196.png' | prepend: site.baseurl | prepend: site.url }}" />
     {% endif %}
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ page.preview-image | prepend: site.baseurl | prepend: site.url }}" />
     <meta name="twitter:site" content="@{{ site.author.twitter }}" />
     <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
     <meta name="twitter:title" content="{{ title | strip | strip_newlines | truncate: 70 }}" />
