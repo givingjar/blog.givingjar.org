@@ -7,7 +7,7 @@ tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
 snippet: >
     Giving Jar is rose-tinted from all of the compliments received recently.
-    Thank you for sharing the love, it's uplifting and very motivational! Read
+    Thank you for sharing the love, it's uplifting and very motivating! Read
     about that and other successes, lessons learned, who helped, and what's
     coming soon in this new progress report.
 ---
