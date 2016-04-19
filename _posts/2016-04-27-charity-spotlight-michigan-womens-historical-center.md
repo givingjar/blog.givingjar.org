@@ -24,7 +24,7 @@ The association's mission was not limited to the classroom, though. In 1983, the
 
 Four years later, on the anniversary of women's suffrage in Michigan, MWSA continued their public outreach and reopened the Cooley-Haze House as the Michigan Women's Historical Center and Hall of Fame. The center would serve as the home of the Hall of Fame and a museum dedicated to women's history in Michigan.
 
-![][4]
+![][6]
 
 ## Today
 
@@ -34,7 +34,7 @@ The Michigan Women's Historical Center and Hall of Fame is surrounded by the bea
 
 The center also maintains the *Women's History Trail*. The trail consists of several significant locations across the state of Michigan where visitors can learn about distinguished Michigan women and their role in Michigan's history.
 
-![][5]
+![][4]
 
 ## Big Wins
 
@@ -48,7 +48,7 @@ Emily says that the Michigan Women's Historical Center is in a period of transit
 
 The historical center is also committed to representing women across the whole state of Michigan and is looking at expanding their coverage in areas such as Michigan's upper peninsula.
 
-![][6]
+![][5]
 
 ## For Nonprofits
 
@@ -71,3 +71,6 @@ If you want to learn more about the [Michigan Women's Historical Center][1], you
 [1]: http://www.michiganwomen.org/ "Michigan Women's Historical Center Homepage"
 [2]: https://www.facebook.com/michiganwomen/ "Michigan Women's Historical Center on Facebook"
 [3]: http://www.michiganwomen.org/hall_of_fame.aspx "Michigan Women's Hall of Fame"
+[4]: /img/spotlight/michigan-womens-historical-center/michigan-womens-historical-center.jpg "View of the Michigan Women's Historical Center"
+[5]: /img/spotlight/michigan-womens-historical-center/michigan-womens-historical-center-2015-honorees.jpg "Michigan Women's Hall of Fame 2015 Honorees and Supporters"
+[6]: /img/spotlight/michigan-womens-historical-center/michigan-womens-hall-of-fame.jpg "Michigan Women's Hall of Fame Gallery"
