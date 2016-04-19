@@ -52,11 +52,11 @@ The historical center is also committed to representing women across the whole s
 
 ## For Nonprofits
 
-If you want to start a nonprofit, look to fill a specific niche in a cause you care about. Make sure to talk to others who are doing similar things, too. Networking is a great way to learn and it provides a support group for helping each other succeed.
+If you want to start a nonprofit, Emily suggests filling a specific niche in a cause you care about. Make sure to talk to others who are doing similar things, too. Networking is a great way to learn and it provides a support group for helping each other succeed.
 
 ## For Volunteers
 
-Charities want to make the most effective use of volunteers as possible. If there's a unique skill that you bring to the table, make sure to mention it. It doesn't even have to relate to the charity's cause. If you are good at social media and notice that a charity doesn't post frequently, ask to do it for them. You can open new doors for charities.
+Charities want to make the most effective use of volunteers as possible. If there's a unique skill that you bring to the table, make sure to mention it. It doesn't even have to relate to the charity's cause. Emily uses social media as an example. It's an important function for charities these days, so if you find a charity that doesn't post regularly, offer to do it for them! Your help can open new doors for charities.
 
 ## Get Involved
 
