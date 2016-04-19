@@ -4,7 +4,7 @@ title: "Charity Spotlight: Michigan Women's Historical Center and Hall of Fame"
 subtitle: "Supporting the equality of women by sharing their achievements in Michigan's history."
 permalink: /charity-spotlight-michigan-womens-historical-center/
 tags: [spotlight]
-preview-image: /img/spotlight/michigan-womens-historical-center/
+preview-image: /img/spotlight/michigan-womens-historical-center/michigan-womens-historical-center-2015-honorees.jpg
 snippet: >
     The Michigan Women's Historical Center and Hall of Fame celebrates Michigan
     women in history, honors the magnitude of their impact, and educates the
