@@ -9,11 +9,10 @@ snippet: >
     The Michigan Women's Historical Center and Hall of Fame celebrates Michigan
     women in history, honors the magnitude of their impact, and educates the
     public about their accomplishments. The center does this by sharing the
-    stories of remarkable women in Michigan's history and inspiring new ways to
-    think and teach about women.
+    stories of remarkable women in Michigan's history.
 ---
 
-The [Michigan Women's Historical Center and Hall of Fame][1] celebrates Michigan women in history, honors the magnitude of their impact, and educates the public about their accomplishments. The center does this by sharing the stories of remarkable women in Michigan's history and inspiring new ways to think and teach about women.
+The [Michigan Women's Historical Center and Hall of Fame][1] celebrates Michigan women in history, honors the magnitude of their impact, and educates the public about their accomplishments. The center does this by sharing the stories of remarkable women in Michigan's history.
 
 In this charity spotlight, I spoke with the Executive Director of the Michigan Women's Historical Center, Emily Fijol.
 
