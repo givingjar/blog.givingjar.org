@@ -60,7 +60,7 @@ Charities want to make the most effective use of volunteers as possible. If ther
 
 ## Get Involved
 
-If you want to learn more about the [Michigan Women's Historical Center][1], you can reach them by clicking one of the buttons below.
+If you want to learn more about the [Michigan Women's Historical Center and Hall of Fame][1], you can reach them by clicking one of the buttons below.
 
 {% include web-links.html home="http://www.michiganwomen.org/" twitter="MWHoF" facebook="michiganwomen" %}
 
