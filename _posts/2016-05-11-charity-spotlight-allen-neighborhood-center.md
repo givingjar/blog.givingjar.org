@@ -4,7 +4,7 @@ title: "Charity Spotlight: Allen Neighborhood Center"
 subtitle: "Strengthening Lansing's Eastside through accessible food, health, and housing programs."
 permalink: /charity-spotlight-allen-neighborhood-center/
 tags: [spotlight]
-preview-image: /img/spotlight/allen-neighborhood-center/allen-neighborhood-center.jpg
+preview-image: /img/spotlight/allen-neighborhood-center/anc-marketplace.jpg
 snippet: >
     Allen Neighborhood Center is rejuvenating Lansing's Eastside by identifying
     pain points within the community and introducing programs to address their
@@ -26,7 +26,7 @@ Sparrow hired Joan to help implement the plan. A community policing trial began 
 
 After three years of great results, Allen Neighborhood Center was ready for its debut.
 
-![][6]
+![][11]
 
 ## Today
 
@@ -40,7 +40,7 @@ Some of the center's [health programs][6] include a market walk, a Breast Health
 
 A complete list of Allen Neighborhood Center's programs is available on their [website][1].
 
-![][4]
+![][8]
 
 ## For Nonprofits
 
@@ -54,7 +54,7 @@ The following year, they became the first nonprofit market to accept food stamps
 
 According to Joan, successfully growing and sustaining a wide variety of programs is one of the center's greatest accomplishments.
 
-![][5]
+![][9]
 
 ## Goals
 
@@ -65,6 +65,8 @@ Individual programs have opportunities to offer more as well. For example, acces
 ## For Volunteers and Donors
 
 Whether you choose to donate your time or your money to a charity, think of your donation as an investment. The help you provide will be amplified by the number of lives you touch and the energy you invested will come back to you.
+
+![][10]
 
 ## Get Involved
 
@@ -77,9 +79,13 @@ If you want to learn more about [Allen Neighborhood Center][1], you can reach th
 
 
 [1]: http://allenneighborhoodcenter.org/ "Allen Neighborhood Center Homepage"
-[2]: https://www.instagram.com/allenneighborhoodcenter/ "Allen Neighborhood Center on Instagram"
+[2]: https://www.facebook.com/AllenNeighborhoodCenter/ "Allen Neighborhood Center on Facebook"
 [3]: http://www.sparrow.org/ "Sparrow Health System Homepage"
 [4]: http://www.allenmarketplace.org/ "Allen Market Place"
 [5]: http://allenneighborhoodcenter.org/gardenhouse/ "Hunter Park GardenHouse"
 [6]: http://allenneighborhoodcenter.org/health/ "Allen Neighborhood Center Health Resources"
 [7]: http://allenneighborhoodcenter.org/housing/eastside/ "Allen Neighborhood Center Housing Resources"
+[8]: /img/spotlight/allen-neighborhood-center/anc-gardenhouse.jpg "Allen Neighborhood Center GardenHouse"
+[9]: /img/spotlight/allen-neighborhood-center/anc-youth-workshop.jpg "Allen Neighborhood Center Youth Workshop"
+[10]: /img/spotlight/allen-neighborhood-center/anc-construction.jpg "Allen Neighborhood Center Construction"
+[11]: /img/spotlight/allen-neighborhood-center/anc-marketplace.jpg "Allen Neighborhood Center Market Place"
