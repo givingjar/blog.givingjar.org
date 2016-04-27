@@ -18,7 +18,13 @@ In this charity spotlight, I spoke with the Director of Allen Neighborhood Cente
 
 ## Origin Story
 
+The Allen Neighborhood Center was established in 1999. By the end of the year, they had space and the meager funds needed to begin rolling out programs to help the surrounding community. This was an important year for the center, but its roots go back even further.
 
+In 1996, the [Sparrow Health System][3] wanted to bolster the neighborhood surrounding them. The desire was to make a great community by improving the overall health and quality of life of people close by. A summit was held, a plan was made, and more than 500 people volunteered!
+
+Sparrow hired Joan to help implement the plan. A community policing trial began and neighbor-friendly access to health and housing information was provided. Meanwhile, summits were held in surrounding communities, support grew, and legislation was introduced to encourage collaboration across public services.
+
+After three years of great results, the Allen Neighborhood Center was ready for its debut.
 
 ![][6]
 
@@ -64,3 +70,4 @@ If you want to learn more about [Allen Neighborhood Center][1], you can reach th
 
 [1]: http://allenneighborhoodcenter.org/ "Allen Neighborhood Center Homepage"
 [2]: https://www.instagram.com/allenneighborhoodcenter/ "Allen Neighborhood Center on Instagram"
+[3]: http://www.sparrow.org/ "Sparrow Health System Homepage"
