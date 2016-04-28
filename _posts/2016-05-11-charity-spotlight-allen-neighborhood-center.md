@@ -18,11 +18,11 @@ In this charity spotlight, I spoke with the Director of Allen Neighborhood Cente
 
 ## Origin Story
 
-Allen Neighborhood Center was established in 1999. By the end of the year, they had space and the meager funds needed to begin rolling out programs to help the surrounding community. This was an important year for the center, but its roots go back even further.
+Allen Neighborhood Center was established in 1999. By the end of the year, they had space and the meager funds needed to roll out programs for the surrounding community. This was an important year for the center, but its roots go back even further.
 
-In 1996, the [Sparrow Health System][3] wanted to bolster the neighborhood surrounding them. The desire was to make a great community by improving the overall health and quality of life of people close by. A summit was held, a plan was made, and more than 500 people volunteered!
+In 1996, the [Sparrow Health System][3] wanted to bolster the neighborhood surrounding them. The desire was to boost the surrounding community by improving the overall health and quality of life of people close by. A summit was held, a plan was made, and more than 500 people volunteered!
 
-Sparrow hired Joan to help implement the plan. A community policing trial began and neighbor-friendly access to health and housing information was provided. Meanwhile, summits were held in surrounding communities, support grew, and legislation was introduced to encourage collaboration across public services.
+Sparrow hired Joan to pioneer the plan. A community policing trial was started and neighbor-friendly access to health and housing information was provided. Meanwhile, summits were held in surrounding communities, support continued to grow, and legislation was introduced to encourage collaboration across public services.
 
 After three years of great results, Allen Neighborhood Center was ready for its debut.
 
@@ -30,11 +30,11 @@ After three years of great results, Allen Neighborhood Center was ready for its 
 
 ## Today
 
-Allen Neighborhood Center has a *huge* suite of programs for improving the well-being of Lansing's Eastside and many of the services are open to anyone, not just nearby residents.
+Allen Neighborhood Center has a *huge* suite of programs that improve the well-being of Lansing's Eastside. Many of the programs are also available to the public at large and not just local residents.
 
-[Allen Market Place][4] offers a variety of food-related services including a year-round farmers market, a food business incubator, rental space, classes and workshops, locally-grown veggie boxes, and both physical and online food markets.
+[Allen Market Place][4] offers a number of food-related services including a year-round farmers market, a food business incubator, rental space, classes and workshops, locally-grown veggie boxes, and an online food market.
 
-The center also runs the [Hunter Park GardenHouse][5], an educational project that offers gardening workshops, at-home gardening assistances, plant starters, an edible park, and youth programs. Multi-season CSAs (community supported agriculture) can also be purchased or acquired with volunteer work.
+The center also runs the [Hunter Park GardenHouse][5], an educational project that offers gardening workshops, at-home gardening assistance, plant starters, an edible park, and youth programs. Multi-season CSAs (community supported agriculture) can also be purchased or acquired with volunteer work.
 
 Some of the center's [health programs][6] include a market walk, a Breast Health Club, access to health care coverage, and assistance scheduling doctor appointments. Their [housing assistance][7] programs give residents access to emergency shelters, local electricians, plumbers, and carpenters, counseling, and information about foreclosure prevention, flood preparedness, home restoration, and more.
 
@@ -44,7 +44,7 @@ A complete list of Allen Neighborhood Center's programs is available on their [w
 
 ## For Nonprofits
 
-While growing Allen Neighborhood Center, Joan has experienced a cycle that works really well. First, find your stakeholders and make a plan with them. Then, gather funds and implement that plan. Repeating this process will keep your stakeholders engaged and let your organization adjust to their needs.
+While growing Allen Neighborhood Center, Joan refined a cycle for introducing new programs in a timely manner. First, work with your stakeholders to form a plan that addresses their needs. Then, gather funds and implement that plan. Frequently repeating this process will keep your stakeholders engaged and let your organization adjust to their recent concerns.
 
 ## Big Wins
 
@@ -58,13 +58,13 @@ According to Joan, successfully growing and sustaining a wide variety of program
 
 ## Goals
 
-The center has can clearly sustain their current programs, but Joan would like to see these programs strengthened. At a broad level, this includes growing leadership, acquiring new technology and hardware to improve operations, and improving volunteer recruitment.
+The center has shown that they can sustain their current programs, but Joan would like to see these programs strengthened. At a broad level, this includes growing leadership, acquiring new technology and hardware to improve operations, and improving volunteer recruitment.
 
 Individual programs have opportunities to offer more as well. For example, accessibility of the market could be improved by introducing satellite locations throughout the neighborhood.
 
 ## For Volunteers and Donors
 
-Whether you choose to donate your time or your money to a charity, think of your donation as an investment. The help you provide will be amplified by the number of lives you touch and the energy you invested will come back to you.
+Whether you choose to donate your time or your money to a charity, think of your donation as an investment. The help you provide will be amplified by the number of lives you touch and the energy you invest will come back to you.
 
 ![][10]
 
