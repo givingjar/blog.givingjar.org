@@ -36,7 +36,7 @@ Allen Neighborhood Center has a *huge* suite of programs that improve the well-b
 
 The center also runs the [Hunter Park GardenHouse][5], an educational project that offers gardening workshops, at-home gardening assistance, plant starters, an edible park, and youth programs. Multi-season CSAs (community supported agriculture) can also be purchased or acquired with volunteer work.
 
-Some of the center's [health programs][6] include a market walk, a Breast Health Club, access to health care coverage, and assistance scheduling doctor appointments. Their [housing assistance][7] programs give residents access to emergency shelters, local electricians, plumbers, and carpenters, counseling, and information about foreclosure prevention, flood preparedness, home restoration, and more.
+Some of the center's [health programs][6] include a market walk, a Breast Health Club, access to health care coverage, and scheduling assistance for doctor appointments. Their [housing assistance][7] programs give residents access to emergency shelters, local electricians, plumbers, and carpenters. Counseling and information about foreclosure prevention, flood preparedness, home restoration, and more is also available.
 
 A complete list of Allen Neighborhood Center's programs is available on their [website][1].
 
@@ -44,7 +44,7 @@ A complete list of Allen Neighborhood Center's programs is available on their [w
 
 ## For Nonprofits
 
-While growing Allen Neighborhood Center, Joan refined a cycle for introducing new programs in a timely manner. First, work with your stakeholders to form a plan that addresses their needs. Then, gather funds and implement that plan. Frequently repeating this process will keep your stakeholders engaged and let your organization adjust to their recent concerns.
+While growing Allen Neighborhood Center, Joan refined a cycle for introducing programs in a timely manner and goes as follows. First, work with your stakeholders to form a plan that addresses their needs. Then, gather funds and implement that plan. Repeat this process frequently to keep your stakeholders engaged and let your organization adjust to their recent concerns.
 
 ## Big Wins
 
@@ -52,15 +52,15 @@ In 2004, the center was able to associate food insecurity with a lack of transpo
 
 The following year, they became the first nonprofit market to accept food stamps. Allen Neighborhood Center has many examples of quickly identifying community needs and introducing programs to address them.
 
-According to Joan, successfully growing and sustaining a wide variety of programs is one of the center's greatest accomplishments.
+According to Joan, successfully growing and sustaining a wide variety of programs in this way is one of the center's greatest accomplishments.
 
 ![][9]
 
 ## Goals
 
-The center has shown that they can sustain their current programs, but Joan would like to see these programs strengthened. At a broad level, this includes growing leadership, acquiring new technology and hardware to improve operations, and improving volunteer recruitment.
+The center has shown that they can sustain their current programs, but Joan would like to see these programs strengthened. At a broad level, this includes growing leadership, acquiring new technology and hardware to aid with operations, and improving volunteer recruitment.
 
-Individual programs have opportunities to offer more as well. For example, accessibility of the market could be improved by introducing satellite locations throughout the neighborhood.
+Individual programs have opportunities to offer more to the community as well. For example, accessibility of the market could be improved by introducing satellite locations throughout the neighborhood.
 
 ## For Volunteers and Donors
 
