@@ -31,7 +31,7 @@ Failure is okay if you learn from it. Here are some lessons learned in the past 
 
 ## Thanks {#thanks}
 
-Thanks to Scott Watkins and Amy Mercier Stephenson for the inside look at PayPal Giving Fund and Vistaprint for the business cards!
+Thanks to [Michigan Remembers 9/11][11] for the inside look at PayPal Giving Fund. We also appreciate [Helping Women Period][12] for insight into Humble Bundle donations!
 
 Thank you to all of our new friends on social media:
 
@@ -61,3 +61,5 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [8]: http://blog.givingjar.org/charity-spotlight-allen-neighborhood-center/ "Allen Neighborhood Center Spotlight"
 [9]: https://www.lansingmakersnetwork.org/ "Lansing Makers Network Homepage"
 [10]: http://williamstontheatre.org "Williamston Theatre Homepage"
+[11]: http://blog.givingjar.org/charity-spotlight-michigan-remembers-9-11/ "Michigan Remembers 9/11 Spotlight"
+[12]: http://blog.givingjar.org/charity-spotlight-helping-women-period/ "Helping Women Period Spotlight"
