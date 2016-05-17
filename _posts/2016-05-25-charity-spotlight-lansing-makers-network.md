@@ -17,25 +17,28 @@ In this charity spotlight I spoke with the President of Lansing Makers Network, 
 
 ## Origin Story
 
-Once upon a time, Brian worked at the MSU machine shop. With a background in technical theatre, Brian spent a lot of time dabbling with robotics and programming. When Brian switched jobs, he started to miss having access to tools and the opportunities to tinker that they provided.
+Once upon a time, Brian worked at the MSU machine shop. With a background in technical theatre, Brian spent a lot of time in the shop working with others and dabbling in robotics and computer programming. When he switched jobs, Brian started to miss the tools and environment that encouraged him and others to tinker.
 
-In early 2012, he was inspired by the maker movement and wanted to establish a makerspace in Lansing. He met with like-minded people in the area and reached out to others who had already tried creating such a space. 
+In early 2012, Brian was inspired by the maker movement that was sweeping across the country. After meeting with members of a local electronics group, they decided to organize a nonprofit and create a makerspace in Lansing.
+
+After a year of planning and searching for space, they setup shop at what used to be the Temple Club. This would be their home for the next two years while Lansing's community of makers grew.
+
+## Big Wins
+
+Since forming, the organization's community outreach has been a big hit. They have participated in [Maker Faire Detroit][3], the [MSU Science Festival][4], and a variety of grade school programs and field trips in the Lansing area. Their partnership with [Impression 5][5] has also opened up more opportunities for kids &mdash;and parents&mdash; to learn how to make new things.
+
+In 2015, the Lansing Makers Network moved their makerspace to the Leaseway Building in Lansing. This new space is all on one floor, making the whole space very accessible to visitors. It also has a garage door that makes it easy to move equipment and creations in and out. The unified space also promotes collaboration. Brian likes the idea that different types of makers and crafters such as welders and knitters can now work together.
+
+![][6]
 
 ## Today
 
 
 
-![][6]
-
-## Big Wins
-
-Lansing Makers Network recently moved into a new makerspace. This new space is all on one floor, making the whole space very accessible to visitors. It also has a garage door that makes it easy to move equipment and creations in and out.
-
-The organization's community outreach is always a big hit, too. They have participated in [Maker Faire Detroit][3], the [MSU Science Festival][4], and a variety of other grade school programs and field trips in the Lansing area. Their partnership with [Impression 5][5] has also opened up more engaging opportunities for kids &mdash;and parents&mdash; to learn how to make new things.
 
 ## Goals
 
-The Lansing Makers Network is due for some reorganization. Assigning volunteers to specific roles would let the organization focus on areas where they would like to expand or improve, such as new classes, fundraising, and spreading the word.
+Brian thinks the Lansing Makers Network needs some reorganization. Mostly he would like to see volunteers assigned to specific roles. This would allow them to focus on areas where they need to expand, such as new classes, fundraising, and spreading the word.
 
 Thinking really big, Brian would love to start a Capital City Maker Faire. There are many other groups in Lansing that would like to see this happen, too, but coordination on something so big will be tricky.
 
