@@ -21,18 +21,19 @@ Once upon a time, Brian worked at the MSU machine shop. With a background in tec
 
 In early 2012, Brian was inspired by the maker movement that was sweeping across the country. After meeting with members of a local electronics group, they decided to organize a nonprofit and create a makerspace in Lansing.
 
-After a year of planning and searching for space, they setup shop at what used to be the Temple Club. This would be their home for the next two years while Lansing's community of makers grew.
+After a year of planning and searching for space, they moved into the former Temple Club. This would be their home for the next two years while Lansing's community of makers grew.
 
 ## Big Wins
 
-Since forming, the organization's community outreach has been a big hit. They have participated in [Maker Faire Detroit][3], the [MSU Science Festival][4], and a variety of grade school programs and field trips in the Lansing area. Their partnership with [Impression 5][5] has also opened up more opportunities for kids &mdash;and parents&mdash; to learn how to make new things.
+Since forming, the Lansing Maker Network's community outreach has been a big hit. They have participated in [Maker Faire Detroit][3], the [MSU Science Festival][4], and a variety of grade school programs and field trips in the Lansing area. Their partnership with [Impression 5][5] has also opened up more opportunities for kids &mdash;and parents&mdash; to learn how to make new things.
 
-In 2015, the Lansing Makers Network moved their makerspace to the Leaseway Building in Lansing. This new space is all on one floor, making the whole space very accessible to visitors. It also has a garage door that makes it easy to move equipment and creations in and out. The unified space also promotes collaboration. Brian likes the idea that different types of makers and crafters such as welders and knitters can now work together.
+In 2015, the Lansing Makers Network moved their makerspace to the Leaseway Building in Lansing. The new space has a large garage door for easily moving equipment and creations in and out. Everything is on one floor, too. This greatly improves the accessibility of the space and promotes collaboration. Brian likes the idea that different types of makers and crafters (e.g. welders and knitters) can more easily work together.
 
 ![][6]
 
 ## Today
 
+The Lansing Makers Network continues to work with schools and museums. They also offer classes and workshops that range anywhere from jewelry-making to electronics. They empower people to build things on their own and they do this by teaching you not how to be a maker, but how to be a better maker.
 
 
 
