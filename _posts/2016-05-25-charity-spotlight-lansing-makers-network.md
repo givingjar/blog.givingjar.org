@@ -1,17 +1,20 @@
 ---
 layout: post
 title: "Charity Spotlight: Lansing Makers Network"
-subtitle: "A Michigan fund for remembering and honoring those who lost their lives on 9/11 for generations to come."
+subtitle: "Sharing the skills, space, and tools to help us all become makers."
 permalink: /charity-spotlight-lansing-makers-network/
 tags: [spotlight]
 preview-image: /img/spotlight/lansing-makers-network/.jpg
 snippet: >
-    
+    The Lansing Makers Network fosters creativity and confidence by providing
+    people with the skills, space, and tools to make their ideas real. They work
+    with kids and adults of all experience levels, encourage safe and effective
+    practices, and inspire people to tinker and build anything they can imagine.
 ---
 
-The [Lansing Makers Network][1] wants to make sure the significance of the tragic events on September 11, 2001 lives on in the minds and hearts of Michiganders for generations to come. They know that high school graduates this year may not have any personal recollection of that day, though, and they are helping to educate our youth so that the tragedy of 9/11 will long be remembered.
+The [Lansing Makers Network][1] fosters creativity and confidence by providing people with the skills, space, and tools to make their ideas real. They work with kids and adults of all experience levels, encourage safe and effective practices, and inspire people to tinker and build anything they can imagine.
 
-In this charity spotlight I spoke with the President of Lansing Makers Network, Brian Adams.
+In this charity spotlight, I spoke with the President of Lansing Makers Network, Brian Adams.
 
 ![][4]
 
@@ -19,7 +22,7 @@ In this charity spotlight I spoke with the President of Lansing Makers Network, 
 
 Once upon a time, Brian worked at the MSU machine shop. With a background in technical theatre, Brian spent a lot of time in the shop working with others and dabbling in robotics and computer programming. When he switched jobs, Brian started to miss the tools and environment that encouraged him and others to tinker.
 
-In early 2012, Brian was inspired by the maker movement that was sweeping across the country. After meeting with members of a local electronics group, they decided to organize a nonprofit and create a makerspace in Lansing.
+In early 2012, Brian was inspired by the maker movement that was sweeping across the country. After meeting with members of a local electronics group, they decided to form a nonprofit and create a makerspace in Lansing.
 
 After a year of planning and searching for space, they moved into the former Temple Club. This would be their home for the next two years while Lansing's community of makers grew.
 
@@ -27,27 +30,31 @@ After a year of planning and searching for space, they moved into the former Tem
 
 Since forming, the Lansing Maker Network's community outreach has been a big hit. They have participated in [Maker Faire Detroit][3], the [MSU Science Festival][4], and a variety of grade school programs and field trips in the Lansing area. Their partnership with [Impression 5][5] has also opened up more opportunities for kids &mdash;and parents&mdash; to learn how to make new things.
 
-In 2015, the Lansing Makers Network moved their makerspace to the Leaseway Building in Lansing. The new space has a large garage door for easily moving equipment and creations in and out. Everything is on one floor, too. This greatly improves the accessibility of the space and promotes collaboration. Brian likes the idea that different types of makers and crafters (e.g. welders and knitters) can more easily work together.
+In 2015, the Lansing Makers Network moved to the Leaseway Building. The new space has a large garage door and exists entirely on one floor. This not only improves the accessibility of the space, it also encourages collaboration. Brian likes the idea that different types of makers and crafters (e.g. welders and knitters) can more easily work together.
 
 ![][6]
 
 ## Today
 
-The Lansing Makers Network continues to work with schools and museums. They also offer classes and workshops that range anywhere from jewelry-making to electronics. They empower people to build things on their own and they do this by teaching you not how to be a maker, but how to be a better maker.
+The Lansing Makers Network continues to work with schools and museums. They also offer classes and workshops that cover anything from jewelry-making to electronics. Their goals are to empower people to build and teach people how to make things safely and more effectively.
 
+The makerspace has shops for both woodworking and metalworking. For the tech-minded maker, there are stations for electronics, 3D printing, laser cutting, and coding. Crafters also have sewing machines, glass grinders, a kiln, and a jewelry station at their disposal.
 
+The Lansing Makers Network is open to the public twice per week. For 24/7 access to the makerspace, [memberships][7] are also available.
+
+A complete list of the Lansing Makers Network services and equipment is available on their [wiki][6].
 
 ## Goals
 
-Brian thinks the Lansing Makers Network needs some reorganization. Mostly he would like to see volunteers assigned to specific roles. This would allow them to focus on areas where they need to expand, such as new classes, fundraising, and spreading the word.
+The members of the Lansing Makers Network are always happy to help out wherever they can, but Brian thinks some reorganization is due. He would particularly like to give volunteers more specific roles. This would allow their organization to better focus on areas such as new classes, fundraising, and spreading the word.
 
-Thinking really big, Brian would love to start a Capital City Maker Faire. There are many other groups in Lansing that would like to see this happen, too, but coordination on something so big will be tricky.
+Thinking really big, the group would also love to start a Capital City Maker Faire. There are many other groups in Lansing that would like to see this happen, too, but coordination of this magnitude will be tricky.
 
 ![][5]
 
 ## For Nonprofits
 
-According to Brian, the people forming the Lansing Makers Network were a bunch of geeks, nerds, and dorks figuring things out as they moved forward. It would have been great if they knew about the [Nonprofit Network][2] and other great resources available around Lansing. If you're starting a nonprofit, use these resources and save yourself the trouble of figuring it out on your own.
+According to Brian, the people forming the Lansing Makers Network were a bunch of geeks, nerds, and dorks who figured everything out on their own. Only later did they discover the [Nonprofit Network][2] and other great resources available around Lansing. If you're starting a nonprofit, use these resources and save yourself the trouble of figuring it out on your own.
 
 Brian also recommends writing a business plan as if you were starting a for-profit business. You will need to make money, the only difference is where that money will go.
 
@@ -72,3 +79,5 @@ If you want to learn more about [Lansing Makers Network][1], you can reach them 
 [3]: http://www.makerfairedetroit.com/ "Maker Faire Detroit Homepage"
 [4]: http://sciencefestival.msu.edu/ "MSU Science Festival Homepage"
 [5]: http://www.impression5.org/ "Impression 5 Science Center Homepage"
+[6]: http://wiki.lansingmakersnetwork.org/start "Lansing Makers Network Wiki"
+[7]: https://www.lansingmakersnetwork.org/become-a-member/ "Lansing Makers Network Membership Information"
