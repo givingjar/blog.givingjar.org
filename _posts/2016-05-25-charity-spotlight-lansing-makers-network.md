@@ -4,7 +4,7 @@ title: "Charity Spotlight: Lansing Makers Network"
 subtitle: "Sharing the skills, space, and tools to help us all become makers."
 permalink: /charity-spotlight-lansing-makers-network/
 tags: [spotlight]
-preview-image: /img/spotlight/lansing-makers-network/.jpg
+preview-image: /img/spotlight/lansing-makers-network/lansing-makers-network-take-it-apart.jpg
 snippet: >
     The Lansing Makers Network fosters creativity and confidence by providing
     people with the skills, space, and tools to make their ideas real. They work
@@ -16,7 +16,7 @@ The [Lansing Makers Network][1] fosters creativity and confidence by providing p
 
 In this charity spotlight, I spoke with the President of Lansing Makers Network, Brian Adams.
 
-![][8]
+![][11]
 
 ## Origin Story
 
@@ -40,9 +40,7 @@ The Lansing Makers Network continues to work with schools and museums. They also
 
 The makerspace has shops for both woodworking and metalworking. For the tech-minded maker, there are stations for electronics, 3D printing, laser cutting, and coding. Crafters also have sewing machines, glass grinders, a kiln, and a jewelry station at their disposal.
 
-The Lansing Makers Network is open to the public twice per week. For 24/7 access to the makerspace, [memberships][7] are also available.
-
-A complete list of the Lansing Makers Network services and equipment is available on their [wiki][6].
+The Lansing Makers Network is open to the public twice per week. For 24/7 access to the makerspace, [memberships][7] are also available. A complete list of the Lansing Makers Network services and equipment is available on their [wiki][6].
 
 ## Goals
 
@@ -62,7 +60,7 @@ Brian also recommends writing a business plan as if you were starting a for-prof
 
 Nonprofits can't operate if they don't make money. Not only that, but they also have to be very effective with money in order to be successful. Try not to get caught up in the term "nonprofit." Instead, think of nonprofits as social entrepreneurs who are using business concepts to solve social problems.
 
-![][11]
+![][8]
 
 ## Get Involved
 
@@ -70,7 +68,7 @@ If you want to learn more about [Lansing Makers Network][1], you can reach them 
 
 {% include web-links.html home="https://www.lansingmakersnetwork.org/" twitter="LansingMakers" facebook="LansingMakersNetwork" %}
 
-###### Photographs Courtesy of [Lansing Makers Network][1]
+###### Photographs Courtesy of [Lansing Makers Network][12]
 
 
 
@@ -81,7 +79,8 @@ If you want to learn more about [Lansing Makers Network][1], you can reach them 
 [5]: http://www.impression5.org/ "Impression 5 Science Center Homepage"
 [6]: http://wiki.lansingmakersnetwork.org/start "Lansing Makers Network Wiki"
 [7]: https://www.lansingmakersnetwork.org/become-a-member/ "Lansing Makers Network Membership Information"
-[8]: /img/spotlight/lansing-makers-network/lansing-makers-network-operation.jpg "Giant Operation Game by Lansing Makers Network"
-[9]: /img/spotlight/lansing-makers-network/lansing-makers-network-operation.jpg "Giant Operation Game by Lansing Makers Network"
-[10]: /img/spotlight/lansing-makers-network/lansing-makers-network-operation.jpg "Giant Operation Game by Lansing Makers Network"
-[11]: /img/spotlight/lansing-makers-network/lansing-makers-network-operation.jpg "Giant Operation Game by Lansing Makers Network"
+[8]: /img/spotlight/lansing-makers-network/lansing-makers-network-electronics.jpg "Lansing Makers Network - Electronics in Action"
+[9]: /img/spotlight/lansing-makers-network/lansing-makers-network-kid-makers.jpg "Lansing Makers Network - Kid Makers"
+[10]: /img/spotlight/lansing-makers-network/lansing-makers-network-macgyver.jpg "Lansing Makers Network - MacGyver Monday"
+[11]: /img/spotlight/lansing-makers-network/lansing-makers-network-take-it-apart.jpg "Lansing Makers Network - Take It Apart Clinic"
+[12]: https://www.facebook.com/LansingMakersNetwork/ "Lansing Makers Network on Facebook"
