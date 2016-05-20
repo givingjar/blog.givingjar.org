@@ -21,13 +21,19 @@ In this charity spotlight, I spoke with the Founder of Joshua's Place, Bob Worgu
 
 ## Big Wins
 
+When the property for building Joshua's Place was purchased, the lot across the street came as a packaged deal. The lot cost $13,000, but Bob was able to sell it for $125,000. Joshua's Place has also received several large contributions including two of $100,000 or more. One supporter even promised to match up to $500,000 in donations!
 
+The amazing support received so far has helped Joshua's Place reach the amount needed to begin building, but they are still shy of their $1 million goal.
 
 ![][9]
 
 ## Today
 
+Six residents will call Joshua's Place home. Each tenant will have their own living quarters and a great room will be used for group activities. The estate will also have several gardens, walkways, and a basketball court that residents can use. Residents will be encouraged to live as independently as possible with some self care expected, but trained personnel will be available around the clock to oversee medication, prepare meals, and provide additional care as needed.
 
+Christian values have been important to Bob while raising Andy and he knows how important church is to Andy. Joshua's Place is open to people of all religions and if a resident wishes, employees will help make arrangements with their place of worship so that they may continue attending.
+
+The facilities will be able to accommodate six adult men with development disabilities. If plans go as expected, residents should be able to move into Joshua's Place in the spring of 2017.
 
 ## Goals
 
