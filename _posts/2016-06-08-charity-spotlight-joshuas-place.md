@@ -4,7 +4,7 @@ title: "Charity Spotlight: Joshua's Place"
 subtitle: "Encouraging independence while providing longterm care for developmentally disabled men."
 permalink: /charity-spotlight-joshuas-place/
 tags: [spotlight]
-preview-image: /img/spotlight/joshuas-place/joshuas-place-.jpg
+preview-image: /img/spotlight/joshuas-place/joshuas-place-father-son.jpg
 snippet: >
     Joshua's Place is a home for men with mild to moderate developmental
     disabilities. Residents are given the freedom to care for themselves when
@@ -16,13 +16,13 @@ snippet: >
 
 In this charity spotlight, I spoke with the Founder of Joshua's Place, Bob Worgul.
 
-![][11]
+![][5]
 
 ## Origin Story
 
 In 1960, Bob and Shirley Worgul gave birth to their third son, Andy. When they learned that Andy had Down syndrome they were devastated, but they were also determined. They would raise Andy like any other child and make sure he had all of the same opportunities other kids received. He was taught to read before entering grade school and raised to be a very independent man. He got a job at [Peckham][3] (he continues to work there today) and provides much of his own care. Andy is well past the twenty years that doctors expected him to live.
 
-Over the years, education and care have improved. Andy is now one of many people with a genetic or developmental disability who will eventually need a home when his parents are no longer able to care for him. Bob and Shirley realized this and started to explore options. Many of them weren't quite right for Andy. Traditional institutions were too far from work. "Mom and Pop" did not seem sustainable &mdash;what if one or both of his new caretakers became unable to look after their son?
+Over the years, education and care have improved. Andy is now one of many people with a genetic or developmental disability who will eventually need a home when his parents are no longer able to care for him. Bob and Shirley realized this and started to explore options. Many of them weren't quite right for Andy. Traditional institutions were too far from work. "Mom and Pop" care did not seem sustainable &mdash;what if one or both of his new caretakers became unable to look after their son?
 
 Bob and Shirley decided to create their own nonprofit that would provide longterm care for Andy and others in his situation. Joshua's Place would be a home for adults with mild developmental disabilities where independence could be encouraged, but care would always be available.
 
@@ -32,7 +32,7 @@ When the property for building Joshua's Place was purchased, the lot across the 
 
 The amazing support received so far has helped Joshua's Place reach the amount needed to begin building, but they are still shy of their $1 million goal.
 
-![][9]
+{% include youtube.html url="https://www.youtube.com/embed/6Ixxt7gT2ek" %}
 
 ## Today
 
@@ -46,7 +46,7 @@ The facilities will be able to accommodate six adult men with development disabi
 
 Bob already has plans to expand Joshua's Place. In fact, the building has been designed with expansion in mind and can be easily built out to accommodate up to fourteen residents! The additional space and staff would also allow Joshua's Place to care for women with developmental disabilities.
 
-![][10]
+![][4]
 
 ## For Nonprofits
 
@@ -58,7 +58,7 @@ Food banks, health foundations, and clothing donation services are just a few ex
 
 Many charities like to add fun, bonus activities and events to their standard programs. For example, Joshua's Place would like to have a vegetable garden, dances, and field trips for its residents. These are great opportunities for volunteers to do something they enjoy. They're also great ways to build friendships.
 
-![][8]
+![][6]
 
 ## Get Involved
 
@@ -66,10 +66,14 @@ If you want to learn more about [Joshua's Place][1], you can reach them by click
 
 {% include web-links.html home="http://www.joshuasplaceinc.org/" twitter="inc_place" facebook="joshuasplaceinc.org" %}
 
-###### Photographs Courtesy of [Joshua's Place][2]
+###### Photographs Courtesy of [Joshua's Place][2]. Video Courtesy of [UnoDeuce Multimedia][7].
 
 
 
 [1]: http://www.joshuasplaceinc.org/ "Joshua's Place Homepage"
 [2]: https://www.facebook.com/joshuasplaceinc.org "Joshua's Place on Facebook"
 [3]: http://www.peckham.org/ "Peckham, Inc. Homepage"
+[4]: /img/spotlight/joshuas-place/joshuas-place-concept.jpg "Artist's Rendering of Joshua's Place Entrance"
+[5]: /img/spotlight/joshuas-place/joshuas-place-father-son.jpg "Bob Worgul and His Son, Andy"
+[6]: /img/spotlight/joshuas-place/joshuas-place-plans.png "Joshua's Place Building Plans"
+[7]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"
