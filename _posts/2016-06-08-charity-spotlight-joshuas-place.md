@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "Charity Spotlight: Joshua's Place"
-subtitle: "Placeholder subtitle."
+subtitle: "Encouraging independence while providing longterm care for developmentally disabled men."
 permalink: /charity-spotlight-joshuas-place/
 tags: [spotlight]
 preview-image: /img/spotlight/joshuas-place/joshuas-place-.jpg
 snippet: >
-    Snippet goes here.
+    Joshua's Place is a home for men with mild to moderate developmental
+    disabilities. Residents are given the freedom to care for themselves when
+    they are able to do so safely and trained staff is always available to
+    provide assistance when needed.
 ---
 
-[Joshua's Place][1] snippet goes here.
+[Joshua's Place][1] is a home for men with mild to moderate developmental disabilities. Residents are given the freedom to care for themselves when they are able to do so safely and trained staff is always available to provide assistance when needed.
 
 In this charity spotlight, I spoke with the Founder of Joshua's Place, Bob Worgul.
 
@@ -17,7 +20,11 @@ In this charity spotlight, I spoke with the Founder of Joshua's Place, Bob Worgu
 
 ## Origin Story
 
+In 1960, Bob and Shirley Worgul gave birth to their third son, Andy. When they learned that Andy had Down syndrome they were devastated, but they were also determined. They would raise Andy like any other child and make sure he had all of the same opportunities other kids received. He was taught to read before entering grade school and raised to be a very independent man. He got a job at [Peckham][3] (he continues to work there today) and provides much of his own care. Andy is well past the twenty years that doctors expected him to live.
 
+Over the years, education and care have improved. Andy is now one of many people with a genetic or developmental disability who will eventually need a home when his parents are no longer able to care for him. Bob and Shirley realized this and started to explore options. Many of them weren't quite right for Andy. Traditional institutions were too far from work. "Mom and Pop" did not seem sustainable &mdash;what if one or both of his new caretakers became unable to look after their son?
+
+Bob and Shirley decided to create their own nonprofit that would provide longterm care for Andy and others in his situation. Joshua's Place would be a home for adults with mild developmental disabilities where independence could be encouraged, but care would always be available.
 
 ## Big Wins
 
@@ -29,11 +36,11 @@ The amazing support received so far has helped Joshua's Place reach the amount n
 
 ## Today
 
-Six residents will call Joshua's Place home. Each tenant will have their own living quarters and a great room will be used for group activities. The estate will also have several gardens, walkways, and a basketball court that residents can use. Residents will be encouraged to live as independently as possible with some self care expected, but trained personnel will be available around the clock to oversee medication, prepare meals, and provide additional care as needed.
+Six residents will call Joshua's Place home, each with their own living quarters. A great room will be used for group activities and many other amenities will be available. The estate will also have several gardens, walkways, and a basketball court. Residents will be encouraged to live as independently as possible and even though some self care is expected, there will be trained personnel available around the clock to oversee medication, prepare meals, and provide additional care when needed.
 
-Christian values have been important to Bob while raising Andy and he knows how important church is to Andy. Joshua's Place is open to people of all religions and if a resident wishes, employees will help make arrangements with their place of worship so that they may continue attending.
+Christian values have been important to Bob while raising Andy. He also knows how important church is to his son. Joshua's Place is open to people of all religions and if a resident wishes, employees will help make arrangements with their place of worship so that they may continue attending.
 
-The facilities will be able to accommodate six adult men with development disabilities. If plans go as expected, residents should be able to move into Joshua's Place in the spring of 2017.
+The facilities will be able to accommodate six adult men with development disabilities. If construction goes as expected, residents should be able to move into Joshua's Place in the spring of 2017.
 
 ## Goals
 
@@ -65,3 +72,4 @@ If you want to learn more about [Joshua's Place][1], you can reach them by click
 
 [1]: http://www.joshuasplaceinc.org/ "Joshua's Place Homepage"
 [2]: https://www.facebook.com/joshuasplaceinc.org "Joshua's Place on Facebook"
+[3]: http://www.peckham.org/ "Peckham, Inc. Homepage"
