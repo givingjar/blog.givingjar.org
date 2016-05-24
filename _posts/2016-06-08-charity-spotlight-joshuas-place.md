@@ -24,7 +24,7 @@ In 1960, Bob and Shirley Worgul gave birth to their third son, Andy. When they l
 
 Over the years, education and care have improved. Andy is now one of many people with a genetic or developmental disability who will eventually need a home when his parents are no longer able to care for him. Bob and Shirley realized this and started to explore options. Many of them weren't quite right for Andy. Traditional institutions were too far from work. "Mom and Pop" care did not seem sustainable &mdash;what if one or both of his new caretakers became unable to look after their son?
 
-Bob and Shirley decided to create their own nonprofit that would provide longterm care for Andy and others in his situation. Joshua's Place would be a home for adults with mild developmental disabilities where independence could be encouraged, but care would always be available.
+Bob and Shirley decided to create their own nonprofit that would provide long-term care for Andy and others in his situation. Joshua's Place would be a home for adults with mild developmental disabilities where independence could be encouraged, but care would always be available.
 
 ## Big Wins
 
@@ -36,7 +36,7 @@ The amazing support received so far has helped Joshua's Place reach the amount n
 
 ## Today
 
-Six residents will call Joshua's Place home, each with their own living quarters. A great room will be used for group activities and many other amenities will be available. The estate will also have several gardens, walkways, and a basketball court. Residents will be encouraged to live as independently as possible and even though some self care is expected, there will be trained personnel available around the clock to oversee medication, prepare meals, and provide additional care when needed.
+Six residents will call Joshua's Place home, each with their own living quarters. A great room will be used for group activities and many other amenities will be available. The estate will also have several gardens, walkways, and a basketball court. Residents will be encouraged to live as independently as possible and even though some self-care is expected, there will be trained personnel available around the clock to oversee medication, prepare meals, and provide additional care when needed.
 
 Christian values have been important to Bob while raising Andy. He also knows how important church is to his son. Joshua's Place is open to people of all religions and if a resident wishes, employees will help make arrangements with their place of worship so that they may continue attending.
 
@@ -56,7 +56,7 @@ Food banks, health foundations, and clothing donation services are just a few ex
 
 ## For Volunteers
 
-Many charities like to add fun, bonus activities and events to their standard programs. For example, Joshua's Place would like to have a vegetable garden, dances, and field trips for its residents. These are great opportunities for volunteers to do something they enjoy. They're also great ways to build friendships.
+Many charities like to add fun activities and events to their standard programs. For example, Joshua's Place would like to have a vegetable garden, dances, and field trips for its residents. These are great opportunities for volunteers to do something they enjoy. They're also great ways to build friendships.
 
 ![][6]
 
