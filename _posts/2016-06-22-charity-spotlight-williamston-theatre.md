@@ -17,13 +17,19 @@ In this charity spotlight, I spoke with the Development Director of Williamston 
 
 ## Origin Story
 
+The Williamston Theatre was founded  by John Lepard, Tony Caselli, Chris Purchis, and Emily Sutton-Smith. John had moved back to Williamston from Los Angeles to raise his daughter and be close to family. While he was working at [The Purple Rose][6] with Tony, Chris, and Emily, he learned that the [Boarshead Theatre][7] had passed up an opportunity to move to Williamston.
 
+John thought the decision was peculiar because Williamston has many of the qualities a small theatre company should love: it's walkable, it has a scenic downtown, and there are plenty of great restaurants and sweet shops for visitors. The idea of opening a nonprofit theatre in Williamston stuck with John. He spent some time kicking the idea around with Tony and asked Chris and Emily for their help as well.
+
+Much of 2005 was spent formalizing their business plan and procuring space for the theatre in downtown Williamston. A huge volunteer effort was organized to remodel the building, which was previously used for retail space.
+
+Williamston Theatre opened their doors to the public with their production of *[Additional Particulars][8]*, a comedy by Ed Simpson, in the summer of 2006.
 
 ## Big Wins
 
 Compassionate experiences are not just part of Williamston Theatre's art they are also something cultivated by the theatre's supporters. When one of the theatre's directors was hospitalized, the theatre created a fundraiser to cover additional driving expenses, but when the fundraiser ended, the community had raised enough money to cover most of the medical expenses! Those personal connections are some of the theatre's greatest rewards.
 
-In 2014, the Williamston Theatre was honored with a National Theatre Company grant. The [American Theatre Wing][5] &mdash;creator of the Tony Awards&mdash; presents this grant to the twelve most promising theatre companies across the country. This grant further demonstrates the high level of commitment Williamston Theatre has to its mission and supporters.
+In 2014, the Williamston Theatre was honored with a National Theatre Company Award. The [American Theatre Wing][5] &mdash;creator of the Tony Awards&mdash; presents this award to the twelve most promising theatre companies across the country. This award further demonstrates the high level of commitment Williamston Theatre has to its mission and supporters.
 
 ![][9]
 
@@ -66,3 +72,6 @@ If you want to learn more about [Williamston Theatre][1], you can reach them by 
 [3]: http://nnpn.org/ "National New Play Network Homepage"
 [4]: http://www.tcg.org/ "Theatre Communications Group Homepage"
 [5]: http://americantheatrewing.org/ "American Theatre Wing Homepage"
+[6]: http://www.purplerosetheatre.org/ "The Purple Rose Theatre Company Homepage"
+[7]: http://www.boarshead.org/ "Boarshead Professional Theatre Homepage"
+[8]: http://www.williamstontheatre.com/wp/about/past-shows/additional-particulars "Williamston Theatre's Production of Additional Particulars"
