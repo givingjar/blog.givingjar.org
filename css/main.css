@@ -420,33 +420,30 @@ header.header-post .post-heading .post-subheading {
   margin: 30px 0;
 }
 
-a.home {
-  color: #33C3F0;
-}
+a.home,
 a.home:hover,
 a.home:focus {
   color: #33C3F0;
 }
-a.facebook {
-  color: #3b5998;
-}
+a.facebook,
 a.facebook:hover,
 a.facebook:focus {
   color: #3b5998;
 }
-a.twitter {
-  color: #55acee;
-}
+a.twitter,
 a.twitter:hover,
 a.twitter:focus {
   color: #55acee;
 }
-a.instagram {
-  color: #125688;
-}
+a.instagram,
 a.instagram:hover,
 a.instagram:focus {
   color: #125688;
+}
+a.youtube,
+a.youtube:hover,
+a.youtube:focus {
+  color: #cd201f;
 }
 
 /* Responsive Embedded YouTube Video */
