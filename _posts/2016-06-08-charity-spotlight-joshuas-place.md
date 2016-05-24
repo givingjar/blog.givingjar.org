@@ -14,7 +14,7 @@ snippet: >
 
 [Joshua's Place][1] is a home for men with mild to moderate developmental disabilities. Residents are given the freedom to care for themselves when they are able to do so safely and trained staff is always available to provide assistance when needed.
 
-In this charity spotlight, I spoke with the Founder of Joshua's Place, Bob Worgul.
+In this charity spotlight, I spoke with the Co-founder of Joshua's Place, Bob Worgul.
 
 ![][5]
 
