@@ -40,7 +40,7 @@ Six residents will call Joshua's Place home, each with their own living quarters
 
 Christian values have been important to Bob while raising Andy. He also knows how important church is to his son. Joshua's Place is open to people of all religions and if a resident wishes, employees will help make arrangements with their place of worship so that they may continue attending.
 
-The facilities will be able to accommodate six adult men with development disabilities. If construction goes as expected, residents should be able to move into Joshua's Place in the spring of 2017.
+The facilities will be able to accommodate six adult men with developmental disabilities. If construction goes as expected, residents should be able to move into Joshua's Place in the spring of 2017.
 
 ## Goals
 
