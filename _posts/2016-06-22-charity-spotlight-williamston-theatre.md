@@ -4,7 +4,7 @@ title: "Charity Spotlight: Williamston Theatre"
 subtitle: "A professional theatre that enriches lives and provides tender, human experiences."
 permalink: /charity-spotlight-williamston-theatre/
 tags: [spotlight]
-preview-image: /img/spotlight/williamston-theatre/williamston-theatre-.jpg
+preview-image: /img/spotlight/williamston-theatre/williamston-theatre-art-of-murder.jpg
 snippet: >
     Williamston Theatre supports Michigan culture and professional artists by
     producing entertaining and often sentimental performances that resonate with
@@ -26,15 +26,17 @@ John thought Williamston would be perfect for a small theatre company. It's walk
 
 Much of 2005 was spent formalizing their business plan and procuring space for the theatre in downtown Williamston. A huge volunteer effort was organized to remodel the building. Williamston Theatre opened its doors to the public with their production of *[Additional Particulars][8]*, a comedy by Ed Simpson, in the summer of 2006.
 
+![][13]
+
 ## Today
 
-Williamston Theatre is known as a theatre-in-the-round. It has seats on all four sides of the stage, but is commonly used as a 3/4 thrust space, where the audience only sits on three sides. This classic configuration results in a lot of creative use of the space.
+Williamston Theatre is a theatre-in-the-round. It has seats on all four sides of the stage, but is commonly used as a 3/4 thrust space, where the audience only sits on three sides. This classic configuration results in a lot of creative use of the space.
 
 The theatre puts on six productions per season, but they also hold staged readings and other special events. Their tenth season is currently underway and an [eleventh season][9] has also been announced. In addition to its in-theatre productions, Williamston Theatre hosts a [YouTube channel][10] where viewers can watch the *[Monologue Project][11]* and other online works.
 
 The productions are designed to connect with their audience by helping them feel like they are a part of the show. Emily knows they've made that connection when someone is inspired to call a loved one after a performance.
 
-![][13]
+![][14]
 
 ## Big Wins
 
@@ -50,7 +52,7 @@ Emily would love to produce shows in larger markets and grow their relationships
 
 The big "pie in the sky" for Williamston Theatre would be a Regional Tony Award. Emily also wants to ensure Williamston Theatre outlives its creators.
 
-![][14]
+![][15]
 
 ## For Nonprofits
 
@@ -66,12 +68,12 @@ If you want to learn more about [Williamston Theatre][1], you can reach them by 
 
 {% include web-links.html home="http://www.williamstontheatre.org/" twitter="WilliamstonThtr" facebook="williamstontheatre" youtube="williamstontheatre" %}
 
-###### Photographs Courtesy of [Williamston Theatre][2]
+###### Photographs Courtesy of [Chris Purchis][2]
 
 
 
 [1]: http://www.williamstontheatre.org/ "Williamston Theatre Homepage"
-[2]: https://www.facebook.com/williamstontheatre "Williamston Theatre on Facebook"
+[2]: https://www.facebook.com/williamstontheatre "Williamston Theatre Photos on Facebook"
 [3]: http://nnpn.org/ "National New Play Network Homepage"
 [4]: http://www.tcg.org/ "Theatre Communications Group Homepage"
 [5]: http://americantheatrewing.org/ "American Theatre Wing Homepage"
@@ -81,3 +83,7 @@ If you want to learn more about [Williamston Theatre][1], you can reach them by 
 [9]: http://www.williamstontheatre.org/wp/2016-2017-season "Williamston Theatre's Eleventh Season"
 [10]: https://www.youtube.com/user/williamstontheatre/videos "Williamston Theatre on YouTube"
 [11]: http://www.williamstontheatre.org/wp/blue-door/the-monologue-project "Willimaston Theatre's Monologue Project"
+[12]: /img/spotlight/williamston-theatre/williamston-theatre-art-of-murder.jpg "Williamston Theatre Presents: The Art of Murder by Joe DiPietor"
+[13]: /img/spotlight/williamston-theatre/williamston-theatre-best-brothers.jpg "Williamston Theatre Presents: The Best Brothers"
+[14]: /img/spotlight/williamston-theatre/williamston-theatre-decade-dance.jpg "Williamston Theatre Presents: The Decade Dance by Joseph Zettelmaier"
+[15]: /img/spotlight/williamston-theatre/williamston-theatre-frankie-and-johnny.jpg "Williamston Theatre Presents: Frankie and Johnny in the Clair de Lune by Terrence McNally"
