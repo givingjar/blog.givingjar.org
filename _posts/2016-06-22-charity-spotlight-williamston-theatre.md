@@ -6,46 +6,51 @@ permalink: /charity-spotlight-williamston-theatre/
 tags: [spotlight]
 preview-image: /img/spotlight/williamston-theatre/williamston-theatre-.jpg
 snippet: >
-    Snippet goes here
+    Williamston Theatre supports Michigan culture and professional artists by
+    producing entertaining and often sentimental performances that resonate with
+    their audience. By connecting with their audience on an emotional level, the
+    theatre helps build new relationships and rekindle old ones.
 ---
 
-[Williamston Theatre][1] 
+[Williamston Theatre][1] supports Michigan culture and professional artists by producing entertaining and often sentimental performances that resonate with their audience. By connecting with their audience on an emotional level, the theatre helps build new relationships and rekindle old ones.
 
 In this charity spotlight, I spoke with the Development Director of Williamston Theatre, Emily Sutton-Smith.
 
-![][11]
+![][12]
 
 ## Origin Story
 
-The Williamston Theatre was founded  by John Lepard, Tony Caselli, Chris Purchis, and Emily Sutton-Smith. John had moved back to Williamston from Los Angeles to raise his daughter and be close to family. While he was working at [The Purple Rose][6] with Tony, Chris, and Emily, he learned that the [Boarshead Theatre][7] had passed up an opportunity to move to Williamston.
+The Williamston Theatre got its start after John Lepard, the theatre's Executive Director, moved back to Williamston from L.A. to raise his daughter and be close to family. While working at [The Purple Rose][6] with Emily, Tony Caselli, and Chris Purchis, he learned that the [Boarshead Theatre][7] had passed up an opportunity to move to Williamston.
 
-John thought the decision was peculiar because Williamston has many of the qualities a small theatre company should love: it's walkable, it has a scenic downtown, and there are plenty of great restaurants and sweet shops for visitors. The idea of opening a nonprofit theatre in Williamston stuck with John. He spent some time kicking the idea around with Tony and asked Chris and Emily for their help as well.
+John thought Williamston would be perfect for a small theatre company. It's walkable, it has a scenic downtown, and there are great restaurants and shops for visitors. The idea of opening a nonprofit theatre in Williamston stuck with John and he asked Tony, Chris, and Emily for help.
 
-Much of 2005 was spent formalizing their business plan and procuring space for the theatre in downtown Williamston. A huge volunteer effort was organized to remodel the building, which was previously used for retail space.
-
-Williamston Theatre opened their doors to the public with their production of *[Additional Particulars][8]*, a comedy by Ed Simpson, in the summer of 2006.
-
-## Big Wins
-
-Compassionate experiences are not just part of Williamston Theatre's art they are also something cultivated by the theatre's supporters. When one of the theatre's directors was hospitalized, the theatre created a fundraiser to cover additional driving expenses, but when the fundraiser ended, the community had raised enough money to cover most of the medical expenses! Those personal connections are some of the theatre's greatest rewards.
-
-In 2014, the Williamston Theatre was honored with a National Theatre Company Award. The [American Theatre Wing][5] &mdash;creator of the Tony Awards&mdash; presents this award to the twelve most promising theatre companies across the country. This award further demonstrates the high level of commitment Williamston Theatre has to its mission and supporters.
-
-![][9]
+Much of 2005 was spent formalizing their business plan and procuring space for the theatre in downtown Williamston. A huge volunteer effort was organized to remodel the building. Williamston Theatre opened its doors to the public with their production of *[Additional Particulars][8]*, a comedy by Ed Simpson, in the summer of 2006.
 
 ## Today
 
+Williamston Theatre is known as a theatre-in-the-round. It has seats on all four sides of the stage, but is commonly used as a 3/4 thrust space, where the audience only sits on three sides. This classic configuration results in a lot of creative use of the space.
 
+The theatre puts on six productions per season, but they also hold staged readings and other special events. Their tenth season is currently underway and an [eleventh season][9] has also been announced. In addition to its in-theatre productions, Williamston Theatre hosts a [YouTube channel][10] where viewers can watch the *[Monologue Project][11]* and other online works.
+
+The productions are designed to connect with their audience by helping them feel like they are a part of the show. Emily knows they've made that connection when someone is inspired to call a loved one after a performance.
+
+![][13]
+
+## Big Wins
+
+Compassionate experiences are not just part of Williamston Theatre's art, they are also something reflected by the theatre's supporters. When one of the theatre's directors was hospitalized, the community raised enough money to cover most of the medical expenses! Those personal connections are some of the theatre's greatest rewards.
+
+In 2014, the Williamston Theatre was honored with a National Theatre Company Award. The [American Theatre Wing][5] &mdash;creator of the Tony Awards&mdash; presents this award to the twelve most promising theatre companies across the country. This further demonstrates how committed Williamston Theatre is to its mission and supporters.
 
 ## Goals
 
-By the end of the summer, Williamston Theatre would like to complete an anthology of fourteen plays with world premieres at their theatre. This not only helps other theatres discover new plays they may want to produce, it also helps promote Michigan talent and the Williamston Theatre brand.
+By the end of the summer, Williamston Theatre would like to complete an anthology of fourteen plays with world premieres at their theatre. This will help other theatres discover new plays they may want to produce. It's also a great way to promote Michigan talent.
 
-Emily would also love to produce more shows in larger markets and build their relationships with the [Theatre Communications Group][4] and [National New Play Network][3]. Their membership with these national organizations will go a long way in supporting the work Michigan professionals and expanding partnerships with production companies all across the country.
+Emily would love to produce shows in larger markets and grow their relationships with the [Theatre Communications Group][4] and [National New Play Network][3]. These national organizations are great for supporting Michigan professionals and partnering with theatres all across the country.
 
-The big "pie in the sky" for Williamston Theatre would be to receive a Regional Tony Award. This would require a lot of growth for the theatre and it may take 30 to 40 years, but Emily wants to ensure Williamston Theatre outlives its creators. Making a legacy of the Williamston Theatre would be a great stride toward achieving both goals.
+The big "pie in the sky" for Williamston Theatre would be a Regional Tony Award. Emily also wants to ensure Williamston Theatre outlives its creators.
 
-![][10]
+![][14]
 
 ## For Nonprofits
 
@@ -54,8 +59,6 @@ If you want to start a nonprofit, build an awesome team first. Having a well-bal
 ## For Volunteers
 
 Emily says "Come on down!" Volunteering for an organization like Williamston Theatre that hosts performances will let you see the show for free. If you're not sure how to help, try ushering. Stop by the theatre or call if you're interested. 
-
-![][8]
 
 ## Get Involved
 
@@ -75,3 +78,6 @@ If you want to learn more about [Williamston Theatre][1], you can reach them by 
 [6]: http://www.purplerosetheatre.org/ "The Purple Rose Theatre Company Homepage"
 [7]: http://www.boarshead.org/ "Boarshead Professional Theatre Homepage"
 [8]: http://www.williamstontheatre.com/wp/about/past-shows/additional-particulars "Williamston Theatre's Production of Additional Particulars"
+[9]: http://www.williamstontheatre.org/wp/2016-2017-season "Williamston Theatre's Eleventh Season"
+[10]: https://www.youtube.com/user/williamstontheatre/videos "Williamston Theatre on YouTube"
+[11]: http://www.williamstontheatre.org/wp/blue-door/the-monologue-project "Willimaston Theatre's Monologue Project"
