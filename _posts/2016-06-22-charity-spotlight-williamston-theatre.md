@@ -32,7 +32,7 @@ Much of 2005 was spent formalizing their business plan and procuring space for t
 
 Williamston Theatre is a theatre-in-the-round. It has seats on all four sides of the stage, but is commonly used as a 3/4 thrust space, where the audience only sits on three sides. This classic configuration results in a lot of creative use of the space.
 
-The theatre puts on six productions per season, but they also hold staged readings and other special events. Their tenth season is currently underway and an [eleventh season][9] has also been announced. In addition to its in-theatre productions, Williamston Theatre hosts a [YouTube channel][10] where viewers can watch the *[Monologue Project][11]* and other online works.
+The theatre runs year-round putting on six productions per season, holding staged readings, and hosting other special events. Their tenth season is currently underway and the [eleventh season][9] starts in the fall. Williamston Theatre also has a [YouTube channel][10] where viewers can watch the *[Monologue Project][11]* and other online works.
 
 The productions are designed to connect with their audience by helping them feel like they are a part of the show. Emily knows they've made that connection when someone is inspired to call a loved one after a performance.
 
@@ -60,7 +60,7 @@ If you want to start a nonprofit, build an awesome team first. Having a well-bal
 
 ## For Volunteers
 
-Emily says "Come on down!" Volunteering for an organization like Williamston Theatre that hosts performances will let you see the show for free. If you're not sure how to help, try ushering. Stop by the theatre or call if you're interested. 
+Emily says "Come on down!" Volunteering for an organization that hosts performances (such as Williamston Theatre) will typically get you into a show for free. If you're not sure how to help, try ushering. Stop by the theatre or call if you're interested. 
 
 ## Get Involved
 
