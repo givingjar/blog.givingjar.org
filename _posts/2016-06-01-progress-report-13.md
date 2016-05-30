@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Clear the Runway for Take-off"
+title: "Preparing to Reboot"
 subtitle: "Progress Report #13"
-permalink: /progress-report-13-clear-the-runway-for-take-off/
+permalink: /progress-report-13-preparing-to-reboot/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
 snippet: >
