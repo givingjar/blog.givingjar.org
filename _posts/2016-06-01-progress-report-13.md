@@ -19,7 +19,7 @@ Here are the major wins in this progress report:
 
 1. Spotlighted [Lansing Makers Network][8].
 2. Interviewed [Joshua's Place][9] and [Williamston Theatre][10].
-3. First steps to creating the Giving Jar charity!
+3. Made first steps toward creating the Giving Jar charity!
 
 ## Failure {#failure}
 
