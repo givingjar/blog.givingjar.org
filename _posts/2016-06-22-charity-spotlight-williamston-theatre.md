@@ -4,7 +4,7 @@ title: "Charity Spotlight: Williamston Theatre"
 subtitle: "A professional theatre that enriches lives and provides tender, human experiences."
 permalink: /charity-spotlight-williamston-theatre/
 tags: [spotlight]
-preview-image: /img/spotlight/williamston-theatre/williamston-theatre-art-of-murder.jpg
+preview-image: /img/spotlight/williamston-theatre/williamston-theatre-best-brothers.jpg
 snippet: >
     Williamston Theatre supports Michigan culture and professional artists by
     producing entertaining and often sentimental performances that resonate with
@@ -26,7 +26,7 @@ John thought Williamston would be perfect for a small theatre company. It's walk
 
 Much of 2005 was spent formalizing their business plan and procuring space for the theatre in downtown Williamston. A huge volunteer effort was organized to remodel the building. Williamston Theatre opened its doors to the public with their production of *[Additional Particulars][8]*, a comedy by Ed Simpson, in the summer of 2006.
 
-![][13]
+![][16]
 
 ## Today
 
@@ -62,13 +62,15 @@ If you want to start a nonprofit, build an awesome team first. Having a well-bal
 
 Emily says "Come on down!" Volunteering for an organization that hosts performances (such as Williamston Theatre) will typically get you into a show for free. If you're not sure how to help, try ushering. Stop by the theatre or call if you're interested. 
 
+![][13]
+
 ## Get Involved
 
 If you want to learn more about [Williamston Theatre][1], you can reach them by clicking one of the buttons below.
 
 {% include web-links.html home="http://www.williamstontheatre.org/" twitter="WilliamstonThtr" facebook="williamstontheatre" youtube="williamstontheatre" %}
 
-###### Photographs Courtesy of [Chris Purchis][2]
+###### Photographs Courtesy of [Chris Purchis][2] and [Ian Kast][17]
 
 
 
@@ -83,7 +85,9 @@ If you want to learn more about [Williamston Theatre][1], you can reach them by 
 [9]: http://www.williamstontheatre.org/wp/2016-2017-season "Williamston Theatre's Eleventh Season"
 [10]: https://www.youtube.com/user/williamstontheatre/videos "Williamston Theatre on YouTube"
 [11]: http://www.williamstontheatre.org/wp/blue-door/the-monologue-project "Willimaston Theatre's Monologue Project"
-[12]: /img/spotlight/williamston-theatre/williamston-theatre-art-of-murder.jpg "Williamston Theatre Presents: The Art of Murder by Joe DiPietor"
-[13]: /img/spotlight/williamston-theatre/williamston-theatre-best-brothers.jpg "Williamston Theatre Presents: The Best Brothers"
-[14]: /img/spotlight/williamston-theatre/williamston-theatre-decade-dance.jpg "Williamston Theatre Presents: The Decade Dance by Joseph Zettelmaier"
-[15]: /img/spotlight/williamston-theatre/williamston-theatre-frankie-and-johnny.jpg "Williamston Theatre Presents: Frankie and Johnny in the Clair de Lune by Terrence McNally"
+[12]: /img/spotlight/williamston-theatre/williamston-theatre-art-of-murder.jpg "Williamston Theatre Presents: The Art of Murder by Joe DiPietor. Photo courtesy of Chris Purchis."
+[13]: /img/spotlight/williamston-theatre/williamston-theatre-best-brothers.jpg "Williamston Theatre Presents: The Best Brothers by Daniel MacIvor. Photo courtesy of Chris Purchis."
+[14]: /img/spotlight/williamston-theatre/williamston-theatre-decade-dance.jpg "Williamston Theatre Presents: The Decade Dance by Joseph Zettelmaier. Photo courtesy of Chris Purchis."
+[15]: /img/spotlight/williamston-theatre/williamston-theatre-frankie-and-johnny.jpg "Williamston Theatre Presents: Frankie and Johnny in the Clair de Lune by Terrence McNally. Photo courtesy of Chris Purchis."
+[16]: /img/spotlight/williamston-theatre/williamston-theatre-facade.jpg "Williamston Theatre Facade. Photo courtesy of Ian Kast."
+[17]: https://twitter.com/MrIanKast "Ian Kast on Twitter"
