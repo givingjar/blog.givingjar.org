@@ -30,7 +30,7 @@ Much of 2005 was spent formalizing their business plan and procuring space for t
 
 ## Today
 
-Williamston Theatre is a theatre-in-the-round. It has seats on all four sides of the stage, but is commonly used as a 3/4 thrust space, where the audience only sits on three sides. This classic configuration results in a lot of creative use of the space.
+Williamston Theatre is a theatre-in-the-round. It has seats on all four sides of the stage but is commonly used as a 3/4 thrust space, where the audience only sits on three sides. This classic configuration results in a lot of creative use of the space.
 
 The theatre runs year-round putting on six productions per season, holding staged readings, and hosting other special events. Their tenth season is currently underway and the [eleventh season][9] starts in the fall. Williamston Theatre also has a [YouTube channel][10] where viewers can watch the *[Monologue Project][11]* and other online works.
 
@@ -84,7 +84,7 @@ If you want to learn more about [Williamston Theatre][1], you can reach them by 
 [8]: http://www.williamstontheatre.com/wp/about/past-shows/additional-particulars "Williamston Theatre's Production of Additional Particulars"
 [9]: http://www.williamstontheatre.org/wp/2016-2017-season "Williamston Theatre's Eleventh Season"
 [10]: https://www.youtube.com/user/williamstontheatre/videos "Williamston Theatre on YouTube"
-[11]: http://www.williamstontheatre.org/wp/blue-door/the-monologue-project "Willimaston Theatre's Monologue Project"
+[11]: http://www.williamstontheatre.org/wp/blue-door/the-monologue-project "Williamston Theatre's Monologue Project"
 [12]: /img/spotlight/williamston-theatre/williamston-theatre-art-of-murder.jpg "Williamston Theatre Presents: The Art of Murder by Joe DiPietor. Photo courtesy of Chris Purchis."
 [13]: /img/spotlight/williamston-theatre/williamston-theatre-best-brothers.jpg "Williamston Theatre Presents: The Best Brothers by Daniel MacIvor. Photo courtesy of Chris Purchis."
 [14]: /img/spotlight/williamston-theatre/williamston-theatre-decade-dance.jpg "Williamston Theatre Presents: The Decade Dance by Joseph Zettelmaier. Photo courtesy of Chris Purchis."
