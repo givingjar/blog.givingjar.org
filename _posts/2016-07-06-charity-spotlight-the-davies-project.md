@@ -18,13 +18,23 @@ In this charity spotlight, I spoke with the Executive Director of The Davies Pro
 
 ## Origin Story
 
+Pam is originally from Boston and has always been interested in helping others. She absolutely loved her time in Africa as a part of the [Peace Corps][5] and hoped to return there after graduating from Michigan State University. When she learned that her oldest son had leukemia, everything changed.
 
+Her son was ultimately a cancer survivor, but the experience turned Pam's world upside down and not solely because of the turmoil her family had to endure. Pam was also saddened by the struggles that other families faced. The additional stress of an illness and lack of additional support led many families to miss appointments. Divorce was also very common.
+
+In her efforts to help, Pam met Dr. H. Dele Davies, the chair of the [Department of Pediatrics and Human Development][6] at Michigan State University at the time, and became a board member of the MSU Children's Health Initiative. Dr. Davies was a major inspiration to Pam and they made great strides toward helping children in need of outpatient pediatric care.
+
+Dr. Davies eventually continued his work elsewhere, but he had left a mark. Pam and many others from the Children's Health Institute decided to start a new organization in 2012 in his honor and continue helping children in the Lansing area.
 
 ![][4]
 
 ## Today
 
+The Davies Project is dedicated to improving the care of children in Greater Lansing. They provide rides to children and their families to any of the subspecialty clinics at [Sparrow][7], [Michigan State University][8], and the [Ingham County Health Department][9]. All volunteer drivers get background and drivers license checks. They also receive a car or booster seat, installation training, and diversity training.
 
+Drivers don't just take patients to and from appointments. They are encouraged to spend time with the family while they wait for their appointments and make a personal connection with each family they help. Building these relationships not only helps a family feel safe and comfortable with their driver, it can also help at-risk families avoid other common problems such as hunger and homelessness.
+
+In addition to driving services, The Davies Project also helps provide artwork, larger chairs, blanket warmers, and other supplies to outpatient facilities.
 
 ![][2]
 
@@ -64,3 +74,8 @@ If you want to learn more about [The Davies Project][1], you can reach them by c
 [2]: /img/spotlight/the-davies-project/the-davies-project-smiley.jpg "The Davies Project brings the smiles"
 [3]: /img/spotlight/the-davies-project/the-davies-project-family.jpg "The Davies Project loves to help families"
 [4]: /img/spotlight/the-davies-project/the-davies-project-dele-davies.jpg "Doctor H. Dele Davies"
+[5]: https://www.peacecorps.gov/ "Peace Corps Homepage"
+[6]: http://www.phd.msu.edu/ "Department of Pediatrics and Human Development Homepage"
+[7]: http://www.sparrow.org/ "Sparrow Hospital Homepage"
+[8]: https://msu.edu/ "Michigan State University Homepage"
+[9]: http://hd.ingham.org/ "Ingham County Health Department Homepage"
