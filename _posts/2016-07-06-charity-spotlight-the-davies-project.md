@@ -30,11 +30,11 @@ In this charity spotlight, I spoke with the Executive Director of The Davies Pro
 
 ## Big Wins
 
-
+The generosity of donors continues to be a pleasant surprise for Pam. She says there's nothing quite like walking into her office and seeing a $500 check donated by a stranger, but she also knows that The Davies Project has become a part of a lot of positive stories and knows how valuable that can be.
 
 ## Goals
 
-Pam has a *lot* of aspirations for The Davies Project. She'd love to expand the driving program to 50 drivers, offering 50-60 rides per week, and generally improving their handicap accessibility.
+Pam has a variety of aspirations for The Davies Project. She'd love to expand the driving program to 50 drivers, offering 50-60 rides per week, and improving their handicap accessibility.
 
 Reaching more families is important, too. This could be accomplished by building relationships with more faith groups and hospitals, deepening existing relationships, and offering rides to children's primary care or helping women get to their prenatal care. The long-term vision also has The Davies Project branching out to other cities such as Ann Arbor, Flint, and Detroit.
 
