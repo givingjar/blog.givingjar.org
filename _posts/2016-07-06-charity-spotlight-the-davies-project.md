@@ -42,7 +42,9 @@ Reaching more families is important, too. This could be accomplished by building
 
 ## For Nonprofits
 
+If you help manage a nonprofit, treat it like you're running a marathon and take it one day at a time. Stay true to your mission and always focus on what's most important.
 
+You should also accept that despite their enthusiasm, volunteers are come and go. Don't be afraid to make them a part of your family, but anticipate them moving on someday and always keep your eyes open for additional volunteers.
 
 ## For Volunteers
 
