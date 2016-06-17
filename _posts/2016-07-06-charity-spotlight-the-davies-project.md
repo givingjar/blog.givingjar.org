@@ -46,9 +46,9 @@ If you help manage a nonprofit, treat it like you're running a marathon and take
 
 You should also accept that despite their enthusiasm, volunteers are come and go. Don't be afraid to make them a part of your family, but anticipate them moving on someday and always keep your eyes open for additional volunteers.
 
-## For Volunteers
+## For Donors and Volunteers
 
-
+Whether you want to donate your time, your money, or something else, be realistic about your priorities and give to an organization that is truly important to you. Take a step back from your daily routines and think about what motivates you. Use that to power your decisions.
 
 ## Get Involved
 
