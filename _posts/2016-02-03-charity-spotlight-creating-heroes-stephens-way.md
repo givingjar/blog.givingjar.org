@@ -22,19 +22,19 @@ Monica's brother, Stephen, used to run Capital City Collectibles, a comic book a
 
 After learning about all of the work Stephen had been doing to help children in the area, she decided to carry on his philanthropic efforts. She made the decision official by reinventing Capital City Collectibles as the charity, Creating Heroes Stephen's Way.
 
-![][5]
+![][4]
 
 ## Today
 
-Creating Heroes Stephen's Way continues to sell comic books at the back of [Everybody Reads Book Store][7]. All profits go to mentoring and other youth programs.
+Creating Heroes Stephen's Way continues to sell comic books at the back of [Everybody Reads Book Store][6]. All profits go to mentoring and other youth programs.
 
 These programs include literacy through comic books and drawing lessons through *Rick & Joe's Comics Crash Course for Kids*. Creating Heroes Stephen's Way also offers children a safe place to play games such as *Magic: The Gathering*, *Pokemon*, and *HeroClix*. Regular tournaments are also a big hit.
 
-Creating Heroes Stephen's Way also participates in [Free Comic Book Day][9], encourages kids to get involved in cosplay, and they even got one of Robert Downey Jr.'s Iron Man costumes for one of their events!
+Creating Heroes Stephen's Way also participates in [Free Comic Book Day][8], encourages kids to get involved in cosplay, and they even got one of Robert Downey Jr.'s Iron Man costumes for one of their events!
 
 ## Big Wins
 
-Each child she is able to help is a big win for Monica, but it's also not uncommon that she is able to help the parents through her work at the [NorthWest Initiative][8]. The NorthWest Initiative is a nonprofit dedicated to helping build and sustain healthy communities in Lansing.
+Each child she is able to help is a big win for Monica, but it's also not uncommon that she is able to help the parents through her work at the [NorthWest Initiative][7]. The NorthWest Initiative is a nonprofit dedicated to helping build and sustain healthy communities in Lansing.
 
 When Monica meets new children, sometimes she also discovers parents who need help getting back on their feet. If she can help those parents get the right experience, education, and licensing to get back into the workforce, she can help a whole family. Those wins are huge.
 
@@ -50,7 +50,7 @@ Kids are always looking for love and family. Monica would like to find more oppo
 
 Creating Heroes Stephen's Way regularly holds *Magic: The Gathering*, *Pokemon*, and *HeroClix* tournaments, but they would also like to include more volunteers to help with other games.
 
-![][6]
+![][5]
 
 ## To Donors
 
@@ -60,7 +60,7 @@ Find something you love to do and do it for a good cause. Do you like drawing, r
 
 ## Get Involved
 
-If you want to learn more about [Creating Heroes Stephen's Way][1], you can reach them by clicking one of the buttons below or visiting them at [Everybody Reads][7] in Lansing, Michigan.
+If you want to learn more about [Creating Heroes Stephen's Way][1], you can reach them by clicking one of the buttons below.
 
 {% include web-links.html home="http://creatingheroesstephensway.com/" facebook="Creating-Heroes-Stephens-Way-327694434004028" %}
 
@@ -71,9 +71,8 @@ If you want to learn more about [Creating Heroes Stephen's Way][1], you can reac
 [1]: http://creatingheroesstephensway.com/ "Creating Heroes Stephen's Way Homepage"
 [2]: https://www.facebook.com/Creating-Heroes-Stephens-Way-327694434004028/ "Creating Heroes Stephen's Way on Facebook"
 [3]: /img/spotlight/creating-heroes-stephens-way/creating-dc-fans-stephens-way.jpg "Creating DC Fans Stephen's Way"
-[4]: /img/spotlight/creating-heroes-stephens-way/creating-heroes-stephens-way-logo-small.png "Creating Heroes Stephen's Way Small Logo"
-[5]: /img/spotlight/creating-heroes-stephens-way/wonder-woman-iron-man.jpg "Cosplay and the Iron Man Helmet"
-[6]: /img/spotlight/creating-heroes-stephens-way/kids-and-clix.png "Kids, Comics, and HeroClix"
-[7]: https://www.facebook.com/EverybodyReads "Everybody Reads Book Store"
-[8]: http://nwlansing.org/about/ "NorthWest Initiative of Lansing"
-[9]: http://www.freecomicbookday.com/ "Free Comic Book Day"
+[4]: /img/spotlight/creating-heroes-stephens-way/wonder-woman-iron-man.jpg "Cosplay and the Iron Man Helmet"
+[5]: /img/spotlight/creating-heroes-stephens-way/kids-and-clix.png "Kids, Comics, and HeroClix"
+[6]: https://www.facebook.com/EverybodyReads "Everybody Reads Book Store"
+[7]: http://nwlansing.org/about/ "NorthWest Initiative of Lansing"
+[8]: http://www.freecomicbookday.com/ "Free Comic Book Day"
