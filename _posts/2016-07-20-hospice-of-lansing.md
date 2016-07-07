@@ -26,6 +26,8 @@ In this charity spotlight, I spoke with the Fund Development Director, Heather V
 
 
 
+![][4]
+
 ## Today
 
 
@@ -34,17 +36,17 @@ In this charity spotlight, I spoke with the Fund Development Director, Heather V
 
 
 
-![][4]
+![][3]
 
 ## For Nonprofits
 
 
 
-## For Volunteers
+## For Donors and Volunteers
 
+When it comes to supporting a nonprofit, Heather says "no gift is too small and no volunteer time span is too short." No matter how you choose to help, it will always go a long way. You just have to take that first step and reach out to the people you want to support.
 
-
-![][6]
+![][2]
 
 ## Get Involved
 
@@ -57,3 +59,7 @@ If you want to learn more about [Hospice of Lansing][1], you can reach them by c
 
 
 [1]: http://www.lansinghospice.org/ "Hospice of Lansing Homepage"
+[2]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-stoneleigh.jpg "The Stoneleigh Residence, located in South Lansing"
+[3]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-smiles.jpg "Hospice of Lansing builds friendships"
+[4]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-tlc.jpg "Hospice of Lansing provides attentive care, anywhere"
+[5]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-smiles.jpg "asdf"
