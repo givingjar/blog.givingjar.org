@@ -40,7 +40,7 @@ In this charity spotlight, I spoke with the Fund Development Director, Heather V
 
 ## For Nonprofits
 
-
+If there's something you are passionate about, try to find someone already doing that before you start something new. The energy and love you give to an existing organization could change lives and will likely make a bigger difference than going alone. Working as a team is a great way to achieve a goal.
 
 ## For Donors and Volunteers
 
