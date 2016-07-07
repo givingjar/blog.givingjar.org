@@ -24,7 +24,9 @@ In this charity spotlight, I spoke with the Fund Development Director, Heather V
 
 ## Big Wins
 
+Every person that Hospice of Lansing helps becomes many new friendships, stories, and memories. Care doesn't stop at the end of life for Hospice of Lansing, either. They continue to help the bereaved and build strong connections with loved ones. Every person the hospice can help is a win and they try to help every person they possibly can.
 
+Hospice of Lansing also held their first fundraising breakfast in the spring. It had an immense turnout of 187 people and raised more than $126,000 in gifts and pledges.
 
 ![][4]
 
@@ -36,7 +38,7 @@ In this charity spotlight, I spoke with the Fund Development Director, Heather V
 
 Heather would love to help shed some light on many of the myths that surround hospice care. For example, many people still see hospice as a place when it is actually a service. In fact, only eight of the fifty people Hospice of Lansing help every day live at their Stoneleigh Residence! Hospice of Lansing is helping to dispel these myths by giving tours and doing more community outreach.
 
-Finding funds for short-term operations is also an ongoing goal, and long-term, Heather would like to build a stronger endowment for the hospice.
+Finding funds for short-term operations is also an ongoing goal and thinking longer term, Heather would like to build a stronger endowment for the hospice.
 
 ![][3]
 
