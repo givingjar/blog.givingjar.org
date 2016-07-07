@@ -20,7 +20,11 @@ In this charity spotlight, I spoke with the Fund Development Director, Heather V
 
 ## Origin Story
 
+Modern hospice care is still fairly new to the world, not being developed until the 1950s. Nearly a decade later, a hospice movement had started in the U.K. that opened up talk about death and helped provide better care for the incurably ill. It wouldn't be until 1971 that the United States would see its first hospice.
 
+In 1979, when a group of volunteers started providing care for the terminally ill in Lansing, Michigan, hospice in the United States was still in its infancy. Insurance did not reimburse hospice care and the volunteers helped when they could, typically at the end of their workdays. Their compassion persisted, though, and their dedication to helping people at the end of their lives endured.
+
+This commitment helped Hospice of Lansing to became the first hospice in mid-Michigan and one of the first 100 hospices in the United States.
 
 ## Big Wins
 
