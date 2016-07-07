@@ -34,7 +34,9 @@ In this charity spotlight, I spoke with the Fund Development Director, Heather V
 
 ## Goals
 
+Heather would love to help shed some light on many of the myths that surround hospice care. For example, many people still see hospice as a place when it is actually a service. In fact, only eight of the fifty people Hospice of Lansing help every day live at their Stoneleigh Residence! Hospice of Lansing is helping to dispel these myths by giving tours and doing more community outreach.
 
+Finding funds for short-term operations is also an ongoing goal, and long-term, Heather would like to build a stronger endowment for the hospice.
 
 ![][3]
 
