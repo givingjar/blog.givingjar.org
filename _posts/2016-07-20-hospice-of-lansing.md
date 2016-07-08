@@ -4,7 +4,7 @@ title: "Charity Spotlight: Hospice of Lansing"
 subtitle: "Cherishing the end of life through vigilant and loving hospice care."
 permalink: /charity-spotlight-hospice-of-lansing/
 tags: [spotlight]
-preview-image: /img/spotlight/hospice-of-lansing/hospice-of-lansing-.jpg
+preview-image: /img/spotlight/hospice-of-lansing/hospice-of-lansing-smiles.jpg
 snippet: >
     Hospice of Lansing is everything a person might want at the end of their
     life: family, friends, home, comfort, care, love, great memories, peace.
