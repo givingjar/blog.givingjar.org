@@ -26,23 +26,27 @@ In 1979, when a group of volunteers started providing care for the terminally il
 
 This commitment helped Hospice of Lansing to became the first hospice in mid-Michigan and one of the first 100 hospices in the United States.
 
-## Big Wins
+## Today
 
-Every person that Hospice of Lansing helps becomes many new friendships, stories, and memories. Care doesn't stop at the end of life for Hospice of Lansing, either. They continue to help the bereaved and build strong connections with loved ones. Every person the hospice can help is a win and they try to help every person they possibly can.
+Hospice of Lansing helps dozens of people of all ages around Lansing every day. Whether they live in a private home, a family member's home, or assisted living, nurses are happy to provide care wherever is most comfortable and help deliver medication and medical equipment. There is always a nurse on call too.
 
-Hospice of Lansing also held their first fundraising breakfast in the spring. It had an immense turnout of 187 people and raised more than $126,000 in gifts and pledges.
+Trained volunteers are also available to help with daily chores, aid family members, and even provide music and massage therapy. A social worker can also help with financial and legal matters. The hospice care aims to be as comprehensive as possible so families can focus on the quality of their loved one's life.
+
+There is also in-patient care at the hospice's Stoneleigh Residence. The beautiful 22-acre estate offers all of the amenities of the in-home care. Each of the eight rooms includes a bed, pullout couch, TV, refrigerator, bathroom, and patio. Extra-wide doors make it easy to move furniture in or out of the room and it's not uncommon for guests to bring pets.
 
 ![][4]
 
-## Today
+## Big Wins
 
+Every person that helps leads to so many new friendships, stories, and memories. Care doesn’t stop at the end of life for Hospice of Lansing, either. They continue to help the bereaved and build strong connections with loved ones. Every person the hospice can help is a win and they try to help every person they possibly can.
 
+Hospice of Lansing also held their first fundraising breakfast in the spring. It had an immense turnout of 187 people and raised more than $126,000 in gifts and pledges.
 
 ## Goals
 
 Heather would love to help shed some light on many of the myths that surround hospice care. For example, many people still see hospice as a place when it is actually a service. In fact, only eight of the fifty people Hospice of Lansing help every day live at their Stoneleigh Residence! Hospice of Lansing is helping to dispel these myths by giving tours and doing more community outreach.
 
-Finding funds for short-term operations is also an ongoing goal and thinking longer term, Heather would like to build a stronger endowment for the hospice.
+Short-term funding for daily operations is an ongoing goal as well and longer term, Heather would like to build a stronger endowment for the hospice.
 
 ![][3]
 
