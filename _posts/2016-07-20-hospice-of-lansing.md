@@ -4,7 +4,7 @@ title: "Charity Spotlight: Hospice of Lansing"
 subtitle: "Cherishing the end of life through vigilant and loving hospice care."
 permalink: /charity-spotlight-hospice-of-lansing/
 tags: [spotlight]
-preview-image: /img/spotlight/hospice-of-lansing/hospice-of-lansing-smiles.jpg
+preview-image: /img/spotlight/hospice-of-lansing/hospice-of-lansing-nicole.jpg
 snippet: >
     Hospice of Lansing is everything a person might want at the end of their
     life: family, friends, home, comfort, care, love, great memories, peace.
@@ -16,7 +16,7 @@ snippet: >
 
 In this charity spotlight, I spoke with the Fund Development Director, Heather Vida, and the Executive Director, John Person.
 
-![][5]
+![][4]
 
 ## Origin Story
 
@@ -24,7 +24,7 @@ Modern hospice care is still fairly new to the world, not being developed until 
 
 In 1979, when a group of volunteers started providing care for the terminally ill in Lansing, Michigan, hospice in the United States was still in its infancy. Insurance did not reimburse hospice care and the volunteers helped when they could, typically at the end of their workdays. Their compassion persisted, though, and their dedication to helping people at the end of their lives endured.
 
-This commitment helped Hospice of Lansing to became the first hospice in mid-Michigan and one of the first 100 hospices in the United States.
+This commitment helped Hospice of Lansing to become the first hospice in mid-Michigan and one of the first 100 hospices in the United States.
 
 ## Today
 
@@ -34,7 +34,7 @@ Trained volunteers are also available to help with daily chores, aid family memb
 
 There is also in-patient care at the hospice's Stoneleigh Residence. The beautiful 22-acre estate offers all of the amenities of the in-home care. Each of the eight rooms includes a bed, pullout couch, TV, refrigerator, bathroom, and patio. Extra-wide doors make it easy to move furniture in or out of the room and it's not uncommon for guests to bring pets.
 
-![][4]
+![][5]
 
 ## Big Wins
 
@@ -72,6 +72,6 @@ If you want to learn more about [Hospice of Lansing][1], you can reach them by c
 
 [1]: http://www.lansinghospice.org/ "Hospice of Lansing Homepage"
 [2]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-stoneleigh.jpg "The Stoneleigh Residence, located in South Lansing"
-[3]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-smiles.jpg "Hospice of Lansing builds friendships"
-[4]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-tlc.jpg "Hospice of Lansing provides attentive care, anywhere"
-[5]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-smiles.jpg "asdf"
+[3]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-tlc.jpg "Hospice of Lansing provides attentive care, anywhere"
+[4]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-nicole.jpg "Hospice of Lansing is more than medical care"
+[5]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-music.jpg "asdf"
