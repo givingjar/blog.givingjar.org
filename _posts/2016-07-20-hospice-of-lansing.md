@@ -48,7 +48,7 @@ Heather would love to help shed some light on many of the myths that surround ho
 
 Short-term funding for daily operations is an ongoing goal as well and longer term, Heather would like to build a stronger endowment for the hospice.
 
-![][3]
+![][2]
 
 ## For Nonprofits
 
@@ -58,7 +58,7 @@ If there's something you are passionate about, try to find someone already doing
 
 When it comes to supporting a nonprofit, Heather says "no gift is too small and no volunteer time span is too short." No matter how you choose to help, it will always go a long way. You just have to take that first step and reach out to the people you want to support.
 
-![][2]
+![][3]
 
 ## Get Involved
 
