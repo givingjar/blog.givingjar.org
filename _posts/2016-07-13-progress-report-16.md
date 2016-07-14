@@ -31,7 +31,7 @@ Failure is okay if you learn from it. Here are some lessons learned in the past 
 
 ## Thanks {#thanks}
 
-The visuals didn't work out when presenting Giving Jar to the [Kiwanis Club of Lansing][10], but we rolled with it and the roundtable presentation worked out even better. Thanks for letting me share Giving Jar's vision with your great group!
+The visuals didn't work out when presenting Giving Jar to the [Delta Township Kiwanis Club][10], but we rolled with it and the roundtable presentation worked out even better. Thanks for letting me share Giving Jar's vision with your great group!
 
 Thanks to Chris, Klein, and Teresa, for believing in our mission. After we revolutionize online giving, the Internet will never be the same!
 
@@ -62,4 +62,4 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
 [8]: http://blog.givingjar.org/charity-spotlight-the-davies-project/ "The Davies Project Spotlight"
 [9]: http://www.lansinghospice.org/ "Hospice of Lansing Homepage"
-[10]: http://lansingkiwanis.org/ "Kiwanis Club of Lansing Homepage"
+[10]: https://www.facebook.com/kiwanis.deltatownship "Delta Township Kiwanis Club on Facebook"
