@@ -38,7 +38,7 @@ There is also in-patient care at the hospice's Stoneleigh Residence. The beautif
 
 ## Big Wins
 
-Every person that helps leads to so many new friendships, stories, and memories. Care doesn’t stop at the end of life for Hospice of Lansing, either. They continue to help the bereaved and build strong connections with loved ones. Every person the hospice can help is a win and they try to help every person they possibly can.
+Every person and family helped becomes many new friendships, stories, and memories. Care doesn’t stop at the end of life for Hospice of Lansing, either. They continue to help the bereaved and build strong connections with loved ones. Every person the hospice can help is a win and they try to help every person they possibly can.
 
 Hospice of Lansing also held their first fundraising breakfast in the spring. It had an immense turnout of 187 people and raised more than $126,000 in gifts and pledges.
 
@@ -74,4 +74,4 @@ If you want to learn more about [Hospice of Lansing][1], you can reach them by c
 [2]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-stoneleigh.jpg "The Stoneleigh Residence, located in South Lansing"
 [3]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-tlc.jpg "Hospice of Lansing provides attentive care, anywhere"
 [4]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-nicole.jpg "Hospice of Lansing is more than medical care"
-[5]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-music.jpg "asdf"
+[5]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-music.jpg "Hospice of Lansing offers music therapy and more"
