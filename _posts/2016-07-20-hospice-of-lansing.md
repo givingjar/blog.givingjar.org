@@ -64,13 +64,13 @@ When it comes to supporting a nonprofit, Heather says "no gift is too small and 
 
 If you want to learn more about [Hospice of Lansing][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.lansinghospice.org/" twitter="LansingHospice" facebook="hospiceoflansing" youtube="hospiceoflansing" %}
+{% include web-links.html home="http://hospiceoflansing.org/" twitter="LansingHospice" facebook="hospiceoflansing" youtube="hospiceoflansing" %}
 
 ###### Photographs Courtesy of [Hospice of Lansing][1].
 
 
 
-[1]: http://www.lansinghospice.org/ "Hospice of Lansing Homepage"
+[1]: http://hospiceoflansing.org/ "Hospice of Lansing Homepage"
 [2]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-stoneleigh.jpg "The Stoneleigh Residence, located in South Lansing"
 [3]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-tlc.jpg "Hospice of Lansing provides attentive care, anywhere"
 [4]: /img/spotlight/hospice-of-lansing/hospice-of-lansing-nicole.jpg "Hospice of Lansing is more than medical care"
