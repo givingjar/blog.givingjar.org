@@ -9,7 +9,9 @@ snippet: >
     Origami Brain Injury Rehabilitation Center
 ---
 
-[Origami Brain Injury Rehabilitation Center][1] 
+[Origami Brain Injury Rehabilitation Center][1] provides
+
+Brain trauma is unlike any physical injury a person can experience. 
 
 In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hannah, and Business Development Manager, Yvonne Fleener.
 
@@ -41,7 +43,9 @@ In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hann
 
 ## For Donors and Volunteers
 
+When you're deciding where to direct your energy, listen to the stories about who the charity has helped, witness a charity's purpose first-hand, and pick what feels right.
 
+As you volunteer, create your own stories. Support a person, be their cheerleader and their friend, and you can make a huge difference in someone's life.
 
 ![][3]
 
