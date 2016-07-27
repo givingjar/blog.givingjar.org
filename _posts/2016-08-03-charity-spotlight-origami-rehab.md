@@ -35,7 +35,7 @@ In fact, Origami recently started working with their 1,000th client! Helping so 
 
 ## Goals
 
-
+Tammy and Yvonne agree that one of their ongoing goals is to raise awareness about brain injuries, their prevention, and the treatments that Origami provides. Origami has also recently completed the first of five phases to develop and take full advantage of the naturally enriching environment that surrounds them.
 
 ![][2]
 
