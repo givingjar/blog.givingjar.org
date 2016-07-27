@@ -39,13 +39,13 @@ In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hann
 
 ## For Nonprofits
 
-
+Make sure everything you do for a nonprofit is in support of their mission and let that mission guide every decision you make. Teaming up with other nonprofits is also a great way to do a lot of good while still allowing you to focus on your strengths.
 
 ## For Donors and Volunteers
 
 When you're deciding where to direct your energy, listen to the stories about who the charity has helped, witness a charity's purpose first-hand, and pick what feels right.
 
-As you volunteer, create your own stories. Support a person, be their cheerleader and their friend, and you can make a huge difference in someone's life.
+As you volunteer, create your own stories. Support a person, be their cheerleader and their friend. You'll make a huge difference in someone's life.
 
 ![][3]
 
