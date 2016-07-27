@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Tax Exempt Status: Engage"
+title: "Warp 501(c)(3): Engage"
 subtitle: "Progress Report #17"
-permalink: /progress-report-17-tax-exempt-status-engage/
+permalink: /progress-report-17-warp-501c3-engage/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
 snippet: >
