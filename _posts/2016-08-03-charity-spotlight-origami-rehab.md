@@ -29,7 +29,9 @@ In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hann
 
 ## Big Wins
 
+By increasing the number of people who can be treated at any given time, adding new methods of treatment, and bringing in additional staff, Origami has been able to help many more people than they could nearly twenty years ago.
 
+In fact, Origami recently started working with their 1,000th client! Helping so many people&mdash;and their family&mdash;has been and will continue to be a very uplifting accomplishment.
 
 ## Goals
 
