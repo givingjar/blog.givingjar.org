@@ -44,9 +44,9 @@ Jessica compares running a nonprofit to a wedding. Things will go wrong, but don
 
 She also recommends limiting the duration for board membership. Rotating new people into your organization will help you adapt to change and keep your perspective fresh.
 
-## For Donors and Volunteers
+## For Donors
 
-
+Before you donate to a charity, do a little research so you understand how your money will be used. Asking is a great start, but try to visit, too. It will give you a better understand of what the charity is about and it will help you figure out exactly what they need when you do donate.
 
 ![][3]
 
