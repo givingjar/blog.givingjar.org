@@ -23,13 +23,25 @@ The most complicated part of our body has no prescribed treatment for when it is
 
 Treatments that work are personal. They are designed specifically for each individual's injury and are as unique as the injuries themselves. These treatments must be adapted over time and require a wide variety of techniques, experience, and support.
 
-All of this is as true today as it was in the mid-90s when members of Michigan State University's [College of Osteopathic Medicine][2] and [Peckham, Inc.][3] envisioned a way they could provide everything someone recovering from a brain injury might need. That vision became the Origami Brain Injury Rehabilitation Center. 
+All of this is as true today as it was in the mid-90s when members of Michigan State University's [College of Osteopathic Medicine][2] and [Peckham, Inc.][3] envisioned a way they could provide everything someone recovering from a brain injury might need. That vision became the Origami Brain Injury Rehabilitation Center.
+
+![][5]
 
 ## Today
 
+To provide the best care to each patient, Origami offers neural rehabilitation, physical and occupational therapy, vision, cognitive, and memory training, and a variety of specialized therapies. The center also helps patients manage daily routines, medication, money, cooking, dating, parenting, and vocational skills.
 
+One facet of care that every patient receives is support. Origami encourages family members to visit at any time and provides family and marriage counseling. Patients also see the same staff throughout their rehabilitation as well.
 
-![][5]
+Residents can be assisted 24/7, live semi-independently in their own rooms, or stay in an on-site apartment with phone support available as needed. Origami also offers outpatient- and community-based care.
+
+Origami sits amidst 35 acres of woodland property that offers patients tranquility, space, and freedom. The natural setting is complemented by hands-on activities for patients such as gardens, an art studio, and a wood shop. Computer-assisted recovery is also offered using devices such as a driving simulator and Nintendo Wii.
+
+![][6]
+
+## Goals
+
+Tammy and Yvonne agree that one of their ongoing goals is to raise awareness about brain injuries, their prevention, and the treatments that Origami provides. Origami has also recently completed the first of five phases to develop and take full advantage of the naturally enriching environment that surrounds them.
 
 ## Big Wins
 
@@ -37,15 +49,7 @@ By increasing the number of people who can be treated at any given time, adding 
 
 In fact, Origami recently started working with their 1,000th client! Helping so many people&mdash;and their family&mdash;has been and will continue to be a very uplifting accomplishment.
 
-## Goals
-
-Tammy and Yvonne agree that one of their ongoing goals is to raise awareness about brain injuries, their prevention, and the treatments that Origami provides. Origami has also recently completed the first of five phases to develop and take full advantage of the naturally enriching environment that surrounds them.
-
-![][2]
-
-## For Nonprofits
-
-Make sure everything you do for a nonprofit is in support of their mission and let that mission guide every decision you make. Teaming up with other nonprofits is also a great way to do a lot of good while still allowing you to focus on your strengths.
+![][7]
 
 ## For Donors and Volunteers
 
@@ -53,7 +57,9 @@ When you're deciding where to direct your energy, listen to the stories about wh
 
 As you volunteer, create your own stories. Support a person, be their cheerleader and their friend. You'll make a huge difference in someone's life.
 
-![][3]
+## For Nonprofits
+
+When working for a nonprofit, make sure everything you do is in support of your mission. Tammy recommends you let your mission guide every decision you make. Teaming up with other nonprofits is also a great way to do a lot of good while still allowing you to focus on your strengths.
 
 ## Get Involved
 
@@ -68,3 +74,7 @@ If you want to learn more about [Origami Brain Injury Rehabilitation Center][1],
 [1]: http://www.origamirehab.org/ "Origami Brain Injury Rehabilitation Center Homepage"
 [2]: http://www.pmr.msu.edu/ "Michigan State University College of Osteopathic Medicine, Physical Medicine and Rehabilitation Department Homepage"
 [3]: http://www.peckham.org/ "Peckham, Inc. Homepage"
+[4]: /img/spotlight/origami-rehab/origami-rehab-.jpg ""
+[5]: /img/spotlight/origami-rehab/origami-rehab-.jpg ""
+[6]: /img/spotlight/origami-rehab/origami-rehab-.jpg ""
+[7]: /img/spotlight/origami-rehab/origami-rehab-.jpg ""
