@@ -40,7 +40,9 @@ In this charity spotlight, I spoke with the former and current Executive Directo
 
 ## For Nonprofits
 
+Jessica compares running a nonprofit to a wedding. Things will go wrong, but don't let them get to you. Just be aware that there will be bumps along the way and plan around them. Take your work seriously, but don't forget to laugh.
 
+She also recommends limiting the duration for board membership. Rotating new people into your organization will help you adapt to change and keep your perspective fresh.
 
 ## For Donors and Volunteers
 
