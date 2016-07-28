@@ -4,12 +4,15 @@ title: "Charity Spotlight: Origami Brain Injury Rehabilitation Center"
 subtitle: "Holistic treatment for adults who have suffered from a brain injury."
 permalink: /charity-spotlight-origami-rehab/
 tags: [spotlight]
-preview-image: /img/spotlight/origami-rehab/origami-rehab-.jpg
+preview-image: /img/spotlight/origami-rehab/origami-rehab-logo.jpg
 snippet: >
-    Origami Brain Injury Rehabilitation Center
+    Origami Brain Injury Rehabilitation Center gives personalized care and
+    recovery in a natural setting to those who have suffered a brain injury.
+    Just as each mind and each injury is different, so too must be the
+    treatment.
 ---
 
-[Origami Brain Injury Rehabilitation Center][1] provides
+[Origami Brain Injury Rehabilitation Center][1] gives personalized care and recovery in a natural setting to those who have suffered a brain injury. Just as each mind and each injury is different, so too must be the treatment.
 
 In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hannah, and Business Development Manager, Yvonne Fleener.
 
@@ -17,7 +20,7 @@ In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hann
 
 ## Origin Story
 
-Brain injuries are unlike any other injury a person might endure. They can be debilitating, but sometimes they can be easy to hide. They can come on suddenly or manifest over a long period of time. They can be caused by trauma, such as a car accident, or by a disease, like an aneurysm. They can affect every aspect of a person's life. They can affect other people who are part of a person's life.
+Brain injuries are unlike any other injury a person might endure. They can be debilitating, but sometimes they can be easy to hide. They can come on suddenly or manifest over a long period of time. They can be caused by trauma, such as a car accident, or by a disease, like an aneurysm. They can affect every aspect of a person's life. They can affect the loved ones who are part of a person's life.
 
 The most complicated part of our body has no prescribed treatment for when it is injured. Yet there are treatments that work, and it isn't uncommon for people to make partial or even full recoveries after they have suffered a brain injury.
 
@@ -31,7 +34,7 @@ All of this is as true today as it was in the mid-90s when members of Michigan S
 
 To provide the best care to each patient, Origami offers neural rehabilitation, physical and occupational therapy, vision, cognitive, and memory training, and a variety of specialized therapies. The center also helps patients manage daily routines, medication, money, cooking, dating, parenting, and vocational skills.
 
-One facet of care that every patient receives is support. Origami encourages family members to visit at any time and provides family and marriage counseling. Patients also see the same staff throughout their rehabilitation as well.
+One facet of care that every patient receives is a system of support. Origami encourages family members to visit at any time and provides family and marriage counseling. Patients also see the same staff throughout their rehabilitation as well.
 
 Residents can be assisted 24/7, live semi-independently in their own rooms, or stay in an on-site apartment with phone support available as needed. Origami also offers outpatient- and community-based care.
 
@@ -74,7 +77,7 @@ If you want to learn more about [Origami Brain Injury Rehabilitation Center][1],
 [1]: http://www.origamirehab.org/ "Origami Brain Injury Rehabilitation Center Homepage"
 [2]: http://www.pmr.msu.edu/ "Michigan State University College of Osteopathic Medicine, Physical Medicine and Rehabilitation Department Homepage"
 [3]: http://www.peckham.org/ "Peckham, Inc. Homepage"
-[4]: /img/spotlight/origami-rehab/origami-rehab-.jpg ""
-[5]: /img/spotlight/origami-rehab/origami-rehab-.jpg ""
-[6]: /img/spotlight/origami-rehab/origami-rehab-.jpg ""
-[7]: /img/spotlight/origami-rehab/origami-rehab-.jpg ""
+[4]: /img/spotlight/origami-rehab/origami-rehab-logo.png "logo"
+[5]: /img/spotlight/origami-rehab/origami-rehab-logo.png "logo"
+[6]: /img/spotlight/origami-rehab/origami-rehab-logo.png "logo"
+[7]: /img/spotlight/origami-rehab/origami-rehab-logo.png "logo"
