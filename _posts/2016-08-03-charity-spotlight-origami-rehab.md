@@ -34,7 +34,7 @@ All of this is as true today as it was in the mid-90s when members of Michigan S
 
 To provide the best care to each patient, Origami offers neural rehabilitation, physical and occupational therapy, vision, cognitive, and memory training, and a variety of specialized therapies. The center also helps patients manage daily routines, medication, money, cooking, dating, parenting, and vocational skills.
 
-One facet of care that every patient receives is a system of support. Origami encourages family members to visit at any time and provides family and marriage counseling. Patients also see the same staff throughout their rehabilitation as well.
+One facet of care that every patient receives is a system of support. Origami encourages family members to visit at any time and provides family and marriage counseling. Patients also see the same staff throughout their rehabilitation.
 
 Residents can be assisted 24/7, live semi-independently in their own rooms, or stay in an on-site apartment with phone support available as needed. Origami also offers outpatient- and community-based care.
 
@@ -50,7 +50,7 @@ Tammy and Yvonne agree that one of their ongoing goals is to raise awareness abo
 
 By increasing the number of people who can be treated at any given time, adding new methods of treatment, and bringing in additional staff, Origami has been able to help many more people than they could nearly twenty years ago.
 
-In fact, Origami recently started working with their 1,000th client! Helping so many people&mdash;and their family&mdash;has been and will continue to be a very uplifting accomplishment.
+In fact, Origami recently started working with their 1,000th client! Helping so many people&mdash;and their families&mdash;has been and will continue to be a very uplifting accomplishment.
 
 ![][7]
 
