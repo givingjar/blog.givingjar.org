@@ -8,11 +8,11 @@ preview-image: /img/spotlight/hannahs-house/hannahs-house-.jpg
 snippet: >
     Hannah's House believes every pregnant woman deserves a firm foundation upon
     which to raise her children. They help homeless women build this foundation
-    by providing shelter, provisions, and the life skills necessary to become
+    by providing shelter, food, and the life skills necessary to become
     self-sufficient.
 ---
 
-[Hannah's House][1] believes every pregnant woman deserves a firm foundation upon which to raise her children. They help homeless women build this foundation by providing shelter, provisions, and the life skills necessary to become self-sufficient.
+[Hannah's House][1] believes every pregnant woman deserves a firm foundation upon which to raise her children. They help homeless women build this foundation by providing shelter, food, and the life skills necessary to become self-sufficient.
 
 In this charity spotlight, I spoke with the former and current Executive Directors of Hannah's House, Jessica Leese and Deanna Arnett.
 
@@ -26,7 +26,7 @@ In this charity spotlight, I spoke with the former and current Executive Directo
 
 
 
-![][5]
+{% include youtube.html url="https://www.youtube.com/embed/5Dfxey_kunk" %}
 
 ## Big Wins
 
@@ -54,8 +54,9 @@ If you want to learn more about [Hannah's House][1], you can reach them by click
 
 {% include web-links.html home="http://hannahshouselansing.org/" facebook="hannahshouselansing" instagram="hannahshouselansing" %}
 
-###### Photographs Courtesy of [Hannah's House][1].
+###### Photographs Courtesy of [Hannah's House][1]. Video Courtesy of [UnoDeuce Multimedia][2].
 
 
 
 [1]: http://hannahshouselansing.org/ "Hannah's House Homepage"
+[2]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"
