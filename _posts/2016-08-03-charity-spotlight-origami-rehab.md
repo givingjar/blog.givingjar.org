@@ -11,15 +11,19 @@ snippet: >
 
 [Origami Brain Injury Rehabilitation Center][1] provides
 
-Brain trauma is unlike any physical injury a person can experience. 
-
 In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hannah, and Business Development Manager, Yvonne Fleener.
 
 ![][4]
 
 ## Origin Story
 
+Brain injuries are unlike any other injury a person might endure. They can be debilitating, but sometimes they can be easy to hide. They can come on suddenly or manifest over a long period of time. They can be caused by trauma, such as a car accident, or by a disease, like an aneurysm. They can affect every aspect of a person's life. They can affect other people who are part of a person's life.
 
+The most complicated part of our body has no prescribed treatment for when it is injured. Yet there are treatments that work, and it isn't uncommon for people to make partial or even full recoveries after they have suffered a brain injury.
+
+Treatments that work are personal. They are designed specifically for each individual's injury and are as unique as the injuries themselves. These treatments must be adapted over time and require a wide variety of techniques, experience, and support.
+
+All of this is as true today as it was in the mid-90s when members of Michigan State University's [College of Osteopathic Medicine][2] and [Peckham, Inc.][3] envisioned a way they could provide everything someone recovering from a brain injury might need. That vision became the Origami Brain Injury Rehabilitation Center. 
 
 ## Today
 
@@ -62,3 +66,5 @@ If you want to learn more about [Origami Brain Injury Rehabilitation Center][1],
 
 
 [1]: http://www.origamirehab.org/ "Origami Brain Injury Rehabilitation Center Homepage"
+[2]: http://www.pmr.msu.edu/ "Michigan State University College of Osteopathic Medicine, Physical Medicine and Rehabilitation Department Homepage"
+[3]: http://www.peckham.org/ "Peckham, Inc. Homepage"
