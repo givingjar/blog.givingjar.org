@@ -16,21 +16,29 @@ snippet: >
 
 In this charity spotlight, I spoke with the former and current Executive Directors of Hannah's House, Jessica Leese and Deanna Arnett.
 
-![][4]
-
 ## Origin Story
 
-No woman wants to find herself homeless while expecting a child. Without income, without the safety of a home, and without the support to achieve either, it is not uncommon for a woman in poverty to seek an abortion. And in 1990, the abortion rate for women living in poverty was rising.
+No woman wants to find herself homeless while expecting a child. Without income or the safety of a home, it is not uncommon for a woman in poverty to seek an abortion. And in 1990, the abortion rate for women living in poverty was rising.
 
 Pro-life residents in Lansing decided to take on the insecurities that prevented homeless women from having babies. They would provide a home, food, clothing, guidance, and valuable life skills that a woman may need to become a successful parent.
 
-The founding members started organizing a plan and chose a historical home in Lansing, Michigan as the location of the shelter they would provide. The owner of the home, sympathetic to their mission, generously donated the house to their cause.
+The founding members started organizing a plan and chose a historical home in Lansing, Michigan as the location for a new shelter. The owner of the home, sympathetic to their mission, generously donated the house to their cause.
 
 Hannah's House accepted their first residents in 1995.
 
+![][4]
+
 ## Today
 
+Expectant mothers can join the house at any time during their pregnancy and stay as long as six months after giving birth. The house is able to help four women at a time and there is no charge for housing, utilities, or food.
 
+Hannah's House is Christian-based shelter that offers more than food and shelter. They also give residents the structure and education they need to be self-sufficient when they leave.
+
+Some of the routines and training include devotional studies, parenting lessons, goal building, job attainment, budgeting, and relationship management. Residents must also cook, take care of personal hygiene, and help with chores. The house also helps provide birthing classes, lactation consultants, doulas, and other specialized care.
+
+*Hannah's Attic* is another program offered that helps provide child care products for newborns and toddlers. These products include formula, baby food, clothing, strollers, cribs, and more.
+
+Hannah's House also holds several fundraising events each year, including [International Dessert Night and Silent Auction][4], a screening of *[Gimme Shelter][5]*, [Bowl for Babies][6], and [Hike for Hannah’s House][7].
 
 {% include youtube.html url="https://www.youtube.com/embed/5Dfxey_kunk" %}
 
@@ -73,3 +81,7 @@ If you want to learn more about [Hannah's House][1], you can reach them by click
 [1]: http://hannahshouselansing.org/ "Hannah's House Homepage"
 [2]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"
 [3]: http://www.nurturingparenting.com/ "Bavolek Nurturing Parenting Homepage"
+[4]: http://hannahshouselansing.org/international-dessert-night-and-silent-auction/ "Hannah's House International Dessert Night and Silent Auction Event"
+[5]: http://hannahshouselansing.org/gimmee-shelter-screening/ "Hannah's House Gimme Shelter Movie Screening"
+[6]: http://hannahshouselansing.org/bowl-for-babies/ "Hannah's House Bowl for Babies Fundraiser"
+[7]: http://hannahshouselansing.org/hike-for-hannahs-house/ "Hike for Hannah's House 5K Fundraiser"
