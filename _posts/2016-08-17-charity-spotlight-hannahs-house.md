@@ -30,11 +30,15 @@ In this charity spotlight, I spoke with the former and current Executive Directo
 
 ## Big Wins
 
+Hannah's House raised more money in 2015 than any previous year and it has helped many women and their children. The program has been highly successful overall, too. Over 95% of the women they have helped were able to transition into their own house with stable income.
 
+Jessica also reflects on the individual transformations she has seen during her tenure. Getting a diploma, developing their life skills at Hannah's House, and becoming a mother are great accomplishments, especially when it's all happened in fewer than 15 months.
 
 ## Goals
 
+Both directors would love to improve the life skills program for residents. Deanna would also like to add a [Bavolek Nurturing Parenting][3] to their repertoire. Better pay, compassion training, and cultural competency training for employees would be fantastic. New ways to raise awareness about Hannah's House and engage the community are ongoing goals as well.
 
+With the right funding, Hannah's House could also develop a curriculum that could be provided to women without the housing. A lot more people could be helped this way.
 
 ![][2]
 
@@ -62,3 +66,4 @@ If you want to learn more about [Hannah's House][1], you can reach them by click
 
 [1]: http://hannahshouselansing.org/ "Hannah's House Homepage"
 [2]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"
+[3]: http://www.nurturingparenting.com/ "Bavolek Nurturing Parenting Homepage"
