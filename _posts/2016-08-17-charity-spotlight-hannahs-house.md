@@ -20,7 +20,13 @@ In this charity spotlight, I spoke with the former and current Executive Directo
 
 ## Origin Story
 
+No woman wants to find herself homeless while expecting a child. Without income, without the safety of a home, and without the support to achieve either, it is not uncommon for a woman in poverty to seek an abortion. And in 1990, the abortion rate for women living in poverty was rising.
 
+Pro-life residents in Lansing decided to take on the insecurities that prevented homeless women from having babies. They would provide a home, food, clothing, guidance, and valuable life skills that a woman may need to become a successful parent.
+
+The founding members started organizing a plan and chose a historical home in Lansing, Michigan as the location of the shelter they would provide. The owner of the home, sympathetic to their mission, generously donated the house to their cause.
+
+Hannah's House accepted their first residents in 1995.
 
 ## Today
 
@@ -32,7 +38,7 @@ In this charity spotlight, I spoke with the former and current Executive Directo
 
 Hannah's House raised more money in 2015 than any previous year and it has helped many women and their children. The program has been highly successful overall, too. Over 95% of the women they have helped were able to transition into their own house with stable income.
 
-Jessica also reflects on the individual transformations she has seen during her tenure. Getting a diploma, developing their life skills at Hannah's House, and becoming a mother are great accomplishments, especially when it's all happened in fewer than 15 months.
+Jessica also reflects on the individual transformations she has seen during her tenure. Getting a diploma, developing important life skills at Hannah's House, and becoming a mother are great accomplishments, especially when it all happens in 15 months, often less.
 
 ## Goals
 
