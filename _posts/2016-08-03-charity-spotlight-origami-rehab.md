@@ -20,7 +20,7 @@ In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hann
 
 ## Origin Story
 
-Brain injuries are unlike any other injury a person might endure. They can be debilitating, but sometimes they can be easy to hide. They can come on suddenly or manifest over a long period of time. They can be caused by trauma, such as a car accident, or by a disease, like an aneurysm. They can affect every aspect of a person's life. They can affect the loved ones who are part of a person's life.
+Brain injuries are unlike any other injury a person might endure. They can be debilitating, but sometimes they can be easy to hide. They can come on suddenly or manifest over a long period of time. They can be caused by trauma, such as a car accident, or by disease, like an aneurysm. They can affect every aspect of a person's life. They can affect the loved ones who are part of a person's life.
 
 The most complicated part of our body has no prescribed treatment for when it is injured. Yet there are treatments that work, and it isn't uncommon for people to make partial or even full recoveries after they have suffered a brain injury.
 
@@ -56,7 +56,7 @@ In fact, Origami recently started working with their 1,000th client! Helping so 
 
 ## For Donors and Volunteers
 
-When you're deciding where to direct your energy, listen to the stories about who the charity has helped, witness a charity's purpose first-hand, and pick what feels right.
+If you're deciding where to direct your energy, listen to the stories about who the charity has helped, witness a charity's purpose first-hand, and pick what feels right.
 
 As you volunteer, create your own stories. Support a person, be their cheerleader and their friend. You'll make a huge difference in someone's life.
 
