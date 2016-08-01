@@ -4,7 +4,7 @@ title: "Charity Spotlight: Origami Brain Injury Rehabilitation Center"
 subtitle: "Holistic treatment for adults who have suffered from a brain injury."
 permalink: /charity-spotlight-origami-rehab/
 tags: [spotlight]
-preview-image: /img/spotlight/origami-rehab/origami-rehab-logo.jpg
+preview-image: /img/spotlight/origami-rehab/origami-rehab-drawing.jpg
 snippet: >
     Origami Brain Injury Rehabilitation Center gives personalized care and
     recovery in a natural setting to those who have suffered a brain injury.
@@ -16,7 +16,7 @@ snippet: >
 
 In this charity spotlight, I spoke with Origami's Executive Director, Tammy Hannah, and Business Development Manager, Yvonne Fleener.
 
-![][4]
+![][6]
 
 ## Origin Story
 
@@ -28,7 +28,7 @@ Treatments that work are personal. They are designed specifically for each indiv
 
 All of this is as true today as it was in the mid-90s when members of Michigan State University's [College of Osteopathic Medicine][2] and [Peckham, Inc.][3] envisioned a way they could provide everything someone recovering from a brain injury might need. That vision became the Origami Brain Injury Rehabilitation Center.
 
-![][5]
+![][7]
 
 ## Today
 
@@ -40,7 +40,7 @@ Residents can be assisted 24/7, live semi-independently in their own rooms, or s
 
 Origami sits amidst 35 acres of woodland property that offers patients tranquility, space, and freedom. The natural setting is complemented by hands-on activities for patients such as gardens, an art studio, and a wood shop. Computer-assisted recovery is also offered using devices such as a driving simulator and Nintendo Wii.
 
-![][6]
+![][5]
 
 ## Goals
 
@@ -52,7 +52,7 @@ By increasing the number of people who can be treated at any given time, adding 
 
 In fact, Origami recently started working with their 1,000th client! Helping so many people&mdash;and their families&mdash;has been and will continue to be a very uplifting accomplishment.
 
-![][7]
+![][4]
 
 ## For Donors and Volunteers
 
@@ -77,7 +77,7 @@ If you want to learn more about [Origami Brain Injury Rehabilitation Center][1],
 [1]: http://www.origamirehab.org/ "Origami Brain Injury Rehabilitation Center Homepage"
 [2]: http://www.pmr.msu.edu/ "Michigan State University College of Osteopathic Medicine, Physical Medicine and Rehabilitation Department Homepage"
 [3]: http://www.peckham.org/ "Peckham, Inc. Homepage"
-[4]: /img/spotlight/origami-rehab/origami-rehab-logo.png "logo"
-[5]: /img/spotlight/origami-rehab/origami-rehab-logo.png "logo"
-[6]: /img/spotlight/origami-rehab/origami-rehab-logo.png "logo"
-[7]: /img/spotlight/origami-rehab/origami-rehab-logo.png "logo"
+[4]: /img/spotlight/origami-rehab/origami-rehab-drawing.jpg "The art studio provides many ways to help patients heal"
+[5]: /img/spotlight/origami-rehab/origami-rehab-driving.jpg "A driving simulator helps patients get back on the road"
+[6]: /img/spotlight/origami-rehab/origami-rehab-moving.jpg "Origami has many trails and paths to walk on"
+[7]: /img/spotlight/origami-rehab/origami-rehab-testing.jpg "Staff becomes more than help, they become friends"
