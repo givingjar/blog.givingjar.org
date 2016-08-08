@@ -26,7 +26,7 @@ The founding members started organizing a plan and chose a historical home in La
 
 Hannah's House accepted their first residents in 1995.
 
-![][4]
+![][8]
 
 ## Today
 
@@ -54,7 +54,7 @@ Both directors would love to improve the life skills program for residents. Dean
 
 With the right funding, Hannah's House could also develop a curriculum that could be provided to women without the housing. A lot more people could be helped this way.
 
-![][2]
+![][10]
 
 ## For Nonprofits
 
@@ -66,7 +66,7 @@ She also recommends limiting the duration for board membership. Rotating new peo
 
 Before you donate to a charity, do a little research so you understand how your money will be used. Asking is a great start, but try to visit, too. It will give you a better understand of what the charity is about and it will help you figure out exactly what they need when you do donate.
 
-![][3]
+![][9]
 
 ## Get Involved
 
@@ -85,3 +85,6 @@ If you want to learn more about [Hannah's House][1], you can reach them by click
 [5]: http://hannahshouselansing.org/gimmee-shelter-screening/ "Hannah's House Gimme Shelter Movie Screening"
 [6]: http://hannahshouselansing.org/bowl-for-babies/ "Hannah's House Bowl for Babies Fundraiser"
 [7]: http://hannahshouselansing.org/hike-for-hannahs-house/ "Hike for Hannah's House 5K Fundraiser"
+[8]: /img/spotlight/hannahs-house/hannahs-house-baby.jpg "One of the many lives Hannah's House has helped"
+[9]: /img/spotlight/hannahs-house/hannahs-house-silent-auction.jpg "Hannah's House International Dessert Night and Silent Auction 2014"
+[10]: /img/spotlight/hannahs-house/hannahs-house-mom-and-baby.jpg "A former Hannah's House guest and her baby"
