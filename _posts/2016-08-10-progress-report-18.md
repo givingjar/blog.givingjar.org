@@ -26,12 +26,12 @@ Here are the major wins in this progress report:
 
 Failure is okay if you learn from it. Here are some lessons learned in the past two weeks:
 
-* Vacations are great time to brainstorm and get new inspiration.
+* Vacations are great opportunity to become inspired.
 * Vacations are a great way to feel anxious about not getting enough done!
 
 ## Thanks {#thanks}
 
-Thanks to everyone who's sharing our spotlights on social media! We had record-level highs for people reached, people engaged, and clicks these past two weeks. Keep spreading the word!
+Thank you to all of our recent interviewees (Tammy, Yvonne, Jessica, and Deanna) for putting in 2+ hours of interviews. We hope the extra time comes through in our spotlights!
 
 Thank you to our new friends on social media:
 
