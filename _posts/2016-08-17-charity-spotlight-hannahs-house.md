@@ -32,7 +32,7 @@ Hannah's House accepted their first residents in 1995.
 
 Expectant mothers can join the house at any time during their pregnancy and stay as long as six months after giving birth. The house is able to help four women at a time and there is no charge for housing, utilities, or food.
 
-Hannah's House is Christian-based shelter that offers more than food and shelter. They also give residents the structure and education they need to be self-sufficient when they leave.
+Hannah's House is a Christian-based shelter that offers more than food and shelter. They also give residents the structure and education they need to be self-sufficient when they leave.
 
 Some of the routines and training include devotional studies, parenting lessons, goal building, job attainment, budgeting, and relationship management. Residents must also cook, take care of personal hygiene, and help with chores. The house also helps provide birthing classes, lactation consultants, doulas, and other specialized care.
 
@@ -44,7 +44,7 @@ Hannah's House also holds several fundraising events each year, including [Inter
 
 ## Big Wins
 
-Hannah's House raised more money in 2015 than any previous year and it has helped many women and their children. The program has been highly successful overall, too. Over 95% of the women they have helped were able to transition into their own house with stable income.
+Hannah's House raised more money in 2015 than any previous year and it has helped many women and their children. The program has been highly successful overall, too. Over 95% of the women helped were able to transition into their own house with a stable income.
 
 Jessica also reflects on the individual transformations she has seen during her tenure. Getting a diploma, developing important life skills at Hannah's House, and becoming a mother are great accomplishments, especially when it all happens in 15 months, often less.
 
@@ -60,7 +60,7 @@ With the right funding, Hannah's House could also develop a curriculum that coul
 
 Jessica compares running a nonprofit to a wedding. Things will go wrong, but don't let them get to you. Just be aware that there will be bumps along the way and plan around them. Take your work seriously, but don't forget to laugh.
 
-She also recommends limiting the duration for board membership. Rotating new people into your organization will help you adapt to change and keep your perspective fresh.
+She also recommends limiting the duration of board membership. Rotating new people into your organization will help you adapt to change and keep your perspective fresh.
 
 ## For Donors
 
