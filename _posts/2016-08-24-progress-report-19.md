@@ -29,7 +29,7 @@ Failure is okay if you learn from it. Here are some lessons learned in the past 
 
 ## Thanks {#thanks}
 
-Thanks to all of the great tech companies out there that make it quick and easy to start using your "For Nonprofits" programs!
+Thanks to all the tech companies that make it quick and easy to start using your "For Nonprofits" programs!
 
 Thank you to our new friends on social media:
 
