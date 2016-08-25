@@ -42,7 +42,7 @@ When it comes to writing grants, Chris recommends approaching it as a marketing 
 
 ## For Donors and Volunteers
 
-
+Whether you want to donate your time or your money to a nonprofit, make sure you know what the organization does and it's something you absolutely love. After all, it's your time and money that you're giving away, so make sure it's going to a cause you believe in.
 
 ![][9]
 
