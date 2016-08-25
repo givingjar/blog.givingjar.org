@@ -38,7 +38,7 @@ In this charity spotlight, I spoke with the Treasurer of The Mini Maker Foundati
 
 ## For Nonprofits
 
-
+When it comes to writing grants, Chris recommends approaching it as a marketing challenge: tell your story in a way that makes an emotional connection. Grant writing is a daunting and time-consuming activity, but it doesn't have to be complicated. Just make sure you research a variety of grantors and write to the ones who best align with your mission.
 
 ## For Donors and Volunteers
 
