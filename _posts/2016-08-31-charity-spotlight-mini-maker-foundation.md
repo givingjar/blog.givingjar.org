@@ -22,7 +22,7 @@ If you have ever visited the Meridian Mall in Okemos, Michigan then you have pro
 
 The shop is also home to [Tinkrlab][7], a space where workshops, camps, and other events promote safe tinkering and provide hands-on lessons for children. Tinkrlab has been a wild hit for kids. *Minecraft Mondays*, *Take Apart Tuesdays*, and *Squishy Circuits* are just a few of the regular events that inspire them to create.
 
-But even in a high traffic area such as a mall, a store with limited space and availability can only do so much to help kids. The owners of the store realized this. In their vision of nurturing creativity and invention in young people, they had to reach more kids. What better way than through schools the children were already attending?
+Even in a high traffic area such as a mall, a store with limited space and availability can only do so much to help kids. The owners of the store realized this. In their vision of nurturing creativity and invention in young people, they had to reach more kids. What better way than through schools the children were already attending?
 
 In mid-2016, The Mini Maker Foundation introduced its first program. They would donate 3D printers to schools and train educators in their construction and use.
 
@@ -30,19 +30,23 @@ In mid-2016, The Mini Maker Foundation introduced its first program. They would 
 
 ## Today
 
+The foundation works closely with teachers to build 3D printers, calibrate them, and develop their curriculum. 3D printers are multi-faceted in their applications, so schools can use them not just for science and technology, but also for art, history (imagine recreating a pyramid, tombs and all!), and many more subjects.
 
+[Jellybox][8] is the foundation's 3D printer of choice. It's perfect for sparking the imaginations of kids and turning those ideas into real things because of its transparency and ease to assemble and operate. In addition to 3D modeling and printing, kids can also learn about circuitry, mechanics, and problem-solving. The hands-on exposure also helps remove the "intimidation" factor of technology.
+
+The Mini Maker Foundation also makes the application process easy. If a school can't send a teacher to the foundation's space, the space will gladly be brought to them. A field trip can even be sponsored to bring the kids out!
 
 ## Big Wins
 
 Starting a nonprofit and receiving the coveted 501(c)(3) designation are pretty big accomplishments and The Mini Maker Foundation accomplished both this year. Shortly thereafter, they also hosted their very first fundraiser.
 
-The Mini Maker Foundation has already helped their first round of teachers, too. Both [East Lansing High School][3] and [Life Tech Academy][4] have received 3D printers. They have also helped [Perry High School][5] with the printer they purchased just before the foundation was established.
+The Mini Maker Foundation has already helped their first round of teachers, too. [East Lansing High School][3] and [Life Tech Academy][4] have both received 3D printers. They have also assisted [Perry High School][5] with their 3D printer.
 
 ## Goals
 
-By the end of the year, The Mini Maker Foundation would love to have donated ten 3D printers to local schools. Building and calibrating each printer takes time, though, as does training teachers and working with them to develop new curriculums.
+By the end of the year, The Mini Maker Foundation would love to have donated ten 3D printers to local schools. Building and calibrating each printer takes time, though, as does training teachers and developing new curriculums.
 
-Thinking long term, the foundation would eventually like to help schools and children all across Michigan. And while a state-wide program may be a ways off, larger school districts such as those in Detroit aren't necessarily too far out of reach.
+Long term, the foundation would like to help schools and children all across Michigan. And while a state-wide program may be a ways off, larger school districts such as those in Detroit aren't necessarily too far out of reach.
 
 ![][10]
 
@@ -73,3 +77,4 @@ If you want to learn more about [The Mini Maker Foundation][1], you can reach th
 [5]: http://perry.k12.mi.us/high_school "Perry High School Homepage"
 [6]: http://www.welovekidsndogs.com/ "We Love Kids N Dogs Homepage"
 [7]: http://tinkrlab.com/ "Tinkrlab Homepage"
+[8]: http://www.imade3d.com/jellybox/ "Jellybox 3D Printer by IMADE3D"
