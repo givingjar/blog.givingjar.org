@@ -28,7 +28,9 @@ In this charity spotlight, I spoke with the Treasurer of The Mini Maker Foundati
 
 ## Big Wins
 
+Starting a nonprofit and receiving the coveted 501(c)(3) designation are pretty big accomplishments and The Mini Maker Foundation accomplished both this year. Shortly thereafter, they also hosted their very first fundraiser.
 
+The Mini Maker Foundation has already helped their first round of teachers, too. Both [East Lansing High School][3] and [Life Tech Academy][4] have received 3D printers. They have also helped [Perry High School][5] with the printer they purchased just before the foundation was established.
 
 ## Goals
 
@@ -60,3 +62,6 @@ If you want to learn more about [The Mini Maker Foundation][1], you can reach th
 
 [1]: http://theminimakerfoundation.org/ "The Mini Maker Foundation Homepage"
 [2]: https://twitter.com/MrIanKast "Ian Kast on Twitter"
+[3]: http://elps.k12.mi.us/our-schools/east-lansing-high-school/ "East Lansing High School Homepage"
+[4]: http://lifetechacademy.org/ "Life Tech Academy Homepage"
+[5]: http://perry.k12.mi.us/high_school "Perry High School Homepage"
