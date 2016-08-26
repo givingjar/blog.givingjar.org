@@ -32,7 +32,9 @@ In this charity spotlight, I spoke with the Treasurer of The Mini Maker Foundati
 
 ## Goals
 
+By the end of the year, The Mini Maker Foundation would love to have donated ten 3D printers to local schools. Building and calibrating each printer takes time, though, as does training teachers and working with them to develop new curriculums.
 
+Thinking long term, the foundation would eventually like to help schools and children all across Michigan. And while a state-wide program may be a ways off, larger school districts such as those in Detroit aren't necessarily too far out of reach.
 
 ![][10]
 
