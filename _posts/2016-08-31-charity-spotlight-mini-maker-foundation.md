@@ -4,7 +4,7 @@ title: "Charity Spotlight: The Mini Maker Foundation"
 subtitle: "Fostering a new generation of makers by providing STEM training and equipment to schools."
 permalink: /charity-spotlight-mini-maker-foundation/
 tags: [spotlight]
-preview-image: /img/spotlight/mini-maker-foundation/mini-maker-foundation-.jpg
+preview-image: /img/spotlight/mini-maker-foundation/mini-maker-foundation-kid-construction.jpg
 snippet: >
     The Mini Maker Foundation makes technologies such as 3D printing accessible
     to kids and their teachers. These new tools, and the skills that come with
