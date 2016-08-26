@@ -46,7 +46,7 @@ The Mini Maker Foundation has already helped their first round of teachers, too.
 
 By the end of the year, The Mini Maker Foundation would love to have donated ten 3D printers to local schools. Building and calibrating each printer takes time, though, as does training teachers and developing new curriculums.
 
-Long term, the foundation would like to help schools and children all across Michigan. And while a state-wide program may be a ways off, larger school districts such as those in Detroit aren't necessarily too far out of reach.
+Long term, the foundation would like to help schools and children all across Michigan. And while a state-wide program may be a way off, larger school districts such as those in Detroit aren't necessarily too far out of reach.
 
 ![][10]
 
