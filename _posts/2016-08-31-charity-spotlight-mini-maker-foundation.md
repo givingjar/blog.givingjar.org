@@ -18,7 +18,13 @@ In this charity spotlight, I spoke with the Treasurer of The Mini Maker Foundati
 
 ## Origin Story
 
+If you have ever visited the Meridian Mall in Okemos, Michigan then you have probably seen [We Love Kids N Dogs][6]. What started in 2013 as a small shop has since expanded into a colorful beehive of activity. Many of their products encourage kids to be creative and active.
 
+The shop is also home to [Tinkrlab][7], a space where workshops, camps, and other events promote safe tinkering and provide hands-on lessons for children. Tinkrlab has been a wild hit for kids. *Minecraft Mondays*, *Take Apart Tuesdays*, and *Squishy Circuits* are just a few of the regular events that inspire them to create.
+
+But even in a high traffic area such as a mall, a store with limited space and availability can only do so much to help kids. The owners of the store realized this. In their vision of nurturing creativity and invention in young people, they had to reach more kids. What better way than through schools the children were already attending?
+
+In mid-2016, The Mini Maker Foundation introduced its first program. They would donate 3D printers to schools and train educators in their construction and use.
 
 ![][8]
 
@@ -65,3 +71,5 @@ If you want to learn more about [The Mini Maker Foundation][1], you can reach th
 [3]: http://elps.k12.mi.us/our-schools/east-lansing-high-school/ "East Lansing High School Homepage"
 [4]: http://lifetechacademy.org/ "Life Tech Academy Homepage"
 [5]: http://perry.k12.mi.us/high_school "Perry High School Homepage"
+[6]: http://www.welovekidsndogs.com/ "We Love Kids N Dogs Homepage"
+[7]: http://tinkrlab.com/ "Tinkrlab Homepage"
