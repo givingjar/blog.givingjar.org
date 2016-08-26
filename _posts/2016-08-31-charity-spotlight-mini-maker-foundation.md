@@ -16,7 +16,7 @@ snippet: >
 
 In this charity spotlight, I spoke with the Treasurer of The Mini Maker Foundation, Chris Allen.
 
-![][9]
+![][10]
 
 ## Origin Story
 
@@ -28,7 +28,7 @@ Even in a high traffic area such as a mall, a store with limited space and avail
 
 In mid-2016, The Mini Maker Foundation introduced its first program. They would donate 3D printers to schools and train educators in their construction and use.
 
-![][10]
+![][9]
 
 ## Today
 
