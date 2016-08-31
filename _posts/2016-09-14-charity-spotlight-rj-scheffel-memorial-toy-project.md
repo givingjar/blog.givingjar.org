@@ -31,11 +31,11 @@ In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Proj
 
 ## Big Wins
 
-
+The Scheffel Toy Project has made more than 100,000 toys over the past fifteen years! The all-volunteer organization also prides themselves in helping thousands of kids each year without charging for their toys. Those kinds of numbers also quell any thoughts that wooden toys are a thing of the past.
 
 ## Goals
 
-
+The project's wish list of toys has been steadily increasing. Ten years ago, the group made 6,000 toys in a year. This year, the project received their biggest wish list to date. It has well over 10,000 toys on it! The organization can't promise that they'll be able to supply that many toys, but they are definitely going to try.
 
 ![][12]
 
