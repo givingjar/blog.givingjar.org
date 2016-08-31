@@ -43,9 +43,11 @@ In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Proj
 
 
 
-## For Donors and Volunteers
+## For Volunteers
 
+If your volunteer time is limited to during the week, weekend, or even seasonally, make sure you discuss your schedule with a nonprofit before you start. Having this talk up front will let you know how flexible they can be with your time. It also gives the nonprofit an idea of how much support they have and need from volunteers.
 
+Volunteer work is also more enjoyable when everyone is friends. If you want to help boost that camaraderie, bring your best attitude, take breaks with other volunteers, and avoid talking about hot topics like politics and religion.
 
 ## Get Involved
 
