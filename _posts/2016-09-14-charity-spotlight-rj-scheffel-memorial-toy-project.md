@@ -1,17 +1,19 @@
 ---
 layout: post
 title: "Charity Spotlight: R.J. Scheffel Memorial Toy Project"
-subtitle: "."
+subtitle: "Bringing joy to children in need with handmade wooden toys."
 permalink: /charity-spotlight-rj-scheffel-memorial-toy-project/
 tags: [spotlight]
 preview-image: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-.jpg
 snippet: >
-    
+    R.J. Scheffel Memorial Toy Project makes handcrafted wooden toys and donates
+    them to children in need. Whether homeless, in poverty, sick, or otherwise
+    disadvantaged, every child deserves to smile and play.
 ---
 
-[R.J. Scheffel Memorial Toy Project][1] 
+[R.J. Scheffel Memorial Toy Project][1] makes handcrafted wooden toys and donates them to children in need. Whether homeless, in poverty, sick, or otherwise disadvantaged, every child deserves to smile and play.
 
-In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Project's elves: Larry Koster, Gene Klco, Joe Pohl, and Tony Bauer..
+In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Project's elves: Larry Koster, Gene Klco, Joe Pohl, and Tony Bauer.
 
 ![][10]
 
