@@ -41,7 +41,7 @@ In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Proj
 
 ## For Nonprofits
 
-
+When you establish a nonprofit, pick a single mission and focus solely on that. Tony also recommends making that mission clear to volunteers and anyone else working with your organization. The stronger you can connect people to your cause and show them the impact they are making, the more dedication you will receive.
 
 ## For Volunteers
 
