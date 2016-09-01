@@ -20,7 +20,13 @@ In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Proj
 
 ## Origin Story
 
+In 1958, Reuben J. Scheffel was a grocery store owner who lived in southwest Lansing. Each winter, Reuben noticed that there were kids in his neighborhood who weren't getting much in the way of toys at Christmas, but they were great kids who deserved a little something.
 
+The grocer decided to help the kids out. Reuben started making wooden to give to children at Christmas. Fellow members of the Everett Kiwanis Club got involved too. They helped find materials and Reuben kept making toys in his spare time.
+
+The tradition kept going for nearly twenty years, well into Reuben's retirement. By the time Reuben passed away in 1978, his project had made such a large impact on the community that his friends and fellow Kiwanis members decided to keep his tradition going.
+
+In 1982, the R.J. Scheffel Memorial Toy Project was established in honor of Reuben and to continue his loving craft of making wooden toys for children in need.
 
 ![][9]
 
