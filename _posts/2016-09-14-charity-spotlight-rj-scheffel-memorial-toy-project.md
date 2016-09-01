@@ -6,12 +6,13 @@ permalink: /charity-spotlight-rj-scheffel-memorial-toy-project/
 tags: [spotlight]
 preview-image: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-.jpg
 snippet: >
-    R.J. Scheffel Memorial Toy Project makes handcrafted wooden toys and donates
-    them to children in need. Whether homeless, in poverty, sick, or otherwise
-    disadvantaged, every child deserves to smile and play.
+    R.J. Scheffel Memorial Toy Project makes handcrafted wooden toys, games, and
+    memory boxes and donates them to children in need. Whether homeless, in
+    poverty, sick, or otherwise disadvantaged, every child deserves to smile and
+    play.
 ---
 
-[R.J. Scheffel Memorial Toy Project][1] makes handcrafted wooden toys and donates them to children in need. Whether homeless, in poverty, sick, or otherwise disadvantaged, every child deserves to smile and play.
+[R.J. Scheffel Memorial Toy Project][1] makes handcrafted wooden toys, games, and memory boxes and donates them to children in need. Whether homeless, in poverty, sick, or otherwise disadvantaged, every child deserves to smile and play.
 
 In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Project's elves: Larry Koster, Gene Klco, Joe Pohl, and Tony Bauer.
 
@@ -25,13 +26,19 @@ In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Proj
 
 ## Today
 
+R.J Scheffel Memorial Toy Project is an all-volunteer workshop that does everything from acquiring lumber and designing toys to assembling and painting the finished pieces. There are over [forty different toys][3] that the project can create.
 
+Volunteers use wish lists to determine which toys&mdash;and how many&mdash;they try to make each year. The wish list always has thousands of toys on it, so they can't guarantee they'll fill all requests, but they do take measures to make sure every toy is high quality and can be made as quickly as possible.
+
+The toy project uses a mix of grants and public support to pay for space, utilities, tools, and materials. They provide toys to dozens of organizations, including [Ele's Place][6], [Salvation Army of Lansing][4], [Child Abuse Prevention Services][5] (CAPS), and various [Kiwanis Clubs][7].
+
+Many of the toy shop's elves are senior citizens who volunteer through the [Retired and Senior Volunteer Program][8] (RSVP), but the group welcomes contributors of all ages. Volunteers tend to work together in the mornings and, amazingly, no more than three mornings a week.
 
 ![][11]
 
 ## Big Wins
 
-The Scheffel Toy Project has made more than 100,000 toys over the past fifteen years! The all-volunteer organization also prides themselves in helping thousands of kids each year without charging for their toys. Those kinds of numbers also quell any thoughts that wooden toys are a thing of the past.
+The Scheffel Toy Project has made more than 100,000 toys over the past fifteen years! The organization prides themselves in helping thousands of kids each year without charging for their toys. Those kinds of numbers also quell any thoughts that wooden toys are a thing of the past.
 
 ## Goals
 
@@ -61,3 +68,9 @@ If you want to learn more about the [R.J. Scheffel Memorial Toy Project][1], you
 
 [1]: http://scheffel-toys.org/ "R.J. Scheffel Memorial Toy Project Homepage"
 [2]: https://twitter.com/MrIanKast "Ian Kast on Twitter"
+[3]: http://scheffel-toys.org/Toys/Toys.php "The R.J. Scheffel Toy List"
+[4]: http://salansing.org/ "Salvation Army of Lansing Homepage"
+[5]: http://capsli.org/ "Child Abuse Prevention Services Homepage"
+[6]: http://www.elesplace.org/ "Ele's Place Homepage"
+[7]: http://www.kiwanis.org/ "Kiwanis Club Homepage"
+[8]: http://rsvplansingarea.com/ "Retired and Senior Volunteer Program Homepage"
