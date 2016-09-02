@@ -22,15 +22,13 @@ In this charity spotlight, I spoke with a few of R.J. Scheffel Memorial Toy Proj
 
 In 1958, Reuben J. Scheffel was a grocery store owner who lived in southwest Lansing. Each winter, Reuben noticed that there were kids in his neighborhood who weren't getting much in the way of toys at Christmas, but they were great kids who deserved a little something.
 
-The grocer decided to help the kids out. Reuben started making wooden to give to children at Christmas. Fellow members of the Everett Kiwanis Club got involved too. They helped find materials and Reuben kept making toys in his spare time.
+The grocer decided to help the kids out. Reuben started making wooden toys to give to children at Christmas. Fellow members of the Everett Kiwanis Club got involved too. They helped find materials and Reuben kept making toys in his spare time.
 
 The tradition kept going for nearly twenty years, well into Reuben's retirement. By the time Reuben passed away in 1978, his project had made such a large impact on the community that his friends and fellow Kiwanis members decided to keep his tradition going.
 
 In 1982, the R.J. Scheffel Memorial Toy Project was established in honor of Reuben and to continue his loving craft of making wooden toys for children in need.
 
 ![][9]
-![][13]
-![][14]
 
 ## Today
 
@@ -64,7 +62,7 @@ If your volunteer time is limited to during the week, weekend, or even seasonall
 
 Volunteer work is also more enjoyable when everyone is friends. If you want to help boost that camaraderie, bring your best attitude, take breaks with other volunteers, and avoid talking about hot topics like politics and religion.
 
-![][15]
+![][13]
 
 ## Get Involved
 
@@ -84,10 +82,8 @@ If you want to learn more about the [R.J. Scheffel Memorial Toy Project][1], you
 [6]: http://www.elesplace.org/ "Ele's Place Homepage"
 [7]: http://www.kiwanis.org/ "Kiwanis Club Homepage"
 [8]: http://rsvplansingarea.com/ "Retired and Senior Volunteer Program Homepage"
-[9]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-drilling.jpg "a"
-[10]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-front-display.jpg "a"
-[11]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-painting.jpg "a"
-[12]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-planes.jpg "a"
-[13]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-shop-left.jpg "a"
-[14]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-shop-right.jpg "a"
-[15]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-url-blocks.jpg "a"
+[9]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-hammering.jpg "One of Scheffel's elves assembles a toy car"
+[10]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-front-display.jpg "A display showing many of the toys made"
+[11]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-painting.jpg "One of Scheffel's elves paints a toy ironing board"
+[12]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-planes.jpg "Airplanes, rocking horses, cars, doll cribs, and more"
+[13]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-url-blocks.jpg "Learn more at scheffel-toys.org"
