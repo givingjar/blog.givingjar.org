@@ -29,6 +29,8 @@ The tradition kept going for nearly twenty years, well into Reuben's retirement.
 In 1982, the R.J. Scheffel Memorial Toy Project was established in honor of Reuben and to continue his loving craft of making wooden toys for children in need.
 
 ![][9]
+![][13]
+![][14]
 
 ## Today
 
@@ -62,13 +64,15 @@ If your volunteer time is limited to during the week, weekend, or even seasonall
 
 Volunteer work is also more enjoyable when everyone is friends. If you want to help boost that camaraderie, bring your best attitude, take breaks with other volunteers, and avoid talking about hot topics like politics and religion.
 
+![][15]
+
 ## Get Involved
 
 If you want to learn more about the [R.J. Scheffel Memorial Toy Project][1], you can reach them by clicking one of the buttons below.
 
 {% include web-links.html home="http://scheffel-toys.org/" facebook="RJScheffelToyProject" %}
 
-###### Photographs Courtesy of [Ian Kast][2] and [R.J. Scheffel Memorial Toy Project][1].
+###### Photographs Courtesy of [Ian Kast][2].
 
 
 
@@ -80,3 +84,10 @@ If you want to learn more about the [R.J. Scheffel Memorial Toy Project][1], you
 [6]: http://www.elesplace.org/ "Ele's Place Homepage"
 [7]: http://www.kiwanis.org/ "Kiwanis Club Homepage"
 [8]: http://rsvplansingarea.com/ "Retired and Senior Volunteer Program Homepage"
+[9]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-drilling.jpg "a"
+[10]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-front-display.jpg "a"
+[11]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-painting.jpg "a"
+[12]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-planes.jpg "a"
+[13]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-shop-left.jpg "a"
+[14]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-shop-right.jpg "a"
+[15]: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-url-blocks.jpg "a"
