@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: R.J. Scheffel Memorial Toy Project"
-subtitle: "Bringing joy to children in need with handmade wooden toys."
+subtitle: "Creating joy for children in need with handmade wooden toys."
 permalink: /charity-spotlight-rj-scheffel-memorial-toy-project/
 tags: [spotlight]
 preview-image: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-front-display.jpg
