@@ -445,6 +445,11 @@ a.youtube:hover,
 a.youtube:focus {
   color: #cd201f;
 }
+a.pinterest,
+a.pinterest:hover,
+a.pinterest:focus {
+  color: #bb0f23;
+}
 
 /* Responsive Embedded YouTube Video */
 
