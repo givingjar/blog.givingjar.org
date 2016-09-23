@@ -46,7 +46,7 @@ In this charity spotlight, I spoke with the President of Lettuce Live Well, Kell
 
 ## For Volunteers
 
-
+When you're looking for volunteer opportunities, Kelly suggests trying something that you can't find anywhere else. Really own what you do and no matter what role you're filling, consider yourself a leader. Get your hands dirty, work with the public, and be persistent. Accept failure (it happens), learn from it, and always be trying new things.
 
 ![][13]
 
