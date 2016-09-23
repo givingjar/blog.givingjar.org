@@ -42,7 +42,9 @@ In this charity spotlight, I spoke with the President of Lettuce Live Well, Kell
 
 ## For Nonprofits
 
+Before you start a business, make sure you understand why a nonprofit is right for your vision. If you don't want to put a price tag on the product or service you're offering, you're heading down the right path!
 
+When you're running a nonprofit, be passionate, be persistent, and be open to change. These are all invaluable qualities to ensure your success.
 
 ## For Volunteers
 
