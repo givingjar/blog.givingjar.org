@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "Charity Spotlight: Lettuce Live Well"
-subtitle: "."
+subtitle: "Promoting healthy living through free, accessible food education."
 permalink: /charity-spotlight-lettuce-live-well/
 tags: [spotlight]
 preview-image: /img/spotlight/lettuce-live-well/lettuce-live-well-.jpg
 snippet: >
-    
+    Lettuce Live Well guides people toward healthy lifestyles by providing free
+    nutritional and fitness education. Regardless of age or budget, anyone can
+    make healthy improvements to their life and everyone should have the
+    knowledge to do so.
 ---
 
-[Lettuce Live Well][1] makes handcrafted wooden toys, games, and memory boxes and donates them to children in need. Whether homeless, in poverty, sick, or otherwise disadvantaged, every child deserves to smile and play.
+[Lettuce Live Well][1] guides people toward healthy lifestyles by providing free nutritional and fitness education. Regardless of age or budget, anyone can make healthy improvements to their life and everyone should have the knowledge to do so.
 
 In this charity spotlight, I spoke with the President of Lettuce Live Well, Kelly Zielinski.
 
