@@ -24,13 +24,19 @@ Today, more than ever, people are constantly blasted with food marketing about w
 
 In 2014, Kelly had been learning about nutrition. She was studying for the MCAT while working at the [Care Free Clinic][3] in Mason. Working with so many individuals, it became clear that people weren't as educated about health as they could be. If she wanted to make a bigger impact on peoples' health, it was clear to Kelly that she would have to provide better education at the very least.
 
-After telling her friends, Ashley Corinne Logan and Denise Loveless, about her idea to offer nutritional coaching and grocery tours, the trio got to work founding Lettuce Live Well, a nonprofit dedicated to providing free food education.
+After telling her friends, Ashley Corinne Logan and Denise Loveless, about her idea, the trio got to work founding Lettuce Live Well, a nonprofit dedicated to providing free food education.
 
 ![][9]
 
 ## Today
 
+Lettuce Live Well offers several ways to learn about food, the first being [Grocery Store Tours][5]. During the tour, participants learn how to read nutrition labels, compare unit prices, and purchase whole foods. When the tour is complete, students are challenged to shop for a meal for four that includes all five food groups while spending less than $10.
 
+Lettuce also offers free, one-on-one nutritional coaching. Coaches encourage making small changes, usually by adding to a person's existing diet instead of taking things away. The coaches also help incorporate the changes into work and travel schedules. Emotional support and encouragement are also provided.
+
+[Metro Lansing Loses a Million][2] is another big program being lead by Lettuce Live Well. The site allows people to form peer groups and track their weight, physical activity, sleep, food, and more. The goal is to help Lansing residents lose a total of one million pounds together.
+
+The group also has a [Little Lettuce League][6] that incorporates games, activities, kid-friendly recipes, and fitness components into a child's lifestyle. Similarly, Lettuce also offers senior workshops where the focus shifts slightly toward cooking smaller portions of nutrient-dense foods, making tiny lifestyle adjustments, and improving mobility.
 
 ![][11]
 
@@ -73,3 +79,6 @@ If you want to learn more about [Lettuce Live Well][1], you can reach them by cl
 [1]: http://lettucelivewell.org/ "Lettuce Live Well Homepage"
 [2]: http://lansinglosesamillion.com/ "Metro Lansing Loses a Million Homepage"
 [3]: http://www.carefreemedical.com/ "Care Free Clinic Homepage"
+[4]: http://lettucelivewell.org/contact-us/ "How to Contact Lettuce Live Well and Sign Up"
+[5]: http://lettucelivewell.org/grocery-store-tour/ "Grocery Store Tours Info on Lettuce Live Well's Homepage"
+[6]: http://lettucelivewell.org/community-programs/littlelettuceleague/ "Little Lettuce League Info on Lettuce Live Well's Homepage"
