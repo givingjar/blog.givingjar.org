@@ -20,7 +20,11 @@ In this charity spotlight, I spoke with the President of Lettuce Live Well, Kell
 
 ## Origin Story
 
+Today, more than ever, people are constantly blasted with food marketing about what is and isn't good for you. There are hundreds of fad diets to keep up with, all trying to generalize nutrition. There's always a new study that seems to contradict some other study, make good foods like bad, or vice-versa. It's enough to make a person's head spin. Or just stop paying attention altogether.
 
+In 2014, Kelly had been learning about nutrition. She was studying for the MCAT while working at the [Care Free Clinic][3] in Mason. Working with so many individuals, it became clear that people weren't as educated about health as they could be. If she wanted to make a bigger impact on peoples' health, it was clear to Kelly that she would have to provide better education at the very least.
+
+After telling her friends, Ashley Corinne Logan and Denise Loveless, about her idea to offer nutritional coaching and grocery tours, the trio got to work founding Lettuce Live Well, a nonprofit dedicated to providing free food education.
 
 ![][9]
 
@@ -68,3 +72,4 @@ If you want to learn more about [Lettuce Live Well][1], you can reach them by cl
 
 [1]: http://lettucelivewell.org/ "Lettuce Live Well Homepage"
 [2]: http://lansinglosesamillion.com/ "Metro Lansing Loses a Million Homepage"
+[3]: http://www.carefreemedical.com/ "Care Free Clinic Homepage"
