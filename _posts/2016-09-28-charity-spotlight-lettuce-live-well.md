@@ -32,11 +32,15 @@ In this charity spotlight, I spoke with the President of Lettuce Live Well, Kell
 
 ## Big Wins
 
+Lettuce Live Well has received overwhelming support from corporate sponsors and the Lansing community. Even the City of Lansing is on board! With a mission focusing on health&mdash;something everyone can benefit from&mdash;it really is important to have widespread support from the community.
 
+The [Metro Lansing Loses a Million][2] program has also been immensely successful. It may have been started in 2015, but it already has over 3,000 members who have collectively lost over 13,000 pounds!
 
 ## Goals
 
+Kelly wants Lettuce Live Well to become the unbiased source of food education, not just in Lansing, but across the country. They are already spreading into Saginaw, Michigan and Denise, one of the original board members, is also starting a hub in Utah!
 
+The organization is always striving for growth and support so they can continue to help more and more people. 
 
 ![][12]
 
@@ -63,3 +67,4 @@ If you want to learn more about [Lettuce Live Well][1], you can reach them by cl
 
 
 [1]: http://lettucelivewell.org/ "Lettuce Live Well Homepage"
+[2]: http://lansinglosesamillion.com/ "Metro Lansing Loses a Million Homepage"
