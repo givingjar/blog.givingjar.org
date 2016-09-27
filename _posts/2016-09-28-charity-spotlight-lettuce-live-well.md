@@ -4,7 +4,7 @@ title: "Charity Spotlight: Lettuce Live Well"
 subtitle: "Promoting healthy living through free, accessible food education."
 permalink: /charity-spotlight-lettuce-live-well/
 tags: [spotlight]
-preview-image: /img/spotlight/lettuce-live-well/lettuce-live-well-.jpg
+preview-image: /img/spotlight/lettuce-live-well/lettuce-live-well-team.jpg
 snippet: >
     Lettuce Live Well guides people toward healthy lifestyles by providing free
     nutritional and fitness education. Regardless of age or budget, anyone can
@@ -16,7 +16,7 @@ snippet: >
 
 In this charity spotlight, I spoke with the President of Lettuce Live Well, Kelly Zielinski.
 
-![][10]
+![][11]
 
 ## Origin Story
 
@@ -38,7 +38,7 @@ Lettuce also offers free, one-on-one nutritional coaching. Coaches encourage mak
 
 The group also has a [Little Lettuce League][6] that incorporates games, activities, kid-friendly recipes, and fitness components into a child's lifestyle. Similarly, Lettuce also offers senior workshops where the focus shifts slightly toward cooking smaller portions of nutrient-dense foods, making tiny lifestyle adjustments, and improving mobility.
 
-![][11]
+![][8]
 
 ## Big Wins
 
@@ -52,7 +52,7 @@ Kelly wants Lettuce Live Well to become the unbiased source of food education, n
 
 The organization is always striving for growth and support so they can continue to help more and more people. 
 
-![][12]
+![][7]
 
 ## For Nonprofits
 
@@ -64,7 +64,7 @@ When you're running a nonprofit, be passionate, be persistent, and be open to ch
 
 When you're looking for volunteer opportunities, Kelly suggests trying something that you can't find anywhere else. Really own what you do and no matter what role you're filling, consider yourself a leader. Get your hands dirty, work with the public, and be persistent. Accept failure (it happens), learn from it, and always be trying new things.
 
-![][13]
+![][10]
 
 ## Get Involved
 
@@ -82,3 +82,8 @@ If you want to learn more about [Lettuce Live Well][1], you can reach them by cl
 [4]: http://lettucelivewell.org/contact-us/ "How to Contact Lettuce Live Well and Sign Up"
 [5]: http://lettucelivewell.org/grocery-store-tour/ "Grocery Store Tours Info on Lettuce Live Well's Homepage"
 [6]: http://lettucelivewell.org/community-programs/littlelettuceleague/ "Little Lettuce League Info on Lettuce Live Well's Homepage"
+[7]: /img/spotlight/lettuce-live-well/lettuce-live-well-lettuce-league.jpg "The Little Lettuce League loves playing Twister"
+[8]: /img/spotlight/lettuce-live-well/lettuce-live-well-bouncy-soccer.jpg "Staying fit with a game of bubble soccer"
+[9]: /img/spotlight/lettuce-live-well/lettuce-live-well-grocery-tour.jpg "Learn to read nutrition labels on a Grocery Store Tour"
+[10]: /img/spotlight/lettuce-live-well/metro-lansing-loses-a-million.jpg "You can help Lansing lose a million pounds!"
+[11]: /img/spotlight/lettuce-live-well/lettuce-live-well-team.jpg "Members of the Lettuce Live Well Team in Lansing"
