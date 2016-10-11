@@ -39,13 +39,15 @@ In this charity spotlight, I spoke with the Director of Nottingham Nature Nook, 
 
 ## For Nonprofits
 
-If you want to start or help run a nonprofit, it's important to be passionate about your cause, but it's also important to realize what needs to be done for the success of your organization. Be prepared to learn and don't be afraid to go outside of your comfort zone!
+If you want to start or help run a nonprofit, it's important to be passionate about your cause, but it's also important to realize what needs to be done for the success of your organization. Be prepared to learn and don't be afraid to go outside of your comfort zone to make it happen!
 
 Develop your people skills, share stories and photos on social media, and write from the heart. Put your cause out there for others to share. "Word of mouth" is still a great way for people to discover you, even if it's online.
 
 ## For Volunteers
 
+When you volunteer at an organization like Nottingham Nature Nook, it makes sense that you want to spend a lot of time with the animals. There's a lot of cleaning involved, though. Baby animals are especially delicate so they require a great deal of experience to care for properly. And despite everyone's best efforts, some animals don't survive.
 
+As a new volunteer, you want to enjoy the work you do, but some of it may not be glamorous or fulfilling even though it is vital to the cause you are supporting. Just remember that no matter what, you are making a difference!
 
 ![][10]
 
