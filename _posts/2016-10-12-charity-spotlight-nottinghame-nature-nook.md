@@ -39,7 +39,9 @@ In this charity spotlight, I spoke with the Director of Nottingham Nature Nook, 
 
 ## For Nonprofits
 
+If you want to start or help run a nonprofit, it's important to be passionate about your cause, but it's also important to realize what needs to be done for the success of your organization. Be prepared to learn and don't be afraid to go outside of your comfort zone!
 
+Develop your people skills, share stories and photos on social media, and write from the heart. Put your cause out there for others to share. "Word of mouth" is still a great way for people to discover you, even if it's online.
 
 ## For Volunteers
 
