@@ -17,7 +17,13 @@ In this charity spotlight, I spoke with the Director of Nottingham Nature Nook, 
 
 ## Origin Story
 
+As the manager of [Nottingham Equestrian Center][2], Cheryl was no stranger to animals. She had even rehabilitated and released baby birds, but when Cheryl's friend asked her to care for a baby black squirrel that had fallen from its nest, Cheryl wasn't sure what to do.
 
+Cheryl went to a wildlife rehabilitator in Eagle, Michigan for help, but instead of finding someone to care for the squirrel, she was taught how to care for the squirrel. Cheryl released the squirrel and later returned to discover that the squirrel would come to her when called! At that moment, Cheryl was hooked.
+
+The next year, Cheryl helped five squirrels. Then eight. She started caring for rabbits and even deer. For ten years Cheryl helped animals as a licensed rehabilitator, but as the number of animals she helped grew, so did her expenses.
+
+Cheryl spent her free moments forming an organization that would allow her to continue helping hundreds of animals each year. In 2013, [Nottingham Nature Nook][1] was ready to serve the wildlife of mid-Michigan.
 
 ![][9]
 
@@ -39,7 +45,7 @@ In this charity spotlight, I spoke with the Director of Nottingham Nature Nook, 
 
 ## For Nonprofits
 
-If you want to start or help run a nonprofit, it's important to be passionate about your cause, but it's also important to realize what needs to be done for the success of your organization. Be prepared to learn and don't be afraid to go outside of your comfort zone to make it happen!
+If you want to start or help run a nonprofit, it's important to be passionate about your cause, but it's also important to realize what is needed for the success of your organization. Be prepared to learn and don't be afraid to go outside of your comfort zone to make it happen!
 
 Develop your people skills, share stories and photos on social media, and write from the heart. Put your cause out there for others to share. "Word of mouth" is still a great way for people to discover you, even if it's online.
 
@@ -62,3 +68,4 @@ If you want to learn more about [Nottingham Nature Nook][1], you can reach them 
 
 
 [1]: https://nottinghamnaturenook.wordpress.com/ "Nottingham Nature Nook Homepage"
+[2]: https://nottinghamequestriancenter.wordpress.com/ "Nottingham Equestrian Center Homepage"
