@@ -98,3 +98,4 @@ exclude:
   - Gruntfile.js
   - node_modules
   - deploy.sh
+  - crontab
