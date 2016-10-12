@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "Charity Spotlight: Nottingham Nature Nook"
-subtitle: ""
+subtitle: "Using wildlife rehabilitation to reunite people with nature."
 permalink: /charity-spotlight-nottingham-nature-nook/
 tags: [spotlight]
 preview-image: /img/spotlight/nottingham-nature-nook/nottingham-nature-nook-.jpg
 snippet: >
-    
+  Nottingham Nature Nook rehabilitates young or injured birds and mammals in
+  East Lansing. In addition to healing wildlife, the Nature Nook is also a place
+  where people can reconnect with nature and even do a little healing of their
+  own.
 ---
 
-[Nottingham Nature Nook][1] is a wildlife rehabilitation center for 
+[Nottingham Nature Nook][1] rehabilitates young or injured birds and mammals in East Lansing. In addition to healing wildlife, the Nature Nook is also a place where people can reconnect with nature and even do a little healing of their own.
 
 In this charity spotlight, I spoke with the Director of Nottingham Nature Nook, Cheryl Connell-Marsh.
 
