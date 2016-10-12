@@ -9,7 +9,7 @@ snippet: >
     
 ---
 
-[Nottingham Nature Nook][1] ...
+[Nottingham Nature Nook][1] is a wildlife rehabilitation center for 
 
 In this charity spotlight, I spoke with the Director of Nottingham Nature Nook, Cheryl Connell-Marsh.
 
@@ -29,7 +29,13 @@ Cheryl spent her free moments forming an organization that would allow her to co
 
 ## Today
 
+Nottingham Nature Nook has rehabilitated and released hundreds of animals over the past year. Squirrels, rabbits, chipmunks, foxes, woodchucks, moles, raccoons, and song birds of all varieties are welcome. Unfortunately, due to Chronic Wasting Disease, the [DNR][3] does not want wildlife rehabs to take in deer, but the Nature Nook has helped many deer in the past.
 
+If you find an animal that might need rescue, the Nature Nook also offers [guidelines][4] to determine if and how you should help.
+
+Cheryl also has an education license which allows Nottingham Nature Nook to keep non-releasable animals such as their blind fox, Athena, in enclosed areas for educational purposes.
+
+The educational programs offered include a Summer Day Camp for children between the ages of 6 and 12, a Holiday Fun Day, and occasional visits from Girl Scout troop. These are great opportunities for kids to be outside, see the animals, learn about wildlife and rehabilitation, and connect with nature.
 
 ![][8]
 
@@ -43,7 +49,7 @@ Cheryl also enjoys working with kids. It's a great accomplishment to see someone
 
 Nature has a lot of therapeutic qualities that are easy to miss or forget and Cheryl would love to see the human side of the nonprofit grow.
 
-More outdoor enclosures would allow visitors to learn about wildlife, experience the outdoors, and heal with the animals in their natural surroundings.
+More outdoor enclosures would allow visitors to learn about wildlife, experience sanctuary in the outdoors, and heal with the animals in their natural surroundings.
 
 ![][7]
 
@@ -73,3 +79,5 @@ If you want to learn more about [Nottingham Nature Nook][1], you can reach them 
 
 [1]: https://nottinghamnaturenook.wordpress.com/ "Nottingham Nature Nook Homepage"
 [2]: https://nottinghamequestriancenter.wordpress.com/ "Nottingham Equestrian Center Homepage"
+[3]: http://www.michigan.gov/dnr "Michigan Department of Natural Resources Homepage"
+[4]: https://nottinghamnaturenook.wordpress.com/what-to-do-if-you-find/ "Nottingham Nature Nook - What To Do If You Find An Animal"
