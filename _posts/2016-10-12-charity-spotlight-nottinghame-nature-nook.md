@@ -35,13 +35,15 @@ Cheryl spent her free moments forming an organization that would allow her to co
 
 ## Big Wins
 
-The Nature Nook continues to learn new ways to care for animals. As their experience grows, so does their success rate. Today, more than 90% of animals such as rabbits and deer&mdash;before Chronic Wasting Disease prevented their care&mdash;are successfully rehabilitated.
+The Nature Nook continues to discover better ways to care for animals. As their experience grows, so does their success rate. Today, more than 90% of animals such as rabbits and deer (before Chronic Wasting Disease prevented their care) are successfully rehabilitated.
 
 Cheryl also enjoys working with kids. It's a great accomplishment to see someone grow and change when they experience nature.
 
 ## Goals
 
+Nature has a lot of therapeutic qualities that are easy to miss or forget and Cheryl would love to see the human side of the nonprofit grow.
 
+More outdoor enclosures would allow visitors to learn about wildlife, experience the outdoors, and heal with the animals in their natural surroundings.
 
 ![][7]
 
