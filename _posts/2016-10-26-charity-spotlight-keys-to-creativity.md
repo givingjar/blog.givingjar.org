@@ -8,11 +8,11 @@ preview-image: /img/spotlight/keys-to-creativity/keys-to-creativity-lets-play.jp
 snippet: >
   Keys to Creativity helps people cross the threshold of art awareness by
   promoting local artists in public places. In addition to their galleries in
-  the Lansing Mall, they also offer art classes, special events, and the means
-  to recreate their public displays of art in new cities.
+  the Lansing Mall, they also offer art classes, special events, and ways to
+  recreate their public displays of art in new cities.
 ---
 
-[Keys to Creativity][1] helps people cross the threshold of art awareness by promoting local artists in public places. In addition to their galleries in the Lansing Mall, they also offer art classes, special events, and the means to recreate their public displays of art in new cities.
+[Keys to Creativity][1] helps people cross the threshold of art awareness by promoting local artists in public places. In addition to their galleries in the Lansing Mall, they also offer art classes, special events, and ways to recreate their public displays of art in new cities.
 
 In this charity spotlight, I spoke with the Executive Director of Keys to Creativity, Larry Grudt.
 
@@ -50,7 +50,7 @@ The musical events and benefits have also been a boon to Keys to Creativity. Eac
 
 Larry would like to improve the electrical and ventilation of their classroom so they can incorporate new mediums and art forms. The organization would also like to host even larger events outside the mall and introduce even more passersby to Lansing art.
 
-Beyond that, Larry would like to organize a [TEDx][7]-like event with topics revolving around art and fun, artistic fillers between presentations. He'd also love to see Lansing nonprofits with intersecting themes unite and hold group fundraiser with shark talks about how they each pursue their related goal.
+Beyond that, Larry would like to organize a [TEDx][7]-like event with topics revolving around art and fun, imaginative fillers in between presentations. He'd also love to see Lansing nonprofits with intersecting themes unite and hold group fundraiser with shark talks about how they each pursue their related goal.
 
 ![][5]
 
