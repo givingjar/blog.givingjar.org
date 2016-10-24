@@ -42,11 +42,11 @@ In this charity spotlight, I spoke with the Executive Director of Keys to Creati
 
 ## For Nonprofits
 
+When you work at a nonprofit, be honest about your goals and open about your needs. Try not to think of other nonprofits as your competition, either. Instead, collaborate with them and connect more people to what you're all doing. You'll grow and accomplish a lot more that way!
 
+## For Donors and Volunteers
 
-## For Volunteers
-
-
+Larry encourages donors and volunteers to reflect on the good they are doing from time to time. Whether you donate your time or your money, you are helping your community grow. That may not be easy to see if you set aside the incentives that some organizations offer, but trust that when you help, everyone does benefit from your giving.
 
 {% include youtube.html url="https://www.youtube.com/embed/r4DjiX5Llfg" %}
 
@@ -56,7 +56,7 @@ If you want to learn more about [Keys to Creativity][1], you can reach them by c
 
 {% include web-links.html home="http://www.keystocreativity.net/" facebook="keystocreativity" instagram="ktcgallery" %}
 
-###### Photographs Courtesy of [Keys to Creativity][1].
+###### Photographs courtesy of [Keys to Creativity][1]. Video courtesy of [UnoDeuce Multimedia][6].
 
 
 
@@ -65,3 +65,4 @@ If you want to learn more about [Keys to Creativity][1], you can reach them by c
 [3]: /img/spotlight/keys-to-creativity/keys-to-creativity-door-jam.jpg "Keys to Creativity - Door Jam Artistic Doors"
 [4]: /img/spotlight/keys-to-creativity/keys-to-creativity-community-gallery.jpg "Keys to Creativity - Community Gallery"
 [5]: /img/spotlight/keys-to-creativity/keys-to-creativity-creative-kids.jpg "Keys to Creativity - Classes for All Ages and Skill Levels"
+[6]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"
