@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Keys to Creativity"
-subtitle: "."
+subtitle: "Cultivating city culture by supporting local artists and art education."
 permalink: /charity-spotlight-keys-to-creativity/
 tags: [spotlight]
 preview-image: /img/spotlight/keys-to-creativity/keys-to-creativity-lets-play.jpg
@@ -13,19 +13,19 @@ snippet: >
 
 In this charity spotlight, I spoke with the Director of Keys to Creativity, Larry Grudt.
 
-![][5]
+![][2]
 
 ## Origin Story
 
 
 
-![][6]
+![][3]
 
 ## Today
 
 
 
-![][7]
+![][4]
 
 ## Big Wins
 
@@ -35,7 +35,7 @@ In this charity spotlight, I spoke with the Director of Keys to Creativity, Larr
 
 
 
-![][8]
+![][5]
 
 ## For Nonprofits
 
@@ -45,7 +45,7 @@ In this charity spotlight, I spoke with the Director of Keys to Creativity, Larr
 
 
 
-![][9]
+{% include youtube.html url="https://www.youtube.com/embed/r4DjiX5Llfg" %}
 
 ## Get Involved
 
@@ -58,3 +58,7 @@ If you want to learn more about [Keys to Creativity][1], you can reach them by c
 
 
 [1]: http://www.keystocreativity.net/ "Keys to Creativity Homepage"
+[2]: /img/spotlight/keys-to-creativity/keys-to-creativity-lets-play.jpg "Keys to Creativity - Playing at a Painted Piano"
+[3]: /img/spotlight/keys-to-creativity/keys-to-creativity-door-jam.jpg "Keys to Creativity - Door Jam Artistic Doors"
+[4]: /img/spotlight/keys-to-creativity/keys-to-creativity-community-gallery.jpg "Keys to Creativity - Community Gallery"
+[5]: /img/spotlight/keys-to-creativity/keys-to-creativity-creative-kids.jpg "Keys to Creativity - Classes for All Ages and Skill Levels"
