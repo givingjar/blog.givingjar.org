@@ -20,7 +20,13 @@ In this charity spotlight, I spoke with the Executive Director of Keys to Creati
 
 ## Origin Story
 
+Larry has been exploring different ways to educate and help people for years. He has worked in hospice, taught environmental and animal sciences, and, prior to his most recent endeavor, worked with the [Michigan BluesFest in Old Town][9] and the [East Lansing Jazz Festival][10]. Eventually, Larry wanted to try something new, something different, something that could transform the community around him.
 
+While exploring ideas, Larry's sister mentioned the painted pianos in cities like Fort Collins and Denver. Larry loved the idea and wanted to make it happen in Lansing. He reached out to cities already painting the pianos, learned from their experiences, and applied those lessons to his project.
+
+The [Lansing Mall][8] liked what Larry and the artists were doing. They offered space to the group and Larry noticed that passersby enjoyed watching the artists work. Larry unveiled fourteen artistically decorated pianos in 2015, but he discovered that the public didn't just want the result. They also wanted to experience the artistic process.
+
+Later that year, Larry launched [Keys to Creativity][1] as a way to continue helping the public get involved with art.
 
 ![][4]
 
@@ -71,3 +77,7 @@ If you want to learn more about [Keys to Creativity][1], you can reach them by c
 [5]: /img/spotlight/keys-to-creativity/keys-to-creativity-creative-kids.jpg "Keys to Creativity - Classes for All Ages and Skill Levels"
 [6]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"
 [7]: http://www.ted.com/about/programs-initiatives/tedx-program "TEDx Program"
+[8]: http://www.lansingmall.com/ "Lansing Mall Homepage"
+[9]: http://www.oldtownbluesfest.com/ "Michigan BluesFest in Old Town Homepage"
+[10]: http://eljazzfest.com/ "East Lansing Jazz Festival Homepage"
+[11]: http://www.keystocreativity.net/keys-in-the-cities.html "Keys in the Cities Homepage"
