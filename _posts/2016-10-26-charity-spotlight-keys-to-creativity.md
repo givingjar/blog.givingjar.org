@@ -1,17 +1,20 @@
 ---
 layout: post
 title: "Charity Spotlight: Keys to Creativity"
-subtitle: "Cultivating city culture by supporting local artists and art education."
+subtitle: "Enriching city culture and nurturing local artists, art education, and leadership."
 permalink: /charity-spotlight-keys-to-creativity/
 tags: [spotlight]
 preview-image: /img/spotlight/keys-to-creativity/keys-to-creativity-lets-play.jpg
 snippet: >
-
+  Keys to Creativity helps people cross the threshold of art awareness by
+  promoting local artists in public places. In addition to their galleries in
+  the Lansing Mall, they also offer art classes, special events, and the means
+  to recreate their public displays of art in new cities.
 ---
 
-[Keys to Creativity][1]
+[Keys to Creativity][1] helps people cross the threshold of art awareness by promoting local artists in public places. In addition to their galleries in the Lansing Mall, they also offer art classes, special events, and the means to recreate their public displays of art in new cities.
 
-In this charity spotlight, I spoke with the Director of Keys to Creativity, Larry Grudt.
+In this charity spotlight, I spoke with the Executive Director of Keys to Creativity, Larry Grudt.
 
 ![][2]
 
