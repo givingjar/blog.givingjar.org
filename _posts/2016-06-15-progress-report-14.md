@@ -5,7 +5,7 @@ subtitle: "Progress Report #14"
 permalink: /progress-report-14-research-research-research/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
-snippet: >
+description: >
     IRS Publication 557 has been devoured, a path has been paved, and the first
     few steps have been taken! Read about that and other successes, lessons
     learned, who helped, and what's coming soon in this new progress report.

@@ -5,7 +5,7 @@ subtitle: "Progress Report #8"
 permalink: /progress-report-8-branding-and-marketing-training/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
-snippet: >
+description: >
     Marketing is not an easy discipline to learn, especially from books. Getting
     out there and learning from people, asking questions, trying, failing, and
     trying again, measuring results, and so much more are needed to promote a

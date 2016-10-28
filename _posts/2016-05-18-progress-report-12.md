@@ -5,7 +5,7 @@ subtitle: "Progress Report #12"
 permalink: /progress-report-12-embracing-paypal-for-giving/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
-snippet: >
+description: >
     A deep dive into PayPal has shown that it will be a great platform on which
     the Giving Jar software can be built! Read about that and other successes,
     lessons learned, who helped, and what's coming soon in this new progress

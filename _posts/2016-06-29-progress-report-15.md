@@ -5,7 +5,7 @@ subtitle: "Progress Report #15"
 permalink: /progress-report-15-articles-submitted/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
-snippet: >
+description: >
     We'll have an official nonprofit in the state of Michigan soon! Read about
     that and other successes, lessons learned, who helped, and what's coming
     soon in this new progress report.

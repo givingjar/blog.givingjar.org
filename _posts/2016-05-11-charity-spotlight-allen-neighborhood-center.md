@@ -5,7 +5,7 @@ subtitle: "Strengthening Lansing's Eastside through accessible food, health, and
 permalink: /charity-spotlight-allen-neighborhood-center/
 tags: [spotlight]
 preview-image: /img/spotlight/allen-neighborhood-center/anc-marketplace.jpg
-snippet: >
+description: >
     Allen Neighborhood Center is rejuvenating Lansing's Eastside by identifying
     pain points within the community and introducing programs to address their
     needs. By directly involving residents, the center helps build a united and

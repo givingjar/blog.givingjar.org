@@ -5,7 +5,7 @@ subtitle: "Cherishing the end of life through vigilant and loving hospice care."
 permalink: /charity-spotlight-hospice-of-lansing/
 tags: [spotlight]
 preview-image: /img/spotlight/hospice-of-lansing/hospice-of-lansing-nicole.jpg
-snippet: >
+description: >
     Hospice of Lansing is everything a person might want at the end of their
     life: family, friends, home, comfort, care, love, great memories, peace.
     Through compassionate hospice care, they help put the focus back on the

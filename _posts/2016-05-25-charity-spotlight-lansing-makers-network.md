@@ -5,7 +5,7 @@ subtitle: "Sharing the skills, space, and tools to help us all become makers."
 permalink: /charity-spotlight-lansing-makers-network/
 tags: [spotlight]
 preview-image: /img/spotlight/lansing-makers-network/lansing-makers-network-take-it-apart.jpg
-snippet: >
+description: >
     The Lansing Makers Network fosters creativity and confidence by providing
     people with the skills, space, and tools to make their ideas real. They work
     with kids and adults of all experience levels, encourage safe and effective

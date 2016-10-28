@@ -5,7 +5,7 @@ subtitle: "Providing haircuts and empowering conversation to low-income resident
 permalink: /charity-spotlight-cuts-and-convos/
 tags: [spotlight]
 preview-image: /img/spotlight/cuts-and-convos/cuts-and-convos-kids-too.jpg
-snippet: >
+description: >
     Cuts and Convos helps low-income residents of Michigan look good, feel good,
     and ultimately become gainfully employed. The charity accomplishes this
     through complimentary haircuts and beauty services with uplifting

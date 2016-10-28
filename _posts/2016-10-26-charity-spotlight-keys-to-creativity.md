@@ -5,7 +5,7 @@ subtitle: "Enriching city culture and nurturing local artists, art education, an
 permalink: /charity-spotlight-keys-to-creativity/
 tags: [spotlight]
 preview-image: /img/spotlight/keys-to-creativity/keys-to-creativity-lets-play.jpg
-snippet: >
+description: >
   Keys to Creativity helps people cross the threshold of art awareness by
   promoting local artists in public places. In addition to their galleries in
   the Lansing Mall, they also offer art classes, special events, and ways to

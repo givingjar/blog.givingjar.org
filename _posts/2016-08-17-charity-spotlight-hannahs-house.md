@@ -5,7 +5,7 @@ subtitle: "Providing loving care and education to homeless pregnant women and th
 permalink: /charity-spotlight-hannahs-house/
 tags: [spotlight]
 preview-image: /img/spotlight/hannahs-house/hannahs-house-baby.jpg
-snippet: >
+description: >
     Hannah's House believes every pregnant woman deserves a firm foundation upon
     which to raise her children. They help homeless women build this foundation
     by providing shelter, food, and the life skills necessary to become

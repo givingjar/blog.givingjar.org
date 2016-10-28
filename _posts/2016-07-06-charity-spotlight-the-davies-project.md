@@ -5,7 +5,7 @@ subtitle: "Driving children with serious health conditions to the care they need
 permalink: /charity-spotlight-the-davies-project/
 tags: [spotlight]
 preview-image: /img/spotlight/the-davies-project/the-davies-project-smiley.jpg
-snippet: >
+description: >
     The Davies Project provides transportation to and from medical appointments
     for children with serious or long-term illnesses. Ensuring children receive
     the care they need not only helps improve the health of the children, it can

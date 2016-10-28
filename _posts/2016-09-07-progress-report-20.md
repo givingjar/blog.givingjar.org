@@ -5,7 +5,7 @@ subtitle: "Progress Report #20"
 permalink: /progress-report-20-try-our-shopping-extension/
 tags: [progress-report]
 preview-image: /img/cards/giving-jar-on-chrome.jpg
-snippet: >
+description: >
     The Giving Jar PayPal Shopper extension for Chrome is now available! Read
     about that and other successes, lessons learned, who helped, and what's
     coming soon in this new progress report.

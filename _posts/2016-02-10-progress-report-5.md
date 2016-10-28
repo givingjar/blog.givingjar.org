@@ -5,7 +5,7 @@ subtitle: "Progress Report #5"
 permalink: /progress-report-5-giving-jar-is-a-real-business/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
-snippet: >
+description: >
     Giving Jar is officially an LLC! Read about that and other successes,
     lessons learned, who helped, and what's coming soon in this new progress
     report.

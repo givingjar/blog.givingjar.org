@@ -5,7 +5,7 @@ subtitle: "Progress Report #7"
 permalink: /progress-report-7-now-scheduling-spotlights/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
-snippet: >
+description: >
     After several road bumps, spotlights can now be scheduled to appear on a
     specific day! Read about that and other successes, lessons learned, who
     helped, and what's coming soon in this new progress report.

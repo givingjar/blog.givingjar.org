@@ -5,7 +5,7 @@ subtitle: "Promoting healthy living through free, accessible food education."
 permalink: /charity-spotlight-lettuce-live-well/
 tags: [spotlight]
 preview-image: /img/spotlight/lettuce-live-well/lettuce-live-well-team.jpg
-snippet: >
+description: >
     Lettuce Live Well guides people toward healthy lifestyles by providing free
     nutritional and fitness education. Regardless of age or budget, anyone can
     make healthy improvements to their life and everyone should have the

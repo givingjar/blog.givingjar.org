@@ -5,7 +5,7 @@ subtitle: "A Michigan fund for remembering and honoring those who lost their liv
 permalink: /charity-spotlight-michigan-remembers-9-11/
 tags: [spotlight]
 preview-image: /img/spotlight/michigan-remembers-9-11/2015-never-forget.jpg
-snippet: >
+description: >
     Michigan Remembers 9/11 wants to make sure the significance of the tragic events on
     September 11, 2001 lives on in Michigan for all generations. They know that high school
     graduates this year may not have any personal recollection of that day, and they are

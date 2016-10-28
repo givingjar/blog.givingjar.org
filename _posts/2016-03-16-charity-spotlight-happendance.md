@@ -5,7 +5,7 @@ subtitle: "Promoting lifelong physical and mental well-being through dance educa
 permalink: /charity-spotlight-happendance/
 tags: [spotlight]
 preview-image: /img/spotlight/happendance/happendance-color-lineup.jpg
-snippet: >
+description: >
     Happendance makes the art of dance accessible to people of all ages and
     backgrounds through a variety of educational programs, indoor and outdoor
     performances, and concerts. By appealing to diverse audiences, Happendance

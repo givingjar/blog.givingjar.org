@@ -5,7 +5,7 @@ subtitle: "Progress Report #11"
 permalink: /progress-report-11-partnership-in-the-works/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
-snippet: >
+description: >
     Last week there was an exciting coffee break with Paul Schmidt of UnoDeuce
     Multimedia where we talked about working together to better promote Lansing
     nonprofits and charities! Read about that and other successes, lessons

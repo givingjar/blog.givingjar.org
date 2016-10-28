@@ -21,10 +21,10 @@ title: Giving Jar Blog
         </p>
 
         <div class="post-entry">
-            {% if post.snippet %}
-            {{ post.snippet | truncatewords: 50 | strip_html | xml_escape }}
+            {% if post.description %}
+              {{ post.description | truncatewords: 50 | strip_html | xml_escape }}
             {% else %}
-            {{ post.content | truncatewords: 50 | strip_html | xml_escape }}
+              {{ post.content | truncatewords: 50 | strip_html | xml_escape }}
             {% endif %}
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
         </div>

@@ -5,7 +5,7 @@ subtitle: "Providing women with the feminine hygiene products they need."
 permalink: /charity-spotlight-helping-women-period/
 tags: [spotlight]
 preview-image: /img/spotlight/helping-women-period/amy-and-lysne.jpg
-snippet: >
+description: >
     Helping Women Period wants to remove the barriers of self-sufficiency that
     many homeless and low-income women face daily. They provide feminine hygiene
     products such as sanitary pads and tampons to women in and around Lansing,

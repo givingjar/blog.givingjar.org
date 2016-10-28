@@ -5,7 +5,7 @@ subtitle: "Progress Report #16"
 permalink: /progress-report-16-presentation-and-paperwork/
 tags: [progress-report]
 preview-image: /img/cards/coming-soon.jpg
-snippet: >
+description: >
     We presented our vision for online giving to another local group dedicated
     to charity in Lansing. Read about that and other successes, lessons learned,
     who helped, and what's coming soon in this new progress report.

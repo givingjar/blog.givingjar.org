@@ -5,7 +5,7 @@ subtitle: "Encouraging independence while providing longterm care for developmen
 permalink: /charity-spotlight-joshuas-place/
 tags: [spotlight]
 preview-image: /img/spotlight/joshuas-place/joshuas-place-father-son.jpg
-snippet: >
+description: >
     Joshua's Place is a home for men with mild to moderate developmental
     disabilities. Residents are given the freedom to care for themselves when
     they are able to do so safely and trained staff is always available to
