@@ -6,6 +6,8 @@ permalink: /charity-spotlight-joshuas-place/
 tags: [spotlight]
 image:
   path: /img/spotlight/joshuas-place/joshuas-place-father-son.jpg
+  width: 800
+  height: 450
 description: >
     Joshua's Place is a home for men with mild to moderate developmental
     disabilities. Residents are given the freedom to care for themselves when

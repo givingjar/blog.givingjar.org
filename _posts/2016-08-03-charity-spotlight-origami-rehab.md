@@ -6,6 +6,8 @@ permalink: /charity-spotlight-origami-rehab/
 tags: [spotlight]
 image:
   path: /img/spotlight/origami-rehab/origami-rehab-drawing.jpg
+  width: 800
+  height: 533
 description: >
     Origami Brain Injury Rehabilitation Center gives personalized care and
     recovery in a natural setting to those who have suffered a brain injury.

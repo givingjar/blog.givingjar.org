@@ -6,6 +6,8 @@ permalink: /charity-spotlight-keys-to-creativity/
 tags: [spotlight]
 image:
   path: /img/spotlight/keys-to-creativity/keys-to-creativity-lets-play.jpg
+  width: 800
+  height: 452
 description: >
   Keys to Creativity helps people cross the threshold of art awareness by
   promoting local artists in public places. In addition to their galleries in

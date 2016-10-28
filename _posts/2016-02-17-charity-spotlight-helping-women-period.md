@@ -6,6 +6,8 @@ permalink: /charity-spotlight-helping-women-period/
 tags: [spotlight]
 image:
   path: /img/spotlight/helping-women-period/amy-and-lysne.jpg
+  width: 800
+  height: 500
 description: >
     Helping Women Period wants to remove the barriers of self-sufficiency that
     many homeless and low-income women face daily. They provide feminine hygiene

@@ -6,6 +6,8 @@ permalink: /charity-spotlight-michigan-remembers-9-11/
 tags: [spotlight]
 image:
   path: /img/spotlight/michigan-remembers-9-11/2015-never-forget.jpg
+  width: 800
+  height: 533
 description: >
     Michigan Remembers 9/11 wants to make sure the significance of the tragic events on
     September 11, 2001 lives on in Michigan for all generations. They know that high school

@@ -6,6 +6,8 @@ permalink: /charity-spotlight-hannahs-house/
 tags: [spotlight]
 image:
   path: /img/spotlight/hannahs-house/hannahs-house-baby.jpg
+  width: 800
+  height: 532
 description: >
     Hannah's House believes every pregnant woman deserves a firm foundation upon
     which to raise her children. They help homeless women build this foundation

@@ -6,6 +6,8 @@ permalink: /charity-spotlight-nottingham-nature-nook/
 tags: [spotlight]
 image:
   path: /img/spotlight/nottingham-nature-nook/nottingham-nature-nook-fox.jpg
+  width: 800
+  height: 533
 description: >
   Nottingham Nature Nook rehabilitates young or injured birds and mammals in
   East Lansing. In addition to healing wildlife, the Nature Nook is also a place

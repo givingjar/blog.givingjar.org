@@ -6,6 +6,8 @@ permalink: /charity-spotlight-building-twentyone/
 tags: [spotlight]
 image:
   path: /img/spotlight/building-twentyone/skate-park.jpg
+  width: 800
+  height: 450
 description: >
     Building Twentyone helps teenagers develop positive habits and values by
     giving them a safe, constructive place to drop in after school. They offer

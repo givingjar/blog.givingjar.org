@@ -6,6 +6,8 @@ permalink: /charity-spotlight-williamston-theatre/
 tags: [spotlight]
 image:
   path: /img/spotlight/williamston-theatre/williamston-theatre-best-brothers.jpg
+  width: 800
+  height: 343
 description: >
     Williamston Theatre supports Michigan culture and professional artists by
     producing entertaining and often sentimental performances that resonate with
@@ -61,7 +63,7 @@ If you want to start a nonprofit, build an awesome team first. Having a well-bal
 
 ## For Volunteers
 
-Emily says "Come on down!" Volunteering for an organization that hosts performances (such as Williamston Theatre) will typically get you into a show for free. If you're not sure how to help, try ushering. Stop by the theatre or call if you're interested. 
+Emily says "Come on down!" Volunteering for an organization that hosts performances (such as Williamston Theatre) will typically get you into a show for free. If you're not sure how to help, try ushering. Stop by the theatre or call if you're interested.
 
 ![][13]
 

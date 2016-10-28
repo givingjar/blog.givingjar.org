@@ -6,6 +6,8 @@ permalink: /charity-spotlight-cuts-and-convos/
 tags: [spotlight]
 image:
   path: /img/spotlight/cuts-and-convos/cuts-and-convos-kids-too.jpg
+  width: 800
+  height: 500
 description: >
     Cuts and Convos helps low-income residents of Michigan look good, feel good,
     and ultimately become gainfully employed. The charity accomplishes this

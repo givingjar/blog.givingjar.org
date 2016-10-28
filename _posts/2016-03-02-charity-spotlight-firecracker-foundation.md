@@ -6,6 +6,8 @@ permalink: /charity-spotlight-firecracker-foundation/
 tags: [spotlight]
 image:
   path: /img/spotlight/firecracker-foundation/firecracker-foundation-sparklers.jpg
+  width: 800
+  height: 525
 description: >
     The Firecracker Foundation helps children who have survived sexual trauma by
     providing professional therapy and trauma-sensitive yoga. With this support
@@ -21,7 +23,7 @@ In this charity spotlight, I spoke with the Founder of Firecracker Foundation, T
 
 Tashmica is a survivor of child sexual abuse and incest. Her father was the perpetrator. Despite being a child who had suffered for years, she spoke up. She told her mother, and her mother listened and helped. When Tashmica asked her mom for therapy, she received it.
 
-Recovery from this type of trauma is difficult. Twenty-five years later, Tashmica was in therapy again, discovering other ways her life had been affected by her past. She also learned that many victims of childhood abuse who go untreated struggle with addiction, eating disorders, and self-mutilation later in life. 
+Recovery from this type of trauma is difficult. Twenty-five years later, Tashmica was in therapy again, discovering other ways her life had been affected by her past. She also learned that many victims of childhood abuse who go untreated struggle with addiction, eating disorders, and self-mutilation later in life.
 
 Tashmica started thinking about the type of organization she would have wanted when she was a child: a community where children can go for individual support and participate in group activities such as yoga to mend their confidence and trust.
 
@@ -53,7 +55,7 @@ When you start to think "I don't know what I'm doing," Tashmica wants you to rem
 
 ## Goals
 
-The Firecracker Foundation is looking to expand in many ways. They want to add a Pediatric Medical Advocacy Team, introduce art and music programs, and introduce more children to their yoga program. 
+The Firecracker Foundation is looking to expand in many ways. They want to add a Pediatric Medical Advocacy Team, introduce art and music programs, and introduce more children to their yoga program.
 
 Child survivors of sexual trauma can require four times as many therapy sessions as adults. In order to sustain that effective level of treatment, the foundation is also looking to raise an additional $50,000 in 2016.
 

@@ -6,6 +6,8 @@ permalink: /charity-spotlight-hospice-of-lansing/
 tags: [spotlight]
 image:
   path: /img/spotlight/hospice-of-lansing/hospice-of-lansing-nicole.jpg
+  width: 800
+  height: 534
 description: >
     Hospice of Lansing is everything a person might want at the end of their
     life: family, friends, home, comfort, care, love, great memories, peace.

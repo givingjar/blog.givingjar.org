@@ -6,6 +6,8 @@ permalink: /charity-spotlight-lansing-art-gallery/
 tags: [spotlight]
 image:
   path: /img/spotlight/lansing-art-gallery/lansing-art-gallery-education.jpg
+  width: 800
+  height: 482
 description: >
     The Lansing Art Gallery expands appreciation for the visual arts by
     providing a permanent location for art exhibits and educational programs
@@ -19,7 +21,7 @@ In this charity spotlight, I spoke with the Executive Director of the Lansing Ar
 
 ## Origin Story
 
-Lansing had an active art scene in the early 1960s, but there were no community art galleries in the area. For many [Lansing Art Guild][14] members and artists, this was a serious barrier that prevented art from being accessible to Lansing residents, but it was a barrier that they could remove. They set to work cleaning and renovating a barn that could be used as a weekend art gallery. 
+Lansing had an active art scene in the early 1960s, but there were no community art galleries in the area. For many [Lansing Art Guild][14] members and artists, this was a serious barrier that prevented art from being accessible to Lansing residents, but it was a barrier that they could remove. They set to work cleaning and renovating a barn that could be used as a weekend art gallery.
 
 In 1965, Judith Leepa founded the Lansing Art Gallery. Later that year they held their first exhibition.
 

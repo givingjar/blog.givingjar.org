@@ -6,6 +6,8 @@ permalink: /charity-spotlight-michigan-womens-historical-center/
 tags: [spotlight]
 image:
   path: /img/spotlight/michigan-womens-historical-center/michigan-womens-historical-center-2015-honorees.jpg
+  width: 800
+  height: 444
 description: >
     The Michigan Women's Historical Center and Hall of Fame celebrates Michigan
     women in history, honors the magnitude of their impact, and educates the

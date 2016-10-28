@@ -6,6 +6,8 @@ permalink: /charity-spotlight-mini-maker-foundation/
 tags: [spotlight]
 image:
   path: /img/spotlight/mini-maker-foundation/mini-maker-foundation-kid-construction.jpg
+  width: 800
+  height: 532
 description: >
     The Mini Maker Foundation makes technologies such as 3D printing accessible
     to kids and their teachers. These new tools, and the skills that come with

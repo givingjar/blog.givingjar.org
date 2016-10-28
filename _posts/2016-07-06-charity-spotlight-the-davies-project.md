@@ -6,6 +6,8 @@ permalink: /charity-spotlight-the-davies-project/
 tags: [spotlight]
 image:
   path: /img/spotlight/the-davies-project/the-davies-project-smiley.jpg
+  width: 800
+  height: 533
 description: >
     The Davies Project provides transportation to and from medical appointments
     for children with serious or long-term illnesses. Ensuring children receive

@@ -6,6 +6,8 @@ permalink: /charity-spotlight-lansing-makers-network/
 tags: [spotlight]
 image:
   path: /img/spotlight/lansing-makers-network/lansing-makers-network-take-it-apart.jpg
+  width: 800
+  height: 478
 description: >
     The Lansing Makers Network fosters creativity and confidence by providing
     people with the skills, space, and tools to make their ideas real. They work

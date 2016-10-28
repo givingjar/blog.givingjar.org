@@ -6,6 +6,8 @@ permalink: /charity-spotlight-lettuce-live-well/
 tags: [spotlight]
 image:
   path: /img/spotlight/lettuce-live-well/lettuce-live-well-team.jpg
+  width: 800
+  height: 534
 description: >
     Lettuce Live Well guides people toward healthy lifestyles by providing free
     nutritional and fitness education. Regardless of age or budget, anyone can
@@ -51,7 +53,7 @@ The [Metro Lansing Loses a Million][2] program has also been immensely successfu
 
 Kelly wants Lettuce Live Well to become the unbiased source of food education, not just in Lansing, but across the country. They are already spreading into Saginaw, Michigan and Denise, one of the original board members, is also starting a hub in Utah!
 
-The organization is always striving for growth and support so they can continue to help more and more people. 
+The organization is always striving for growth and support so they can continue to help more and more people.
 
 ![][7]
 

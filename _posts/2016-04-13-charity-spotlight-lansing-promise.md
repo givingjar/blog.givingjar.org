@@ -6,6 +6,8 @@ permalink: /charity-spotlight-lansing-promise/
 tags: [spotlight]
 image:
   path: /img/spotlight/lansing-promise/lansing-promise-students.jpg
+  width: 800
+  height: 400
 description: >
     The Lansing Promise provides higher education scholarships to the children
     of Lansing. These scholarships inspire kids to graduate, attend college, and

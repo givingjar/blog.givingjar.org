@@ -6,6 +6,8 @@ permalink: /charity-spotlight-happendance/
 tags: [spotlight]
 image:
   path: /img/spotlight/happendance/happendance-color-lineup.jpg
+  width: 800
+  height: 500
 description: >
     Happendance makes the art of dance accessible to people of all ages and
     backgrounds through a variety of educational programs, indoor and outdoor

@@ -6,6 +6,8 @@ permalink: /charity-spotlight-allen-neighborhood-center/
 tags: [spotlight]
 image:
   path: /img/spotlight/allen-neighborhood-center/anc-marketplace.jpg
+  width: 800
+  height: 530
 description: >
     Allen Neighborhood Center is rejuvenating Lansing's Eastside by identifying
     pain points within the community and introducing programs to address their
