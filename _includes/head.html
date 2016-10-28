@@ -9,15 +9,8 @@
     {% endif %}
 {% endif %}
 
-{% assign description = site.description %}
-{% if page.description %}
-    {% assign description = page.description %}
-{% endif %}
-
-{% assign page_date = site.time %}
-{% if page.date %}
-    {% assign page_date = page.date %}
-{% endif %}
+{% assign description = page.description | default: site.description %}
+{% assign page_date = page.date | default: site.time %}
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
