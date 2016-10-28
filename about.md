@@ -3,6 +3,10 @@ layout: page
 title: About Giving Jar
 subtitle: Giving Jar celebrates Lansing charities and makes it convenient to donate to them online.
 permalink: /about/
+image:
+  path: /img/cards/giving-jar-on-chrome.jpg
+  width: 1024
+  height: 627
 ---
 
 The Giving Jar platform is being built with three important ideas in mind.
