@@ -88,13 +88,13 @@ defaults:
       path: ""
       type: "posts"
     values:
-      image: /img/cards/coming-soon.jpg
+      image: /img/cards/giving-jar-on-chrome.jpg
       comments: true  # add comments to all blog posts
   -
     scope:
       path: "" # all files
     values:
-      image: /img/cards/coming-soon.jpg
+      image: /img/cards/giving-jar-on-chrome.jpg
       layout: "default"
 
 # Exclude these files from production site

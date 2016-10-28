@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Giving Jar
-subtitle: Giving Jar is an upcoming platform that makes it convenient for people online to donate to the charities of their choice.
+subtitle: Giving Jar celebrates Lansing charities and makes it convenient to donate to them online.
 permalink: /about/
 ---
 
