@@ -6,6 +6,8 @@ permalink: /progress-report-16-presentation-and-paperwork/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     We presented our vision for online giving to another local group dedicated
     to charity in Lansing. Read about that and other successes, lessons learned,

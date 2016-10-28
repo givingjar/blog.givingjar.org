@@ -6,6 +6,8 @@ permalink: /progress-report-18-anxious-inspiration/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     Our software hasn't even launched and we already have more ideas to help
     raise funds for Lansing charities! Read about that and other successes,

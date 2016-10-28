@@ -6,6 +6,8 @@ permalink: /progress-report-17-warp-501c3-engage/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     We applied for 501(c)(3) tax-exempt status and it was a lot easier than one
     might expect! Read about that and other successes, lessons learned, who

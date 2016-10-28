@@ -6,6 +6,8 @@ permalink: /progress-report-4-improvements-in-interviewland/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     Two interviews were given and another one scheduled! Read about that and
     other successes, lessons learned, who helped, and what's coming soon in this

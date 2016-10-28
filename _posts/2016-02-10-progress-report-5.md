@@ -6,6 +6,8 @@ permalink: /progress-report-5-giving-jar-is-a-real-business/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     Giving Jar is officially an LLC! Read about that and other successes,
     lessons learned, who helped, and what's coming soon in this new progress
@@ -27,7 +29,7 @@ Here are the major wins in this progress report:
 
 There are almost always setbacks when working on a project of any size. Here are the lessons learned from the last round of setbacks:
 
-1. *Send* and *Save Draft* do not mean the same thing. 
+1. *Send* and *Save Draft* do not mean the same thing.
 2. Scheduling static content changes is tough with zero infrastructure in place.
 
 ## Thanks {#thanks}

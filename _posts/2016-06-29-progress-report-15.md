@@ -6,6 +6,8 @@ permalink: /progress-report-15-articles-submitted/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     We'll have an official nonprofit in the state of Michigan soon! Read about
     that and other successes, lessons learned, who helped, and what's coming

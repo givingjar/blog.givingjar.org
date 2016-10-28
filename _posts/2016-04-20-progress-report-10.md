@@ -6,6 +6,8 @@ permalink: /progress-report-10-love-and-sharing/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     Giving Jar is rose-tinted from all of the compliments received recently.
     Thank you for sharing the love, it's uplifting and very motivating! Read

@@ -6,6 +6,8 @@ permalink: /progress-report-1-landing-page-is-live/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     The Giving Jar landing page is live, and that's only one of the six features that were rolled out. Read the first
     progress report to learn about those features, the road bumps encountered, who helped, and what's coming next.

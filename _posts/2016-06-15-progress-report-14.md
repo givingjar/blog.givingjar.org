@@ -6,6 +6,8 @@ permalink: /progress-report-14-research-research-research/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     IRS Publication 557 has been devoured, a path has been paved, and the first
     few steps have been taken! Read about that and other successes, lessons

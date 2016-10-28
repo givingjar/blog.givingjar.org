@@ -6,6 +6,8 @@ permalink: /progress-report-6-wanted-priority/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     Being a busy bee is not always a good thing! Read about that and other successes,
     lessons learned, who helped, and what's coming soon in this new progress report.
@@ -26,7 +28,7 @@ Here are the major wins in this progress report:
 
 There are almost always setbacks when working on a project of any size. Here are the lessons learned from the last round of setbacks:
 
-1. Feeling overwhelmed should trigger an evaluation of priorities. 
+1. Feeling overwhelmed should trigger an evaluation of priorities.
 2. Another big dive into spotlights is needed to free up room for writing software.
 
 ## Thanks {#thanks}

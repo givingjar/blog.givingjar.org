@@ -6,6 +6,8 @@ permalink: /progress-report-19-accepting-donations/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     We can now accept donations on PayPal Giving Fund! Read about that and other
     successes, lessons learned, who helped, and what's coming soon in this new

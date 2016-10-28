@@ -6,6 +6,8 @@ permalink: /progress-report-22-support-giving-jar-on-ebay/
 tags: [progress-report]
 image:
   path: /img/cards/giving-jar-on-chrome.jpg
+  width: 1024
+  height: 627
 description: >
     Did you know you can support Giving Jar when you sell something on eBay?
     Read about that and other successes, lessons learned, who helped, and what's

@@ -6,6 +6,8 @@ permalink: /progress-report-23-refocusing-on-greater-lansing/
 tags: [progress-report]
 image:
   path: /img/cards/giving-jar-on-chrome.jpg
+  width: 1024
+  height: 627
 description: >
     We're refocusing on Greater Lansing charities and looking to help a few
     families this winter! Read about that and more in our latest progress

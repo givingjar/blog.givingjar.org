@@ -6,6 +6,8 @@ permalink: /progress-report-9-more-michigan-focus/
 tags: [progress-report]
 image:
   path: /img/cards/coming-soon.jpg
+  width: 1024
+  height: 512
 description: >
     Giving Jar officially changed gears to focus exclusively on Michigan charity
     news in all published content. Read about that and other successes, lessons

@@ -6,6 +6,8 @@ permalink: /progress-report-21-smile-were-on-amazon/
 tags: [progress-report]
 image:
   path: /img/cards/giving-jar-on-chrome.jpg
+  width: 1024
+  height: 627
 description: >
     Amazon will now make a donation to Giving Jar if you select us and shop at
     smile.amazon.com! Read about that and other successes, lessons learned, who
