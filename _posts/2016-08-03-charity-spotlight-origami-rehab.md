@@ -4,7 +4,8 @@ title: "Charity Spotlight: Origami Brain Injury Rehabilitation Center"
 subtitle: "Holistic treatment for adults who have suffered from a brain injury."
 permalink: /charity-spotlight-origami-rehab/
 tags: [spotlight]
-preview-image: /img/spotlight/origami-rehab/origami-rehab-drawing.jpg
+image:
+  path: /img/spotlight/origami-rehab/origami-rehab-drawing.jpg
 description: >
     Origami Brain Injury Rehabilitation Center gives personalized care and
     recovery in a natural setting to those who have suffered a brain injury.

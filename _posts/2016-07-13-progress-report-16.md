@@ -4,7 +4,8 @@ title: "Presentation and Paperwork"
 subtitle: "Progress Report #16"
 permalink: /progress-report-16-presentation-and-paperwork/
 tags: [progress-report]
-preview-image: /img/cards/coming-soon.jpg
+image:
+  path: /img/cards/coming-soon.jpg
 description: >
     We presented our vision for online giving to another local group dedicated
     to charity in Lansing. Read about that and other successes, lessons learned,

@@ -4,7 +4,8 @@ title: "Charity Spotlight: Lettuce Live Well"
 subtitle: "Promoting healthy living through free, accessible food education."
 permalink: /charity-spotlight-lettuce-live-well/
 tags: [spotlight]
-preview-image: /img/spotlight/lettuce-live-well/lettuce-live-well-team.jpg
+image:
+  path: /img/spotlight/lettuce-live-well/lettuce-live-well-team.jpg
 description: >
     Lettuce Live Well guides people toward healthy lifestyles by providing free
     nutritional and fitness education. Regardless of age or budget, anyone can

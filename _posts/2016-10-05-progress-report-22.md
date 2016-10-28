@@ -4,7 +4,8 @@ title: "Support Giving Jar on eBay!"
 subtitle: "Progress Report #22"
 permalink: /progress-report-22-support-giving-jar-on-ebay/
 tags: [progress-report]
-preview-image: /img/cards/giving-jar-on-chrome.jpg
+image:
+  path: /img/cards/giving-jar-on-chrome.jpg
 description: >
     Did you know you can support Giving Jar when you sell something on eBay?
     Read about that and other successes, lessons learned, who helped, and what's

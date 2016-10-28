@@ -4,7 +4,8 @@ title: "Smile, we're on Amazon!"
 subtitle: "Progress Report #21"
 permalink: /progress-report-21-smile-were-on-amazon/
 tags: [progress-report]
-preview-image: /img/cards/giving-jar-on-chrome.jpg
+image:
+  path: /img/cards/giving-jar-on-chrome.jpg
 description: >
     Amazon will now make a donation to Giving Jar if you select us and shop at
     smile.amazon.com! Read about that and other successes, lessons learned, who

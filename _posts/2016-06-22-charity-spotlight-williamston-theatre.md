@@ -4,7 +4,8 @@ title: "Charity Spotlight: Williamston Theatre"
 subtitle: "A professional theatre that enriches lives and provides tender, human experiences."
 permalink: /charity-spotlight-williamston-theatre/
 tags: [spotlight]
-preview-image: /img/spotlight/williamston-theatre/williamston-theatre-best-brothers.jpg
+image:
+  path: /img/spotlight/williamston-theatre/williamston-theatre-best-brothers.jpg
 description: >
     Williamston Theatre supports Michigan culture and professional artists by
     producing entertaining and often sentimental performances that resonate with

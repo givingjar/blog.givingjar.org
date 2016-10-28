@@ -4,7 +4,8 @@ title: "Charity Spotlight: Lansing Promise"
 subtitle: "Encouraging students to graduate high school and pursue post-secondary education."
 permalink: /charity-spotlight-lansing-promise/
 tags: [spotlight]
-preview-image: /img/spotlight/lansing-promise/lansing-promise-students.jpg
+image:
+  path: /img/spotlight/lansing-promise/lansing-promise-students.jpg
 description: >
     The Lansing Promise provides higher education scholarships to the children
     of Lansing. These scholarships inspire kids to graduate, attend college, and

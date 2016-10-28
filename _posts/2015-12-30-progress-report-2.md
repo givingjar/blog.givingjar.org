@@ -4,7 +4,8 @@ title: Charity Spotlights Are a Go!
 subtitle: "Progress Report #2"
 permalink: /progress-report-2-spotlights-are-a-go/
 tags: [progress-report]
-preview-image: /img/cards/coming-soon.jpg
+image:
+  path: /img/cards/coming-soon.jpg
 description: >
     Giving Jar published its first charity spotlight for Building Twentyone, a teen center with an indoor skate
     park between Holt and Mason, Michigan. Read about that and other successes, lessons learned, who helped,

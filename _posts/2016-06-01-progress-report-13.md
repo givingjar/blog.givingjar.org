@@ -4,7 +4,8 @@ title: "Preparing to Reboot"
 subtitle: "Progress Report #13"
 permalink: /progress-report-13-preparing-to-reboot/
 tags: [progress-report]
-preview-image: /img/cards/coming-soon.jpg
+image:
+  path: /img/cards/coming-soon.jpg
 description: >
     Several upcoming spotlights were written and we're moving forward with the
     formation of a nonprofit! Read about that and other successes, lessons

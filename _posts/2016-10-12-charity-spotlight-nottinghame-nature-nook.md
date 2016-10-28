@@ -4,7 +4,8 @@ title: "Charity Spotlight: Nottingham Nature Nook"
 subtitle: "Using wildlife rehabilitation to reunite people with nature."
 permalink: /charity-spotlight-nottingham-nature-nook/
 tags: [spotlight]
-preview-image: /img/spotlight/nottingham-nature-nook/nottingham-nature-nook-fox.jpg
+image:
+  path: /img/spotlight/nottingham-nature-nook/nottingham-nature-nook-fox.jpg
 description: >
   Nottingham Nature Nook rehabilitates young or injured birds and mammals in
   East Lansing. In addition to healing wildlife, the Nature Nook is also a place

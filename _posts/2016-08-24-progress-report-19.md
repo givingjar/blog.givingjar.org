@@ -4,7 +4,8 @@ title: "Accepting Donations"
 subtitle: "Progress Report #19"
 permalink: /progress-report-19-accepting-donations/
 tags: [progress-report]
-preview-image: /img/cards/coming-soon.jpg
+image:
+  path: /img/cards/coming-soon.jpg
 description: >
     We can now accept donations on PayPal Giving Fund! Read about that and other
     successes, lessons learned, who helped, and what's coming soon in this new

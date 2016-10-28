@@ -4,7 +4,8 @@ title: "Charity Spotlight: Creating Heroes Stephen's Way"
 subtitle: "Improving youth literacy through comic books and gaming."
 permalink: /charity-spotlight-creating-heroes-stephens-way/
 tags: [spotlight]
-preview-image: /img/spotlight/creating-heroes-stephens-way/creating-dc-fans-stephens-way.jpg
+image:
+  path: /img/spotlight/creating-heroes-stephens-way/creating-dc-fans-stephens-way.jpg
 description: >
     Creating Heroes Stephen's Way is a comic book shop in Lansing, Michigan that
     provides kids with a safe place to play games, learn to read and draw from

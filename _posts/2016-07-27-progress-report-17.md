@@ -4,7 +4,8 @@ title: "Warp 501(c)(3): Engage"
 subtitle: "Progress Report #17"
 permalink: /progress-report-17-warp-501c3-engage/
 tags: [progress-report]
-preview-image: /img/cards/coming-soon.jpg
+image:
+  path: /img/cards/coming-soon.jpg
 description: >
     We applied for 501(c)(3) tax-exempt status and it was a lot easier than one
     might expect! Read about that and other successes, lessons learned, who

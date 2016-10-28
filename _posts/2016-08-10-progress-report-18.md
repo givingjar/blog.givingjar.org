@@ -4,7 +4,8 @@ title: "Anxious Inspiration"
 subtitle: "Progress Report #18"
 permalink: /progress-report-18-anxious-inspiration/
 tags: [progress-report]
-preview-image: /img/cards/coming-soon.jpg
+image:
+  path: /img/cards/coming-soon.jpg
 description: >
     Our software hasn't even launched and we already have more ideas to help
     raise funds for Lansing charities! Read about that and other successes,

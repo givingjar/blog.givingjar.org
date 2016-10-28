@@ -4,7 +4,8 @@ title: "Charity Spotlight: The Firecracker Foundation"
 subtitle: "Helping survivors of child sexual assault heal their whole being."
 permalink: /charity-spotlight-firecracker-foundation/
 tags: [spotlight]
-preview-image: /img/spotlight/firecracker-foundation/firecracker-foundation-sparklers.jpg
+image:
+  path: /img/spotlight/firecracker-foundation/firecracker-foundation-sparklers.jpg
 description: >
     The Firecracker Foundation helps children who have survived sexual trauma by
     providing professional therapy and trauma-sensitive yoga. With this support

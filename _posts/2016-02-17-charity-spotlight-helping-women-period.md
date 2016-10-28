@@ -4,7 +4,8 @@ title: "Charity Spotlight: Helping Women Period"
 subtitle: "Providing women with the feminine hygiene products they need."
 permalink: /charity-spotlight-helping-women-period/
 tags: [spotlight]
-preview-image: /img/spotlight/helping-women-period/amy-and-lysne.jpg
+image:
+  path: /img/spotlight/helping-women-period/amy-and-lysne.jpg
 description: >
     Helping Women Period wants to remove the barriers of self-sufficiency that
     many homeless and low-income women face daily. They provide feminine hygiene

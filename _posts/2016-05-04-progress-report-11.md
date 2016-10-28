@@ -4,7 +4,8 @@ title: "A Partnership in the Works"
 subtitle: "Progress Report #11"
 permalink: /progress-report-11-partnership-in-the-works/
 tags: [progress-report]
-preview-image: /img/cards/coming-soon.jpg
+image:
+  path: /img/cards/coming-soon.jpg
 description: >
     Last week there was an exciting coffee break with Paul Schmidt of UnoDeuce
     Multimedia where we talked about working together to better promote Lansing

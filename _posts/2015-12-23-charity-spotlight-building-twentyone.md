@@ -4,7 +4,8 @@ title: "Charity Spotlight: Building Twentyone"
 subtitle: "This indoor skate park near Holt, Michigan is helping teens discover their inner purpose and passion."
 permalink: /charity-spotlight-building-twentyone/
 tags: [spotlight]
-preview-image: /img/spotlight/building-twentyone/skate-park.jpg
+image:
+  path: /img/spotlight/building-twentyone/skate-park.jpg
 description: >
     Building Twentyone helps teenagers develop positive habits and values by
     giving them a safe, constructive place to drop in after school. They offer

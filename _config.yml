@@ -58,6 +58,9 @@ footer-links-active:
 
 # --- Misc --- #
 
+twitter:
+  username: givingjar
+
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
@@ -81,11 +84,13 @@ defaults:
       path: ""
       type: "posts"
     values:
+      image: /img/cards/coming-soon.jpg
       comments: true  # add comments to all blog posts
   -
     scope:
       path: "" # all files
     values:
+      image: /img/cards/coming-soon.jpg
       layout: "default"
 
 # Exclude these files from production site

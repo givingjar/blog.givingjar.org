@@ -4,7 +4,8 @@ title: "Charity Spotlight: R.J. Scheffel Memorial Toy Project"
 subtitle: "Creating joy for children in need with handmade wooden toys."
 permalink: /charity-spotlight-rj-scheffel-memorial-toy-project/
 tags: [spotlight]
-preview-image: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-front-display.jpg
+image:
+  path: /img/spotlight/rj-scheffel-memorial-toy-project/rj-scheffel-memorial-toy-project-front-display.jpg
 description: >
     R.J. Scheffel Memorial Toy Project makes handcrafted wooden toys, games, and
     memory boxes and donates them to children in need. Whether homeless, in
