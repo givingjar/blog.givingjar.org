@@ -7,6 +7,8 @@ image:
   path: /img/cards/giving-jar-on-chrome.jpg
   width: 1024
   height: 627
+description: >
+  Discover new #LoveLansing charities and donate to them when you shop online!
 ---
 
 The Giving Jar platform is being built with three important ideas in mind.
