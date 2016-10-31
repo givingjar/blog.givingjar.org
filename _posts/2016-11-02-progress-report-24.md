@@ -27,7 +27,9 @@ Here are the major wins in this progress report:
 
 Failure is okay if you learn from it. Here's what we learned recently:
 
-We tried helping a lot of nonprofits get on PayPal Giving Fund at once. This created extra work for PayPal GF, has been tough for us to track, and has slowed things down for the nonprofits. Next time, we'll work with one nonprofit at a time.
+We're helping a lot of nonprofits get on PayPal Giving Fund at once. This created extra work for PayPal GF, has been tough for us to track, and has slowed things down for the nonprofits.
+
+Next time, we'll work with one nonprofit at a time.
 
 ## Thanks {#thanks}
 
