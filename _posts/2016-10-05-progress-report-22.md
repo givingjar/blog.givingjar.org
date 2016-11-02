@@ -64,6 +64,6 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [8]: http://blog.givingjar.org/charity-spotlight-lettuce-live-well/ "Lettuce Live Well Spotlight"
 [9]: http://blog.givingjar.org/tag/spotlight/ "Index of all spotlighted charities on the Giving Jar blog"
 [10]: http://charity.ebay.com/charity-auctions/charity/giving-jar-inc/196655/ "Giving Jar on eBay for Charity"
-[11]: https://chrome.google.com/webstore/detail/giving-jar-paypal-shopper/bmnbanoiomonjeemkeoeamjaalplidlg?hl=en-US&gl=US&authuser=1 "Giving Jar's PayPal Shopper Extension on the Chrome Store"
+[11]: http://bit.ly/GivingJarShopper "Giving Jar's PayPal Shopper Extension on the Chrome Store"
 [12]: https://twitter.com/search?q=%23GivingTuesday "#GivingTuesday hashtag on Twitter"
 [13]: http://afplansingmi.afpnet.org/ "Association for Fundraising Professionals - Capital Area Chapter Homepage"

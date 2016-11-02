@@ -63,7 +63,7 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
 [8]: http://blog.givingjar.org/charity-spotlight-rj-scheffel-memorial-toy-project/ "R.J. Scheffel Memorial Toy Project Spotlight"
-[9]: https://chrome.google.com/webstore/detail/giving-jar-paypal-shopper/bmnbanoiomonjeemkeoeamjaalplidlg?hl=en-US&gl=US&authuser=1 "Giving Jar's PayPal Shopper Extension on the Chrome Store"
+[9]: http://bit.ly/GivingJarShopper "Giving Jar's PayPal Shopper Extension on the Chrome Store"
 [10]: http://blog.givingjar.org/tag/spotlight/ "Index of all spotlighted charities on the Giving Jar blog"
 [11]: https://www.paypal.com/givingfund/ "PayPal Giving Fund Homepage"
 [12]: https://www.google.com/business/ "Google My Business Homepage"
