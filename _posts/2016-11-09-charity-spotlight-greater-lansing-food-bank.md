@@ -25,7 +25,7 @@ In this charity spotlight, I spoke with the Marketing and Communications Coordin
 
 In the late seventies, the United States began experiencing an economic downturn. The unemployment rate was rising across the country and would continue to rise into the early eighties. Lansing was no exception.
 
-By 1981 the situation was bad enough that some Lansing residents had to choose paying their bills over buying groceries. Neighbors noticed this sort of thing happening and some of them felt so strongly that no one should have to worry about food that they decided to organize a monthly food drive to help their neighbors out.
+By 1981 the situation was bad enough that some Lansing residents had to choose to pay their bills over buying groceries. Neighbors noticed this sort of thing happening and some of them felt so strongly that no one should have to worry about food that they decided to organize a monthly food drive to help their neighbors out.
 
 The Greater Lansing Food Alliance was started out of this effort. It provided a way for donors and volunteers to distribute food to local churches, schools, and ultimately to residents in need of food. The nature of the alliance brought communities together and helped the program expand quickly.
 
