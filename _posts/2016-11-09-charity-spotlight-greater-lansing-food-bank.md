@@ -35,11 +35,19 @@ As the alliance grew, new programs were introduced and the organization merged w
 
 ## Today
 
+The Greater Lansing Food Bank serves residents in seven different counties around Lansing. They help organize food drives and accept donations from individuals and businesses. Volunteers help sort both nonperishables and produce in a warehouse and drivers distribute the food to 130 different kitchens and pantries in the area.
 
+The [Food Movers][3] program helps reduce food waste by collecting and immediately distributing excess food from restaurants and catered events. There are also mobile food pantries that make food accessible beyond their current network of pantries and kitchens.
+
+GLFB makes food available through their [Garden Project][4] as well. Residents can get access to land, tools, seeds, and the education needed to grow fresh food in community and home gardens. [Lansing Roots][5] takes this a step further by helping underserved people grow food for income.
+
+![][]
 
 ## Big Wins
 
+GLFB is a proud member of [Feeding America][6]. They routinely exceed the standards of quality and service during inspections. They have also built many strong relationships with partners, volunteers, and donors over the past thirty years.
 
+The bonds formed and the experience acquired have made a great impact on the communities of Mid-Michigan. With one dollar they can provide up to nine meals and in 2015 they served over 6 million meals! Those meals make for a lot of grateful people.
 
 ## Goals
 
@@ -69,3 +77,7 @@ If you want to learn more about [Greater Lansing Food Bank][1], you can reach th
 
 [1]: http://greaterlansingfoodbank.org/ "Greater Lansing Food Bank Homepage"
 [2]: http://www.redcross.org/ "American Red Cross Homepage"
+[3]: http://greaterlansingfoodbank.org/programs/food-movers/ "Greater Lansing Food Bank's Food Movers Program"
+[4]: http://greaterlansingfoodbank.org/programs/the-garden-project/ "Greater Lansing Food Bank's Garden Project Program"
+[5]: http://greaterlansingfoodbank.org/programs/lansing-roots/ "Greater Lansing Food Bank's Lansing Roots Program"
+[6]: http://www.feedingamerica.org/ "Feeding America Homepage"
