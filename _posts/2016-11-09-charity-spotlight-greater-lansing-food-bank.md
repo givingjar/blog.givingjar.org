@@ -51,7 +51,9 @@ The bonds formed and the experience acquired have made a great impact on the com
 
 ## Goals
 
+Justin says that in addition to meeting the regular needs of residents, the Greater Lansing Food Bank would like to provide even more fresh, healthy food. GLFB has also started including recipes to help the people they serve find new ways to put the fresh food to use.
 
+Fitting their supply to the need is a pretty big challenge, too. The food bank would like to identify those needs and adapt or expand accordingly.
 
 ![][5]
 
