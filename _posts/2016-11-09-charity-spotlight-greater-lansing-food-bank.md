@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Greater Lansing Food Bank"
-subtitle: "."
+subtitle: "Alleviating hunger by making healthy food widely accessible."
 permalink: /charity-spotlight-greater-lansing-food-bank/
 tags: [spotlight]
 image:
@@ -9,10 +9,13 @@ image:
   width: 800
   height: 452
 description: >
-
+  Greater Lansing Food Bank is ending hunger in Lansing and surrounding
+  communities by making food accessible to those in need. Strong local
+  relationships, experience, and a penchant for efficiency make them a perfect
+  hub to effectively distribute food to residents suffering from hunger.
 ---
 
-[Greater Lansing Food Bank][1]
+[Greater Lansing Food Bank][1] is ending hunger in Lansing and surrounding communities by making food accessible to those in need. Strong local relationships, experience, and a penchant for efficiency make them a perfect hub to effectively distribute food to residents suffering from hunger.
 
 In this charity spotlight, I spoke with the Marketing and Communications Coordinator of Greater Lansing Food Bank, Justin Rumenapp.
 
