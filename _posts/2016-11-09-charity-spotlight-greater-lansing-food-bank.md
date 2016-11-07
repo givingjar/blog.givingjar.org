@@ -57,13 +57,13 @@ Fitting their supply to the need is a pretty big challenge, too. The food bank w
 
 ![][5]
 
+## For Volunteers
+
+If you want to help a nonprofit out, Justin recommends getting involved with something you care about. When you find the right place, build strong relationships with the people you work with. Great teamwork and leveraging each others' strengths is vital to the success of a nonprofit.
+
 ## For Nonprofits
 
-
-
-## For Donors and Volunteers
-
-
+People who work well together are important for your nonprofit, but it's also important to understand who you're helping and _how_ they need help. Try keeping an open mind and listen to the stories of the people you help. You never know what someone might be going through.
 
 ![][3]
 
