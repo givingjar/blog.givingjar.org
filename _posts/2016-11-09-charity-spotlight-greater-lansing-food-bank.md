@@ -11,11 +11,12 @@ image:
 description: >
   Greater Lansing Food Bank is ending hunger in Lansing and surrounding
   communities by making food accessible to those in need. Strong local
-  relationships, experience, and a penchant for efficiency make them a perfect
-  hub to effectively distribute food to residents suffering from hunger.
+  relationships, experience, and a penchant for efficiency make them them
+  perfect hub to distribute food to those suffering from hunger or food
+  insecurity.
 ---
 
-[Greater Lansing Food Bank][1] is ending hunger in Lansing and surrounding communities by making food accessible to those in need. Strong local relationships, experience, and a penchant for efficiency make them a perfect hub to effectively distribute food to residents suffering from hunger.
+[Greater Lansing Food Bank][1] is ending hunger in Lansing and surrounding communities by making food accessible to those in need. Strong local relationships, experience, and a penchant for efficiency make them them perfect hub to distribute food to those suffering from hunger or food insecurity.
 
 In this charity spotlight, I spoke with the Marketing and Communications Coordinator of Greater Lansing Food Bank, Justin Rumenapp.
 
