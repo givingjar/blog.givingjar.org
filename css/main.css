@@ -450,6 +450,11 @@ a.pinterest:hover,
 a.pinterest:focus {
   color: #bb0f23;
 }
+a.gplus,
+a.gplus:hover,
+a.gplus:focus {
+  color: #d34836;
+}
 
 /* Responsive Embedded YouTube Video */
 
@@ -459,7 +464,7 @@ a.pinterest:focus {
   height: 0;
   overflow: hidden;
 }
- 
+
 .video-container iframe,
 .video-container object,
 .video-container embed {
