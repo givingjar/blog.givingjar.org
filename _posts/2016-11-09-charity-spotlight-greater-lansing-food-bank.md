@@ -73,7 +73,7 @@ If you want to learn more about [Greater Lansing Food Bank][1], you can reach th
 
 {% include web-links.html home="http://greaterlansingfoodbank.org/" facebook="GreaterLansingFoodBank" twitter="GLFoodBank" pinterest="glfoodbank" gplus="GreaterlansingfoodbankOrg" %}
 
-###### Photographs courtesy of [Greater Lansing Food Bank][1].
+###### Photographs courtesy of [Greater Lansing Food Bank][1] and [Ian Kast][7].
 
 
 
@@ -83,3 +83,4 @@ If you want to learn more about [Greater Lansing Food Bank][1], you can reach th
 [4]: http://greaterlansingfoodbank.org/programs/the-garden-project/ "Greater Lansing Food Bank's Garden Project Program"
 [5]: http://greaterlansingfoodbank.org/programs/lansing-roots/ "Greater Lansing Food Bank's Lansing Roots Program"
 [6]: http://www.feedingamerica.org/ "Feeding America Homepage"
+[7]: https://twitter.com/mriankast "Ian Kast on Twitter"
