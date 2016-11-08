@@ -9,13 +9,13 @@ image:
   width: 800
   height: 500
 description: >
-    Helping Women Period wants to remove the barriers of self-sufficiency that
+    Helping Women Period removes barriers of self-sufficiency that
     many homeless and low-income women face daily. They provide feminine hygiene
     products such as sanitary pads and tampons to women in and around Lansing,
     Michigan.
 ---
 
-[Helping Women Period][1] wants to remove the barriers of self-sufficiency that many homeless and low-income women face daily. They provide feminine hygiene products such as sanitary pads and tampons to women in and around Lansing, Michigan.
+[Helping Women Period][1] removes barriers of self-sufficiency that many homeless and low-income women face daily. They provide feminine hygiene products such as sanitary pads and tampons to women in and around Lansing, Michigan.
 
 In this charity spotlight, I spoke with the Founders of Helping Women Period, Amy Stephenson and Lysne Tait.
 
