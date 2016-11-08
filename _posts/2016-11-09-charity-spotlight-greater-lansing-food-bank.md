@@ -7,7 +7,7 @@ tags: [spotlight]
 image:
   path: /img/spotlight/greater-lansing-food-bank/glfb-serving.jpg
   width: 800
-  height: 452
+  height: 450
 description: >
   Greater Lansing Food Bank is ending hunger in Lansing and surrounding
   communities by making food accessible to those in need. Strong local
