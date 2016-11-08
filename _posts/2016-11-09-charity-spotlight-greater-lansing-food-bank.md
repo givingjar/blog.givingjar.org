@@ -36,11 +36,11 @@ As the alliance grew, new programs were introduced and in recent years, the orga
 
 ## Today
 
-The Greater Lansing Food Bank serves residents in seven different counties around Lansing. They help organize food drives and accept donations from individuals and businesses. Volunteers help sort both nonperishables and produce in a warehouse and drivers distribute the food to 130 different kitchens and pantries in the area.
+The Greater Lansing Food Bank serves residents in seven different counties around Lansing. They help organize food drives and accept donations from individuals and businesses. Volunteers help sort both nonperishables and produce in a warehouse and drivers distribute the food to 130 different community kitchens and pantries in the area.
 
 The [Food Movers][3] program helps reduce food waste by collecting and immediately distributing excess food from restaurants and catered events. There are also mobile food pantries that make food accessible beyond their current network of pantries and kitchens.
 
-GLFB makes food available through their [Garden Project][4] as well. Residents can get access to land, tools, seeds, and the education needed to grow fresh food in community and home gardens. [Lansing Roots][5] takes this a step further by helping underserved people grow food for income.
+GLFB makes food available through their [Garden Project][4] as well. Residents can get access to land, tools, seeds, and the education needed to grow fresh food in community and home gardens.
 
 ![][]
 
