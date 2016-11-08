@@ -5,7 +5,7 @@ subtitle: "Alleviating hunger by making healthy food widely accessible."
 permalink: /charity-spotlight-greater-lansing-food-bank/
 tags: [spotlight]
 image:
-  path: /img/spotlight/greater-lansing-food-bank/greater-lansing-food-bank-.jpg
+  path: /img/spotlight/greater-lansing-food-bank/glfb-serving.jpg
   width: 800
   height: 452
 description: >
@@ -20,7 +20,7 @@ description: >
 
 In this charity spotlight, I spoke with the Marketing and Communications Coordinator of Greater Lansing Food Bank, Justin Rumenapp.
 
-![][2]
+![][8]
 
 ## Origin Story
 
@@ -32,7 +32,7 @@ This began the earliest iteration of Greater Lansing Food Bank, _The Greater Lan
 
 As the alliance grew, new programs were introduced and in recent years, the organization merged with a local [Red Cross'][2] food distribution operation. The organization now know as [Greater Lansing Food Bank][1] continues to expand its network of aid.
 
-![][4]
+![][9]
 
 ## Today
 
@@ -42,11 +42,11 @@ The [Food Movers][3] program helps reduce food waste by collecting and immediate
 
 GLFB makes food available through their [Garden Project][4] as well. Residents can get access to land, tools, seeds, and the education needed to grow fresh food in community and home gardens.
 
-![][]
+![][10]
 
 ## Big Wins
 
-GLFB is a proud member of [Feeding America][6]. They routinely exceed the standards of quality and service during inspections. They have also built many strong relationships with partners, volunteers, and donors over the past thirty years.
+GLFB is a proud member of [Feeding America][5]. They routinely exceed the standards of quality and service during inspections. They have also built many strong relationships with partners, volunteers, and donors over the past thirty years.
 
 The bonds formed and the experience acquired have made a great impact on the communities of Mid-Michigan. With one dollar they can provide up to nine meals and in 2015 they served over 6 million meals! Those meals make for a lot of grateful people.
 
@@ -56,7 +56,7 @@ Mr. Rumenapp says that in addition to meeting the regular needs of residents, th
 
 Fitting their supply to the need is a pretty big challenge, too. The food bank would like to identify those needs and adapt or expand accordingly.
 
-![][5]
+![][7]
 
 ## For Volunteers
 
@@ -66,7 +66,7 @@ If you want to help a nonprofit out, Justin recommends getting involved with som
 
 People who work well together are important for your nonprofit, but it's also important to understand who you're helping and _how_ they need help. Try keeping an open mind and listen to the stories of the people you help. You never know what someone might be going through.
 
-![][3]
+![][11]
 
 ## Get Involved
 
@@ -74,7 +74,7 @@ If you want to learn more about [Greater Lansing Food Bank][1], you can reach th
 
 {% include web-links.html home="http://greaterlansingfoodbank.org/" facebook="GreaterLansingFoodBank" twitter="GLFoodBank" pinterest="glfoodbank" gplus="GreaterlansingfoodbankOrg" %}
 
-###### Photographs courtesy of [Greater Lansing Food Bank][1] and [Ian Kast][7].
+###### Photographs courtesy of [Greater Lansing Food Bank][1] and [Ian Kast][6].
 
 
 
@@ -82,6 +82,10 @@ If you want to learn more about [Greater Lansing Food Bank][1], you can reach th
 [2]: http://www.redcross.org/ "American Red Cross Homepage"
 [3]: http://greaterlansingfoodbank.org/programs/food-movers/ "Greater Lansing Food Bank's Food Movers Program"
 [4]: http://greaterlansingfoodbank.org/programs/the-garden-project/ "Greater Lansing Food Bank's Garden Project Program"
-[5]: http://greaterlansingfoodbank.org/programs/lansing-roots/ "Greater Lansing Food Bank's Lansing Roots Program"
-[6]: http://www.feedingamerica.org/ "Feeding America Homepage"
-[7]: https://twitter.com/mriankast "Ian Kast on Twitter"
+[5]: http://www.feedingamerica.org/ "Feeding America Homepage"
+[6]: https://twitter.com/mriankast "Ian Kast on Twitter"
+[7]: /img/spotlight/greater-lansing-food-bank/glfb-storage.jpg "Greater Lansing Food Bank Storage Facility, Photo: Ian Kast"
+[8]: /img/spotlight/greater-lansing-food-bank/glfb-volunteers.jpg "Greater Lansing Food Bank Volunteers, Photo: Ian Kast"
+[9]: /img/spotlight/greater-lansing-food-bank/glfb-serving.jpg "Greater Lansing Food Bank Serving at Troppo, Photo: GLFB"
+[10]: /img/spotlight/greater-lansing-food-bank/glfb-garden.jpg "Greater Lansing Food Bank Garden Project, Photo: GLFB"
+[11]: /img/spotlight/greater-lansing-food-bank/glfb-education.jpg "Greater Lansing Food Bank at School, Photo: GLFB"
