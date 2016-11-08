@@ -11,12 +11,12 @@ image:
 description: >
   Greater Lansing Food Bank is ending hunger in Lansing and surrounding
   communities by making food accessible to those in need. Strong local
-  relationships, experience, and a penchant for efficiency make them them
+  relationships, experience, and a penchant for efficiency make them the
   perfect hub to distribute food to those suffering from hunger or food
   insecurity.
 ---
 
-[Greater Lansing Food Bank][1] is ending hunger in Lansing and surrounding communities by making food accessible to those in need. Strong local relationships, experience, and a penchant for efficiency make them them perfect hub to distribute food to those suffering from hunger or food insecurity.
+[Greater Lansing Food Bank][1] is ending hunger in Lansing and surrounding communities by making food accessible to those in need. Strong local relationships, experience, and a penchant for efficiency make them the perfect hub to distribute food to those suffering from hunger or food insecurity.
 
 In this charity spotlight, I spoke with the Marketing and Communications Coordinator of Greater Lansing Food Bank, Justin Rumenapp.
 
@@ -52,7 +52,7 @@ The bonds formed and the experience acquired have made a great impact on the com
 
 ## Goals
 
-Justin says that in addition to meeting the regular needs of residents, the Greater Lansing Food Bank would like to provide even more fresh, healthy food. GLFB has also started including recipes to help the people they serve find new ways to put the fresh food to use.
+Mr. Rumenapp says that in addition to meeting the regular needs of residents, the Greater Lansing Food Bank would like to provide even more fresh, healthy food. GLFB has also started including recipes to help the people they serve find new ways to put the fresh food to use.
 
 Fitting their supply to the need is a pretty big challenge, too. The food bank would like to identify those needs and adapt or expand accordingly.
 
@@ -60,7 +60,7 @@ Fitting their supply to the need is a pretty big challenge, too. The food bank w
 
 ## For Volunteers
 
-If you want to help a nonprofit out, Justin recommends getting involved with something you care about. When you find the right place, build strong relationships with the people you work with. Great teamwork and leveraging each others' strengths is vital to the success of a nonprofit.
+If you want to help a nonprofit out, Justin recommends getting involved with something you care about. When you find the right place, build strong relationships with the people you work with. Great teamwork and leveraging each other's strengths is vital to the success of a nonprofit.
 
 ## For Nonprofits
 
