@@ -5,14 +5,17 @@ subtitle: "."
 permalink: /charity-spotlight-voiceless-mi/
 tags: [spotlight]
 image:
-  path: /img/spotlight/voiceless-mi/voiceless-mi-.jpg
+  path: /img/spotlight/voiceless-mi/voiceless-mi-shoulder-cats.jpg
   width: 800
   height: 450
 description: >
-  Voiceless-MI
+  Voiceless-MI helps reduce the population of unwanted pets in and around
+  Lansing by offering community-led spay and neuter programs. They encourage
+  compassion for all animals by educating the public, providing foster care, and
+  speaking up for those who cannot speak.
 ---
 
-[Voiceless-MI][1]
+[Voiceless-MI][1] helps reduce the population of unwanted pets in and around Lansing by offering community-led spay and neuter programs. They encourage compassion for all animals by educating the public, providing foster care, and speaking up for those who cannot speak.
 
 In this charity spotlight, I spoke with the President of Voiceless-MI, Holly Thoms.
 
