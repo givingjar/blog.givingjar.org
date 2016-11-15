@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Charity Spotlight: Voiceless-MI"
-subtitle: "."
+subtitle: "Foster care and spay/neuter services for furry friends who have no voice."
 permalink: /charity-spotlight-voiceless-mi/
 tags: [spotlight]
 image:
   path: /img/spotlight/voiceless-mi/voiceless-mi-shoulder-cats.jpg
   width: 800
-  height: 450
+  height: 532
 description: >
   Voiceless-MI helps reduce the population of unwanted pets in and around
   Lansing by offering community-led spay and neuter programs. They encourage
@@ -45,11 +45,13 @@ In this charity spotlight, I spoke with the President of Voiceless-MI, Holly Tho
 
 ## For Volunteers
 
+Good, reliable volunteers can be hard to find and many nonprofits are always looking for new recruits! If you want to be a great volunteer, be upfront about how you want to help and which tasks you don't like to do.
 
+When you do commit yourself to an organization, try to make it last at least a few months. Integrity goes a long way when you volunteer. You'll also save the charity from some of the attrition and churn of constantly finding new volunteers.
 
 ## For Nonprofits
 
-
+Holly explains that good bookkeeping and transparency about how your organization uses donations is imperative. Put this information on your website. Share on social media, too. Talk about what you're doing, how you do it, and so on. You can't really overshare when it comes to how your nonprofit operates.
 
 ![][4]
 
