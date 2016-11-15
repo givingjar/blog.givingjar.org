@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Voiceless-MI"
-subtitle: "Alleviating hunger by making healthy food widely accessible."
+subtitle: "."
 permalink: /charity-spotlight-voiceless-mi/
 tags: [spotlight]
 image:
@@ -16,19 +16,19 @@ description: >
 
 In this charity spotlight, I spoke with the President of Voiceless-MI, Holly Thoms.
 
-![][8]
+![][6]
 
 ## Origin Story
 
 
 
-![][9]
+![][7]
 
 ## Today
 
 
 
-![][10]
+![][2]
 
 ## Big Wins
 
@@ -38,7 +38,7 @@ In this charity spotlight, I spoke with the President of Voiceless-MI, Holly Tho
 
 
 
-![][7]
+![][3]
 
 ## For Volunteers
 
@@ -48,7 +48,7 @@ In this charity spotlight, I spoke with the President of Voiceless-MI, Holly Tho
 
 
 
-![][11]
+![][4]
 
 ## Get Involved
 
@@ -61,3 +61,9 @@ If you want to learn more about [Voiceless-MI][1], you can reach them by clickin
 
 
 [1]: http://www.voiceless-mi.org/ "Voiceless-MI Homepage"
+[2]: /img/spotlight/voiceless-mi/voiceless-mi-dakkota-donation.jpg "Voiceless-MI Receiving Donation from Dakkota"
+[3]: /img/spotlight/voiceless-mi/voiceless-mi-kitty-prime.jpg "Voiceless-MI Cats Not Actually Available on Amazon Prime"
+[4]: /img/spotlight/voiceless-mi/voiceless-mi-one-eye-no-problem.jpg "Voiceless-MI: One Eye, No Problem!"
+[5]: /img/spotlight/voiceless-mi/voiceless-mi-puppy-pals.jpg "Voiceless-MI Puppy Pals"
+[6]: /img/spotlight/voiceless-mi/voiceless-mi-shoulder-cats.jpg "Voiceless-MI Providing a Shoulder to Lay On"
+[7]: /img/spotlight/voiceless-mi/voiceless-mi-tired-kitty.jpg "Voiceless-MI: Tired but Grateful"
