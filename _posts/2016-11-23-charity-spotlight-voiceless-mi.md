@@ -35,11 +35,15 @@ In this charity spotlight, I spoke with the President of Voiceless-MI, Holly Tho
 
 ## Big Wins
 
+Holly is proud of how effectively Voiceless-MI puts donations to use. In fact, 94¢ of every dollar donated goes directly to the benefit of the animals they help!
 
+ In both 2015 and 2016, Voiceless-MI has received the _Top-Rated Award_ from [GreatNonprofits][8]. Since 2012, the intake of cats by animal shelters in Clinton, Eaton, and Ingham counties have shown a downward trend. This is a great indicator that Voiceless-MI and other spay/neuter programs are working.
 
 ## Goals
 
+Holly would like to see the intake of cats into animal shelters continue to drop. Of course, the ultimate goal would be zero new cats in shelters.
 
+This would effectively put Voiceless-MI out of business&mdash;and would be considered a huge success&mdash;but realistically it means trying different programs and helping more animals than they did the previous year.
 
 ![][3]
 
@@ -72,3 +76,4 @@ If you want to learn more about [Voiceless-MI][1], you can reach them by clickin
 [5]: /img/spotlight/voiceless-mi/voiceless-mi-puppy-pals.jpg "Voiceless-MI Puppy Pals"
 [6]: /img/spotlight/voiceless-mi/voiceless-mi-shoulder-cats.jpg "Voiceless-MI Providing a Shoulder to Lay On"
 [7]: /img/spotlight/voiceless-mi/voiceless-mi-tired-kitty.jpg "Voiceless-MI: Tired but Grateful"
+[8]: http://greatnonprofits.org/ "GreatNonprofits Homepage"
