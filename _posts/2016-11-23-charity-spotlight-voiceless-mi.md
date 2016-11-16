@@ -27,7 +27,7 @@ Between 2003 and 2009, Holly volunteered at the Friends of Ingham County Animals
 
 After Friends of Ingham County Animals closed in 2009, Holly realized her passion for helping animals was too strong for her to sit idle. She still wanted to protect animals, reduce the unwanted pet population, and share her respect and compassion for animals with others.
 
-She reached out to her friend, Beth Contreras, about starting an organization that could become a voice for the voiceless. Near the end of 2009 they made it official by establishing [Voiceless-MI][1].
+She reached out to her friend, Beth Contreras, about starting an organization that could become a voice for the voiceless. Near the end of 2009, they made it official by establishing [Voiceless-MI][1].
 
 ![][7]
 
@@ -61,7 +61,7 @@ This would effectively put Voiceless-MI out of business&mdash;and would be consi
 
 Good, reliable volunteers can be hard to find and many nonprofits are always looking for new recruits! If you want to be a great volunteer, be upfront about how you want to help and which tasks you don't like to do.
 
-When you do commit yourself to an organization, try to make it last at least a few months. Integrity goes a long way when you volunteer. You'll also save the charity from some of the attrition and churn of constantly finding new volunteers.
+When you do commit yourself to an organization, try to make it last at least a few months. Integrity goes a long way when you volunteer. You'll also save the charity from the attrition and regular churn of finding new volunteers.
 
 ## For Nonprofits
 
