@@ -75,17 +75,17 @@ If you want to learn more about [Voiceless-MI][1], you can reach them by clickin
 
 {% include web-links.html home="http://www.voiceless-mi.org/" facebook="voicelessMI" twitter="voicelessmi" %}
 
-###### Photographs courtesy of [Voiceless-MI][1].
+###### Photographs courtesy of [Voiceless-MI][1] and Rebecca Mayo.
 
 
 
 [1]: http://www.voiceless-mi.org/ "Voiceless-MI Homepage"
 [2]: /img/spotlight/voiceless-mi/voiceless-mi-dakkota-donation.jpg "Voiceless-MI Receiving Donation from Dakkota"
 [3]: /img/spotlight/voiceless-mi/voiceless-mi-kitty-prime.jpg "Voiceless-MI Cats Not Actually Available on Amazon Prime"
-[4]: /img/spotlight/voiceless-mi/voiceless-mi-one-eye-no-problem.jpg "Voiceless-MI: One Eye, No Problem!"
+[4]: /img/spotlight/voiceless-mi/voiceless-mi-one-eye-no-problem.jpg "Voiceless-MI: One Eye, No Problem! Photo Credit: Rebecca Mayo"
 [5]: /img/spotlight/voiceless-mi/voiceless-mi-puppy-pals.jpg "Voiceless-MI Puppy Pals"
 [6]: /img/spotlight/voiceless-mi/voiceless-mi-shoulder-cats.jpg "Voiceless-MI Providing a Shoulder to Lay On"
-[7]: /img/spotlight/voiceless-mi/voiceless-mi-tired-kitty.jpg "Voiceless-MI: Tired but Grateful"
+[7]: /img/spotlight/voiceless-mi/voiceless-mi-tired-kitty.jpg "Voiceless-MI: Tired but Grateful. Photo Credit: Rebecca Mayo"
 [8]: http://greatnonprofits.org/ "GreatNonprofits Homepage"
 [9]: http://www.voiceless-mi.org/adopt-a-pet/ "Voiceless-MI Foster Care and Adoption"
 [10]: http://www.voiceless-mi.org/tnr/ "Voiceless-MI Trap Neuter Release Program"
