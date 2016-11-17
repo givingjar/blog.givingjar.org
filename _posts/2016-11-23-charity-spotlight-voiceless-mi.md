@@ -23,7 +23,7 @@ In this charity spotlight, I spoke with the President of Voiceless-MI, Holly Tho
 
 ## Origin Story
 
-Between 2003 and 2009, Holly volunteered at the Friends of Ingham County Animals, a nonprofit that worked with other animal organizations to reduce the number of animals in shelters and improve their overall care in Ingham County. Over those six years, Holly developed her skills running the organization and refined her ideas about how to best serve animals in need.
+Between 2001 and 2008, Holly volunteered at the Friends of Ingham County Animal Shelter, a nonprofit that worked with other animal organizations to reduce the number of animals in shelters and improve their overall care in Ingham County. Over that time, Holly developed her skills running the organization and refined her ideas about how to best serve animals in need.
 
 After Friends of Ingham County Animals closed in 2009, Holly realized her passion for helping animals was too strong for her to sit idle. She still wanted to protect animals, reduce the unwanted pet population, and share her respect and compassion for animals with others.
 
