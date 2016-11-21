@@ -48,7 +48,7 @@ GLFB makes food available through their [Garden Project][4] as well. Residents c
 
 GLFB is a proud member of [Feeding America][5]. They routinely exceed the standards of quality and service during inspections. They have also built many strong relationships with partners, volunteers, and donors over the past thirty years.
 
-The bonds formed and the experience acquired have made a great impact on the communities of Mid-Michigan. With one dollar they can provide up to nine meals and in 2015 they served over 6 million meals! Those meals make for a lot of grateful people.
+The bonds formed and the experience acquired have made a great impact on the communities of Mid-Michigan. With one dollar they can provide up to five meals and in 2015 they served over 6 million meals! Those meals make for a lot of grateful people.
 
 ## Goals
 
