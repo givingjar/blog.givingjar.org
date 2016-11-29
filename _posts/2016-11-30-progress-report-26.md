@@ -47,7 +47,7 @@ Thank you to all our new friends!
 
 Here's where the focus will be in the next two weeks at Giving Jar:
 
-* Let you pick a default donation amount in our software.
+* Default to $1 donations with the Shopper extension.
 * Interview [Child and Family Charities][10].
 
 We are always looking for charities in the Greater Lansing area to write about. If you know of one, [email us][5], [tweet][6], or write on our [Facebook][7] wall.
