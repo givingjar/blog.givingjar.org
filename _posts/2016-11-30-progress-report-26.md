@@ -66,4 +66,4 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [10]: http://www.childandfamily.org/ "Child and Family Charities Homepage"
 [11]: https://www.facebook.com/donate/10211106785646477/ "Backwards Burglar Fundraiser on Facebook"
 [12]: http://www.cristoreycommunity.org/ "Cristo Rey Community Center Homepage"
-[13]: https://www.humblebundle.com/store?charity=196655 "Choose Giving Jar when you shop on Humble Bundle"
+[13]: https://www.humblebundle.com/store/select-charity/charity/196655 "Choose Giving Jar when you shop on Humble Bundle"
