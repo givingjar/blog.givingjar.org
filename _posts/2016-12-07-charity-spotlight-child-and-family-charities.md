@@ -54,7 +54,7 @@ In this charity spotlight, I spoke with the Executive Director of Child and Fami
 
 If you want to learn more about [Child and Family Charities][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.childandfamily.org/" facebook="ChildandFamilyCharities" twitter="voicelessmi" %}
+{% include web-links.html home="http://www.childandfamily.org/" facebook="ChildandFamilyCharities" twitter="CFCharity" %}
 
 ###### Photographs courtesy of [Child and Family Charities][1].
 
