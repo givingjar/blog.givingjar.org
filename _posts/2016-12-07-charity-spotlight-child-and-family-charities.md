@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Child and Family Charities"
-subtitle: "."
+subtitle: "Uniting child and family through preventive and comprehensive support in times of crisis."
 permalink: /charity-spotlight-child-and-family-charities/
 tags: [spotlight]
 image:
