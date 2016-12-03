@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Child and Family Charities"
-subtitle: "Uniting child and family through preventive and comprehensive support in times of crisis."
+subtitle: "Uniting children and family through preventive and comprehensive support in times of crisis."
 permalink: /charity-spotlight-child-and-family-charities/
 tags: [spotlight]
 image:
@@ -9,10 +9,13 @@ image:
   width: 800
   height: 532
 description: >
-  Child and Family Charities
+  Child and Family Charities helps children across Michigan be carefree and form
+  healthy bonds with their families. They do this by offering a wealth of
+  services that aid children, strengthen families, and help them break free of
+  harmful patterns.
 ---
 
-[Child and Family Charities][1]
+[Child and Family Charities][1] helps children across Michigan be carefree and form healthy bonds with their families. They do this by offering a wealth of services that aid children, strengthen families, and help them break free of harmful patterns.
 
 In this charity spotlight, I spoke with the Executive Director of Child and Family Charities, Julie Thomasma.
 
