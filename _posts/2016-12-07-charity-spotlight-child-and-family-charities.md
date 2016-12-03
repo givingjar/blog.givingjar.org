@@ -49,7 +49,9 @@ In this charity spotlight, I spoke with the Executive Director of Child and Fami
 
 ## For Nonprofits
 
+Many of the staff at Child and Family Charities have been there more than ten years. It's great to have your staff become part of the family like that, so take care of them like family! Listen to them, treat them with respect, and change with their needs just as you would with anyone else you help.
 
+Julie also points out the importance of being sensitive to secondary trauma. People are vulnerable when they help others and your staff will be affected by their work. Give them time and help them heal.
 
 ![][4]
 
