@@ -43,9 +43,9 @@ In this charity spotlight, I spoke with the Executive Director of Child and Fami
 
 ![][3]
 
-## For Volunteers
+## For Donors
 
-
+Cash may not seem like an attractive way to give, but it is extraordinarily helpful to nonprofits. A cash donation can fill any gap or need the organization may have and helps a nonprofit go above and beyond government services.  When you donate cash, it also shows that you trust the organization to spend your money wisely.
 
 ## For Nonprofits
 
