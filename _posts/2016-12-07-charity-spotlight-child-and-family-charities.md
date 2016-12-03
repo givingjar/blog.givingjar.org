@@ -35,11 +35,15 @@ In this charity spotlight, I spoke with the Executive Director of Child and Fami
 
 ## Big Wins
 
+Child and Family Charities works with more than 6,000 kids every year. It's wonderful to help so many children and be a provider for their families and homes. Each child helped is a very special reward.
 
+Helping so many kids also requires a lot of adaptation. The organization is also wrapping up its most recent focus groups and developing a new strategic plan to better serve the families of Michigan.
 
 ## Goals
 
+There is a challenge that comes with regularly adjusting to the needs of families. Julie and the rest of Child and Family Charities must also provide a consistent message to the community and keep them updated as their services. This will be an especially important goal as they roll out their new plan.
 
+Family is important at Child and Family Charities, and that includes their own. Their new plan includes additional ways to take care of their staff such as training, secondary trauma support, and any other resources that aid them in helping others.
 
 ![][3]
 
