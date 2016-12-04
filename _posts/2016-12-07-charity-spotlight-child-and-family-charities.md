@@ -35,7 +35,7 @@ Today, that branch is a nonprofit known as [Child and Family Charities][1]. Thei
 
 ## Today
 
-Many of Child and Family's services help to prevent crises and break families from dangerous cycles. They help families secure [food, clothing, and childcare][2] and provide [Medicaid assistance][3]. [Screening services][5] also help families address issues with mental or physical health, [truancy][4], relationships, and safety before they become worse.
+Many of Child and Family's services help to prevent crises and break families from dangerous cycles. They help families [secure][2] food, clothing, childcare, and [Medicaid assistance][3]. [Screening services][5] also help families address issues with mental or physical health, [truancy][4], relationships, and safety before they become worse.
 
 Other services are intended to provide direct support to teens. That includes mental health [counseling][7], substance abuse [treatment][8], a [crisis hotline][9] (877-833-3689), and a [safe space][6] for LGBTQ youth. Child and Family Charities also reaches teens on the [street][10] and provides tutoring, [therapy][11], [shelter][12], and [pregnancy/parenting services][13].
 
