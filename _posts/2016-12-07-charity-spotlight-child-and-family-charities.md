@@ -5,9 +5,9 @@ subtitle: "Uniting children and family through preventive and comprehensive supp
 permalink: /charity-spotlight-child-and-family-charities/
 tags: [spotlight]
 image:
-  path: /img/spotlight/child-and-family-charities/child-and-family-charities-.jpg
+  path: /img/spotlight/child-and-family-charities/child-and-family-charities-child-welfare-services.jpg
   width: 800
-  height: 532
+  height: 450
 description: >
   Child and Family Charities helps children across Michigan be carefree and form
   healthy bonds with their families. They do this by offering a wealth of
@@ -19,7 +19,7 @@ description: >
 
 In this charity spotlight, I spoke with the Executive Director of Child and Family Charities, Julie Thomasma.
 
-![][6]
+![][20]
 
 ## Origin Story
 
@@ -31,7 +31,7 @@ In 1911, a branch of the Michigan Children's Aid Society was formed to protect f
 
 Today, that branch is a nonprofit known as [Child and Family Charities][1]. Their mission is much the same, but they have evolved with the needs of Michigan families. If a kid or family needs help, Child and Family Charities wants to be there for them.
 
-![][7]
+![][18]
 
 ## Today
 
@@ -41,7 +41,7 @@ Other services are intended to provide direct support to teens. That includes me
 
 Child and Family Charities also provides a comprehensive [foster care][14] program that offers [supportive visitation][15], [foster counseling][16], and [adoption services][17].
 
-![][2]
+![][19]
 
 ## Big Wins
 
@@ -55,7 +55,7 @@ Regularly adjusting to the needs of families can be challenging, though. Julie a
 
 Family is important at Child and Family Charities, and that includes their own. They are also looking at new ways to support and empower their staff such as training and secondary trauma support.
 
-![][3]
+![][22]
 
 ## For Donors
 
@@ -67,7 +67,7 @@ Many of the staff at Child and Family Charities have been there more than ten ye
 
 Julie also points out the importance of being sensitive to secondary trauma. People are vulnerable when they help others and your staff will be affected by their work. Give them time and help them heal.
 
-![][4]
+![][21]
 
 ## Get Involved
 
@@ -96,3 +96,8 @@ If you want to learn more about [Child and Family Charities][1], you can reach t
 [15]: http://www.childandfamily.org/page.php?id=135 "Child and Family Charities: Foster Care Supportive Visitation (FCSV)"
 [16]: http://www.childandfamily.org/page.php?id=149 "Child and Family Charities: Foster Care Mental Health"
 [17]: http://www.childandfamily.org/page.php?id=137 "Child and Family Charities: Adoption"
+[18]: /img/spotlight/child-and-family-charities/child-and-family-charities-child-welfare-services.jpg "Child and Family Charities: Child Welfare Services Booth"
+[19]: /img/spotlight/child-and-family-charities/child-and-family-charities-face-paint.jpg "Child and Family Charities: Face Paint"
+[20]: /img/spotlight/child-and-family-charities/child-and-family-charities-global-youth-service-day.jpg "Child and Family Charities: Global Youth Service Day"
+[21]: /img/spotlight/child-and-family-charities/child-and-family-charities-silver-bells-float.jpg "Child and Family Charities: Silver Bells Float"
+[22]: /img/spotlight/child-and-family-charities/child-and-family-charities-gateway-youth-services.jpg "Child and Family Charities: Gateway Youth Services"
