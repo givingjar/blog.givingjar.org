@@ -23,23 +23,23 @@ In this charity spotlight, I spoke with the Executive Director of Child and Fami
 
 ## Origin Story
 
-American society went through many changes in the early 20th century that had a major impact on families. Industrialization meant households no longer had to grow their own food, which meant families could pursue better education and new jobs by moving to the city.
+American society went through many changes in the early 20th century that impacted families. For example, many households no longer had to grow their own food, which freed them to pursue better education and new jobs by moving to the city.
 
-This may seem typical by today's standard, but at the time these were big changes for a lot of people. Not always good changes, either. Over one hundred years and so many generations ago, poverty was rising. Unemployment was rising. Crime was rising. Child labor was rising. Families and children suffered. As a result, many people sought social reform.
+This may seem typical by today's standard, but at the time these were big changes and with detrimental side-effects. Poverty, unemployment, crime, and child labor were all rising. Many families and children suffered and as a result, many people sought social reform.
 
-In 1911, one such group&mdash;a branch of the Michigan Children's Aid Society&mdash;was formed to protect families in need and give all children the opportunity to flourish and be loved.
+In 1911, a branch of the Michigan Children's Aid Society was formed to protect families in need and give all children the opportunity to flourish and be loved.
+
+Today, that branch is a nonprofit known as [Child and Family Charities][1]. Their mission is much the same, but they have evolved with the needs of Michigan families. If a kid or family needs help, Child and Family Charities wants to be there for them.
 
 ![][7]
 
 ## Today
 
-Today, that group is known as [Child and Family Charities][1]. Their mission has changed very little, but the ways in which they help are continuously adapting to the needs of Michigan families. If a kid or family member needs help, Child and Family Charities wants to be there for them.
+Many of Child and Family's services help to prevent crises and break families from dangerous cycles. They help families secure [food, clothing, and childcare][2] and provide [Medicaid assistance][3]. [Screening services][5] also help families address issues with mental or physical health, [truancy][4], relationships, and safety before they become worse.
 
-Many of Child and Family's services are designed to prevent crises and break families from dangerous cycles. They provide [at-risk families access][2] to food, clothing, childcare, and other community resources, including [Medicaid assistance][3]. [Screening services][5] help families identify and address issues such as mental or physical health, [truancy][4], relationships, and safety concerns before they become worse.
+Other services are intended to provide direct support to teens. That includes mental health [counseling][7], substance abuse [treatment][8], a [crisis hotline][9] (877-833-3689), and a [safe space][6] for LGBTQ youth. Child and Family Charities also reaches teens on the [street][10] and provides tutoring, [therapy][11], [shelter][12], and [pregnancy/parenting services][13].
 
-Other services are intended to provide teens with whatever support they might need. That may be [mental health counseling][7], [substance abuse treatment][8], a [crisis hotline][9] (877-833-3689), or a [safe space][6] for LGBTQ youth that is free from bullying. Child and Family Charities also tries to reach teens on the [street][10] and provide [therapy][11], tutoring, [shelter][12], or [pregnancy and parenting services][13] when needed.
-
-Child and Family Charities also provides a comprehensive system of support for [foster care][14]. This includes [supportive visitation][15], [foster counseling][16] for parents and children, and [adoption services][17].
+Child and Family Charities also provides a comprehensive [foster care][14] program that offers [supportive visitation][15], [foster counseling][16], and [adoption services][17].
 
 ![][2]
 
@@ -47,23 +47,23 @@ Child and Family Charities also provides a comprehensive system of support for [
 
 Child and Family Charities works with more than 6,000 kids every year. It's wonderful to help so many children and be a provider for their families and homes. Each child helped is a very special reward.
 
-Helping so many kids also requires a lot of adaptation. The organization is also wrapping up its most recent focus groups and developing a new strategic plan to better serve the families of Michigan.
+Helping kids also requires being nimble and adapting to their needs. Doing this successfully for more than 100 years is a major accomplishment!
 
 ## Goals
 
-There is a challenge that comes with regularly adjusting to the needs of families. Julie and the rest of Child and Family Charities must also provide a consistent message to the community and keep them updated as their services. This will be an especially important goal as they roll out their new plan.
+Regularly adjusting to the needs of families can be challenging, though. Julie and the rest of Child and Family Charities must also provide a consistent message to the community and keep everyone informed of changes.
 
-Family is important at Child and Family Charities, and that includes their own. Their new plan includes additional ways to take care of their staff such as training, secondary trauma support, and any other resources that aid them in helping others.
+Family is important at Child and Family Charities, and that includes their own. They are also looking at new ways to support and empower their staff such as training and secondary trauma support.
 
 ![][3]
 
 ## For Donors
 
-Cash may not seem like an attractive way to give, but it is extraordinarily helpful to nonprofits. A cash donation can fill any gap or need the organization may have and helps a nonprofit go above and beyond government services.  When you donate cash, it also shows that you trust the organization to spend your money wisely.
+Cash may not be an attractive way to give, but it is extraordinarily helpful to nonprofits. A cash donation can fill any gap the organization may have. It also helps them go above and beyond equivalent government services.  A donation of cash also shows that you trust the organization to spend your money wisely.
 
 ## For Nonprofits
 
-Many of the staff at Child and Family Charities have been there more than ten years. It's great to have your staff become part of the family like that, so take care of them like family! Listen to them, treat them with respect, and change with their needs just as you would with anyone else you help.
+Many of the staff at Child and Family Charities have been there more than ten years. Your staff will become part of the family if you take care of them like family. Listen to them, treat them with respect, and change with their needs just as you would with the people you serve.
 
 Julie also points out the importance of being sensitive to secondary trauma. People are vulnerable when they help others and your staff will be affected by their work. Give them time and help them heal.
 
