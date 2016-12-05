@@ -35,9 +35,11 @@ Today, that branch is a nonprofit known as [Child and Family Charities][1]. Thei
 
 ## Today
 
-Many of Child and Family's services help to prevent crises and break families from dangerous cycles. They help families [secure][2] food, clothing, childcare, and [Medicaid assistance][3]. [Screening services][5] also help families address issues with mental or physical health, [truancy][4], relationships, and safety before they become worse.
+Many of Child and Family's services help prevent crises and break families from dangerous cycles. They [connect families][2] with food banks, provide clothing, and assist with [Medicaid][3]. [Screening services][5] help families address issues with mental or physical health, [truancy][4], relationships, and safety before they become worse.
 
-Other services are intended to provide direct support to teens. That includes mental health [counseling][7], substance abuse [treatment][8], a [crisis hotline][9] (877-833-3689), and a [safe space][6] for LGBTQ youth. Child and Family Charities also reaches teens on the [street][10] and provides tutoring, [therapy][11], [shelter][12], and [pregnancy/parenting services][13].
+Other services are intended to provide direct support to teens including mental health [counseling][7], substance abuse [treatment][8], a [crisis hotline][9] (877-833-3689), and a [safe space][6] for LGBTQ youth. They also reach teens on the [street][10] and provides tutoring, [therapy][11], [shelter][12], and [pregnancy/parenting services][13].
+
+The [Ingham Teen Court][23] program allows teens to take responsibility for their actions in a real justice system with a peer jury without impacting their criminal record. It is highly successful at preventing second offenses.
 
 Child and Family Charities also provides a comprehensive [foster care][14] program that offers [supportive visitation][15], [foster counseling][16], and [adoption services][17].
 
@@ -101,3 +103,4 @@ If you want to learn more about [Child and Family Charities][1], you can reach t
 [20]: /img/spotlight/child-and-family-charities/child-and-family-charities-global-youth-service-day.jpg "Child and Family Charities: Global Youth Service Day"
 [21]: /img/spotlight/child-and-family-charities/child-and-family-charities-silver-bells-float.jpg "Child and Family Charities: Silver Bells Float"
 [22]: /img/spotlight/child-and-family-charities/child-and-family-charities-gateway-youth-services.jpg "Child and Family Charities: Gateway Youth Services"
+[23]: http://www.childandfamily.org/page.php?id=143 "Child and Family Charities: Ingham Teen Court"
