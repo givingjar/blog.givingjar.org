@@ -5,9 +5,9 @@ subtitle: "Guiding refugees to self-sufficiency through education and social sup
 permalink: /charity-spotlight-refugee-development-center/
 tags: [spotlight]
 image:
-  path: /img/spotlight/refugee-development-center/refugee-development-center-.jpg
+  path: /img/spotlight/refugee-development-center/refugee-development-center-group.jpg
   width: 800
-  height: 450
+  height: 532
 description: >
   Refugee Development Center helps refugees become independent members of
   society by teaching English as a second language, organizing social activities
@@ -18,7 +18,7 @@ description: >
 
 In this charity spotlight, I spoke with the Executive Director of Refugee Development Center, Erika Brown-Binion.
 
-![][20]
+![][6]
 
 ## Origin Story
 
@@ -30,7 +30,7 @@ Between 2000 and 2002 in Lansing, Michigan, [Vincent Delgado][8] and [Rev. David
 
 The center continued to operate at [St. Luke Lutheran of Lansing][10] (formerly Christ Lutheran Church) until [Refugee Development Center][1] became an independent 501(c)(3) in 2008.
 
-![][18]
+![][5]
 
 ## Today
 
@@ -42,7 +42,7 @@ RDC also offers many social enrichment programs. These programs help refugees le
 
 New refugees are visited at their home and given a gift basket by a speaker of their native language. Small acts of kindness like this help refugees feel welcome and let them know where they can go if they need support.
 
-![][19]
+![][4]
 
 ## Big Wins
 
@@ -56,7 +56,7 @@ RDC's new facility also opens up more opportunities for the organization. Erika 
 
 A mobile computer lab would also provide refugees with access to technology to help improve English literacy and further remove transportation barriers.
 
-![][22]
+![][3]
 
 ## For Nonprofits
 
@@ -68,7 +68,7 @@ Erika also points out that the more deeply you get involved with a nonprofit, th
 
 Everyone at Refugee Development Center started out as a volunteer. Coming back to passion, Erika recommends volunteering as a great way to discover it. You may have to volunteer at a lot of different places before you find something you care so deeply about, but when you do, you will be strengthened by it.
 
-![][21]
+![][2]
 
 ## Get Involved
 
@@ -81,11 +81,11 @@ If you want to learn more about [Refugee Development Center][1], you can reach t
 
 
 [1]: http://www.refugeedevelopmentcenter.org/ "Refugee Development Center Homepage"
-[2]: /img/spotlight/refugee-development-center/refugee-development-center-.jpg "."
-[3]: /img/spotlight/refugee-development-center/refugee-development-center-.jpg "."
-[4]: /img/spotlight/refugee-development-center/refugee-development-center-.jpg "."
-[5]: /img/spotlight/refugee-development-center/refugee-development-center-.jpg "."
-[6]: /img/spotlight/refugee-development-center/refugee-development-center-.jpg "."
+[2]: /img/spotlight/refugee-development-center/refugee-development-center-group.jpg "Group photo at Refugee Development Center"
+[3]: /img/spotlight/refugee-development-center/refugee-development-center-mentor.jpg "Refugee Development Center Mentorship and Tutoring"
+[4]: /img/spotlight/refugee-development-center/refugee-development-center-reading.jpg "Learn English at Refugee Development Center"
+[5]: /img/spotlight/refugee-development-center/refugee-development-center-studying.jpg "Group support at Refugee Development Center"
+[6]: /img/spotlight/refugee-development-center/refugee-development-center-writing.jpg "Refugee Development Center helps all ages"
 [7]: https://www.acf.hhs.gov/orr/about/history "Office of Refugee Resettlement History"
 [8]: http://rcah.msu.edu/people/faculty-staff/delgado "About Vincent Delgado on rcah.msu.edu"
 [9]: http://www.englishdistrict.org/directories/staff/rev-david-l-thiele "About Rev. David Thiele on englishdistrict.org"
