@@ -26,7 +26,7 @@ At the conclusion of the Vietnam War, the United States experienced a major incr
 
 [The Refugee Act][7] introduced in 1980 was the solution to that challenge. The U.S. would provide refugee resettlement assistance including English language training, cash assistance, and guaranteed gender equality for up to ninety days.
 
-Between 2000 and 2002 in Lansing, Michigan, [Vincent Delgado][8] and [Rev. David Thiele][9] raised funds to support refugees beyond that ninety day window, providing education as long as they were needed.
+Between 2000 and 2002 in Lansing, Michigan, [Vincent Delgado][8] and [Rev. David Thiele][9] raised funds to support refugees beyond that ninety-day window, providing education as long as they were needed.
 
 The center continued to operate at [St. Luke Lutheran of Lansing][10] (formerly Christ Lutheran Church) until 2008 when [Refugee Development Center][1] became an independent 501(c)(3).
 
@@ -36,7 +36,7 @@ The center continued to operate at [St. Luke Lutheran of Lansing][10] (formerly 
 
 The Refugee Development Center is still very much focused on helping refugees become self-sufficient by providing education and social support and they help over 2,300 people each year!
 
-The center's [adult English classes][11] offer English immersion and four levels of instruction to improve reading, writing, speaking, and listening skills in conversational and vocational settings. There are also several [youth programs][11] such as a summer camp and after school tutoring to help kids learn English.
+The center's [adult English classes][11] offer English immersion and four levels of instruction to improve reading, writing, speaking, and listening skills in conversational and vocational settings. There are also several [youth programs][11] such as a summer camp and after-school tutoring to help kids learn English.
 
 RDC also offers many social enrichment programs. These programs help refugees learn new skills, make new friends, and adjust to U.S. culture and include a [women's sewing circle][12], peer support groups, [newcomers soccer team][13], and Peace Club.
 
