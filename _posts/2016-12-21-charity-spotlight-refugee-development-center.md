@@ -28,7 +28,7 @@ At the conclusion of the Vietnam War, the United States experienced a major incr
 
 Between 2000 and 2002 in Lansing, Michigan, [Vincent Delgado][8] and [Rev. David Thiele][9] raised funds to support refugees beyond that ninety-day window, providing education as long as they were needed.
 
-The center continued to operate at [St. Luke Lutheran of Lansing][10] (formerly Christ Lutheran Church) until 2008 when [Refugee Development Center][1] became an independent 501(c)(3).
+The center continued to operate at [St. Luke Lutheran of Lansing][10] (formerly Christ Lutheran Church) until [Refugee Development Center][1] became an independent 501(c)(3) in 2008.
 
 ![][18]
 
