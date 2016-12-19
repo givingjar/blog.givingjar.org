@@ -42,13 +42,15 @@ In this charity spotlight, I spoke with the Executive Director of Refugee Develo
 
 ![][22]
 
-## For Donors
-
-
-
 ## For Nonprofits
 
+When you work for a nonprofit, you have to be flexible. Be willing to reflect on and accept change; it will make your work that much easier. Erika finds this advice to be useful in a lot of domains, and it's especially true in nonprofits.
 
+Erika also points out that the more deeply you get involved with a nonprofit, the more challenging the work will be. Make sure you believe in the mission and have a passion for what you are doing.
+
+## For Volunteers
+
+Everyone at Refugee Development Center started out as a volunteer. Coming back to passion, Erika recommends volunteering as a great way to discover it. You may have to volunteer at a lot of different places before you find something you care so deeply about, but when you do, you will be strengthened by it.
 
 ![][21]
 
