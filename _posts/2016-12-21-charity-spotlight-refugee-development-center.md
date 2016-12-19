@@ -34,11 +34,15 @@ In this charity spotlight, I spoke with the Executive Director of Refugee Develo
 
 ## Big Wins
 
+Refugee Development Center was able to withstand the recent economic downturn. Erika even saw an outpouring of support from volunteers during this time, and that's not all. RDC has also improved their outreach efforts to better help the public understand who refugees are.
 
+The center also moved into a new building recently. The new space has allowed RDC to reach more people in part due to its location.
 
 ## Goals
 
+RDC's new facility also opens up more opportunities for the organization. Erika would love to double the English as a second language program and add a drop-in center where refugees can receive mentorship and one-on-one support.
 
+A mobile computer lab would also provide refugees with access to technology to help improve English literacy and further remove transportation barriers.
 
 ![][22]
 
