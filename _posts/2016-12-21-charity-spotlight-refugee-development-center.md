@@ -36,7 +36,7 @@ The center continued to operate at [St. Luke Lutheran of Lansing][10] (formerly 
 
 The Refugee Development Center is still very much focused on helping refugees become self-sufficient by providing education and social support and they help over 2,300 people each year!
 
-The center's [adult English classes][11] offer English immersion and four levels of instruction to improve reading, writing, speaking, and listening skills in conversational and vocational settings. There are also several [youth programs][11] such as a summer camp and after-school tutoring to help kids learn English.
+The center's [adult English classes][11] offer English immersion and four levels of instruction to improve reading, writing, speaking, and listening skills in conversational and vocational settings. There are also several [youth programs][14] such as a summer camp and after-school tutoring to help kids learn English.
 
 RDC also offers many social enrichment programs. These programs help refugees learn new skills, make new friends, and adjust to U.S. culture and include a [women's sewing circle][12], peer support groups, [newcomers soccer team][13], and Peace Club.
 
@@ -93,3 +93,4 @@ If you want to learn more about [Refugee Development Center][1], you can reach t
 [11]: http://www.refugeedevelopmentcenter.org/english-as-a-second-language-esl-classes/ "Adult English Classes at Refugee Development Center"
 [12]: http://www.refugeedevelopmentcenter.org/womens-sewing-circle/ "Women's Sewing Circle at Refugee Development Center"
 [13]: http://www.refugeedevelopmentcenter.org/newcomers-soccer/ "Newcomers Soccer at Refugee Development Center"
+[14]: http://www.refugeedevelopmentcenter.org/youth-programs/ "Refugee Development Center's Youth Programs"
