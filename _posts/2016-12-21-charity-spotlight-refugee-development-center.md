@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Refugee Development Center"
-subtitle: "."
+subtitle: "Guiding refugees to self-sufficiency through education and social support."
 permalink: /charity-spotlight-refugee-development-center/
 tags: [spotlight]
 image:
@@ -9,10 +9,12 @@ image:
   width: 800
   height: 450
 description: >
-  Refugee Development Center.
+  Refugee Development Center helps refugees become independent members of
+  society by teaching English as a second language, organizing social activities
+  for kids and adults, and forming lasting, supportive relationships.
 ---
 
-[Refugee Development Center][1]
+[Refugee Development Center][1] helps refugees become independent members of society by teaching English as a second language, organizing social activities for kids and adults, and forming lasting, supportive relationships.
 
 In this charity spotlight, I spoke with the Executive Director of Refugee Development Center, Erika Brown-Binion.
 
