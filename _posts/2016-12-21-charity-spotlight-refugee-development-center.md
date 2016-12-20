@@ -24,11 +24,11 @@ In this charity spotlight, I spoke with the Executive Director of Refugee Develo
 
 At the conclusion of the Vietnam War, the United States experienced a major increase of refugees. With a history of supporting people undergoing persecution in their home countries and a desire to continue that support, the U.S. was suddenly faced with the challenge of supporting hundreds of thousands of people seeking asylum.
 
-[The Refugee Act][7] introduced in 1980 was the solution to that challenge. The U.S. would provide refugee resettlement assistance including English language training, cash assistance, and guaranteed gender equality for up to ninety days.
+[The Refugee Act][7] introduced in 1980 was a solution to that challenge. The U.S. would provide refugee resettlement to a defined number of refugees and provide time-limited cash and medical assistance, basic case management, English Language training, and employment services.
 
 Between 2000 and 2002 in Lansing, Michigan, [Vincent Delgado][8] and [Rev. David Thiele][9] raised funds to support refugees beyond that ninety-day window, providing education as long as they were needed.
 
-The center continued to operate at [St. Luke Lutheran of Lansing][10] (formerly Christ Lutheran Church) until [Refugee Development Center][1] became an independent 501(c)(3) in 2008.
+In 2008, [Refugee Development Center][1] became an independent 501(c)(3) and continued to operate administrative offices at [St. Luke Lutheran of Lansing][10] (formerly Christ Lutheran Church) until fall of 2016.
 
 ![][5]
 
@@ -40,7 +40,7 @@ The center's [adult English classes][11] offer English immersion and four levels
 
 RDC also offers many social enrichment programs. These programs help refugees learn new skills, make new friends, and adjust to U.S. culture and include a [women's sewing circle][12], peer support groups, [newcomers soccer team][13], and Peace Club.
 
-New refugees are visited at their home and given a gift basket by a speaker of their native language. Small acts of kindness like this help refugees feel welcome and let them know where they can go if they need support.
+New refugees are visited at their home and given a gift basket by an RDC staff member and a speaker of their native language. Small acts of kindness like this help refugees feel welcome and let them know where they can go if they need support.
 
 ![][4]
 
