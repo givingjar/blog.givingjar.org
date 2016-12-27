@@ -33,7 +33,7 @@ Giving Jar is an extremely small team and we all have other jobs. Keeping priori
 
 Lansing is beautiful and we are grateful to experience some of that beauty firsthand. Thank you to everyone who has helped us over the past year. We love all of the new friends we've made and all of the supported we've gotten. You all rock!
 
-The numbers below started at 1 when Erik created our newsletter and social media accounts. It's great to see so much interest in what we're doing!
+My how we've grown! All these numbers started at 1 last year when Erik created our newsletter and social media accounts.
 
 * 40 mailing list members (+4)
 * 71 Twitter followers (-0)
@@ -41,7 +41,7 @@ The numbers below started at 1 when Erik created our newsletter and social media
 
 ## Upcoming {#upcoming}
 
-Next year we're going to continue sharing new Lansing nonprofits with you. We'll probably cut back on the progress reports. You'll definitely see improvements to our software including support for more charities and online stores. There's bound to be a few surprises ahead, too. :)=
+Next year we're going to continue sharing new Lansing nonprofits with you. We'll probably cut back on the progress reports. You'll definitely see improvements to our software including support for more charities and online stores. There's bound to be a few surprises ahead, too. :)
 
 
 
