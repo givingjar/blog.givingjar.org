@@ -27,11 +27,11 @@ description: >
 
 We had much greater aspirations for Giving Jar this year. We wanted all of the charities we've spotlighted in our software. Unfortunately, the onboarding process with PayPal is slow. We'll keep working at it.
 
-Giving Jar is an extremely small team and we all have other jobs. Keeping priorities straight has been challenging and we're looking at new ways to do what we do, but better, in 2017.
+Giving Jar is an extremely small team and we all have other jobs. Keeping our priorities straight has been challenging, but we're looking at newer, better ways to do what we do in 2017.
 
-## Thanks {#thanks}
+## Thank You! {#thanks}
 
-Lansing is beautiful and we are grateful to experience some of that beauty firsthand. Thank you to everyone who has helped us over the past year. We love all of the new friends we've made and all of the supported we've gotten. You all rock!
+Lansing is beautiful and we are grateful to experience some of that beauty firsthand. Thank you to everyone who has helped us over the past year. We love all of the new friends we've made and all of the support we've gotten. You all rock!
 
 My how we've grown! All these numbers started at 1 last year when Erik created our newsletter and social media accounts.
 
