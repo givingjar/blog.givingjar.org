@@ -440,10 +440,10 @@ a.instagram:hover,
 a.instagram:focus {
   color: #bc2a8d;
 }
-a.youtube,
-a.youtube:hover,
-a.youtube:focus {
-  color: #cd201f;
+a.flickr,
+a.flickr:hover,
+a.flickr:focus {
+  color: #ff0084;
 }
 a.pinterest,
 a.pinterest:hover,
@@ -454,6 +454,16 @@ a.gplus,
 a.gplus:hover,
 a.gplus:focus {
   color: #d34836;
+}
+a.youtube,
+a.youtube:hover,
+a.youtube:focus {
+  color: #cd201f;
+}
+a.vimeo,
+a.vimeo:hover,
+a.vimeo:focus {
+  color: #c09eda;
 }
 
 /* Responsive Embedded YouTube Video */

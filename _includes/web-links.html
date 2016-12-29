@@ -39,12 +39,12 @@
     </a>
   </li>
   {% endif %}
-  {% if include.youtube %}
+  {% if include.flickr %}
   <li>
-    <a target="_blank" href="https://www.youtube.com/user/{{ include.youtube }}" title="YouTube" class="youtube">
+    <a target="_blank" href="https://www.flickr.com/photos/{{ include.flickr }}" title="Flickr" class="flickr">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+        <i class="fa fa-flickr fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
@@ -65,6 +65,26 @@
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if include.youtube %}
+  <li>
+    <a target="_blank" href="https://www.youtube.com/user/{{ include.youtube }}" title="YouTube" class="youtube">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+  {% if include.vimeo %}
+  <li>
+    <a target="_blank" href="https://vimeo.com/+{{ include.vimeo }}/" title="Vimeo" class="vimeo">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-vimeo fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
