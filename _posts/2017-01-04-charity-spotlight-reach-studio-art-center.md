@@ -20,12 +20,15 @@ In this charity spotlight, I spoke with the Executive Director of REACH Studio A
 
 ## Origin Story
 
+While teaching an after-school program at Moores Park School, Alice noticed that there were very few art classes offered outside of regular school hours. The art classes that were offered did not tend to be economical or at a convenient location for many of the residents of Lansing.
 
+Alice thought that art shouldn't only be available to those who can pay for it. This idea became a dream that she would hold onto for years while she connected with the community to find a studio space at an accessible location where she could offer affordable art classes.
+
+In 2003, the first classes were offered. The building was close to downtown and it's one large classroom offered art programs for ages ranging from toddlers to adults and using many materials including clay and fiber.
 
 ![][3]
 
 ## Today
-
 
 
 ![][4]
