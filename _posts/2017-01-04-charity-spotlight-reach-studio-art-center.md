@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: REACH Studio Art Center"
-subtitle: "."
+subtitle: "Accessible art-making experiences and education for kids and adults."
 permalink: /charity-spotlight-reach-studio-art/
 tags: [spotlight]
 image:
@@ -34,7 +34,7 @@ In this charity spotlight, I spoke with the Executive Director of REACH Studio A
 
 REACH's expansion in 2013 has been a great boon to their mission. More classes can be held simultaneously, which means the studio can reach even more people than ever. Working with the [Lansing School District][7] has also helped expose art to more kids.
 
-The [Teen Open Studio's][9] Community Arts Program helps teens work with local businesses to create public art exhibits and has had a wonderful impact on the community. You've probably seen one of these [exhibits][8] yourself!
+The [Teen Open Studio's][9] Community Arts Program helps teens work with local businesses to create public art exhibits and has had a wonderful impact on the community. You've probably even seen some of these [exhibits][8]!
 
 ## Goals
 
