@@ -5,9 +5,9 @@ subtitle: "Accessible art-making experiences and education for kids and adults."
 permalink: /charity-spotlight-reach-studio-art/
 tags: [spotlight]
 image:
-  path: /img/spotlight/reach-studio-art/reach-studio-art-.jpg
+  path: /img/spotlight/reach-studio-art/reach-studio-art-center-graffiti.jpg
   width: 800
-  height: 532
+  height: 450
 description: >
   REACH Studio Art Center runs educational art programs that are affordable and
   close to Lansing residents. By exposing more people to art and creativity,
@@ -52,7 +52,7 @@ The [Teen Open Studio's][9] _Community Art Projects_ helps teens work with local
 
 The art center has only completed some of the renovations in their [facility expansion project][10], leaving them plenty of room to grow. As new wings are completed, REACH will explore new possibilities with those spaces, including a fiber arts studio, digital media lab, and a performing arts studio.
 
-![][5]
+![][6]
 
 ## For Nonprofits
 
@@ -68,7 +68,7 @@ Nonprofits have to be careful to accept donations and volunteers they know they 
 
 You can avoid this by being flexible with your donations. Don't be too specific with your requests or, at the very least, be understanding and patient if your contribution can't be used right away.
 
-![][6]
+![][5]
 
 ## Get Involved
 
@@ -81,11 +81,11 @@ If you want to learn more about [REACH Studio Art Center][1], you can reach them
 
 
 [1]: http://www.reachstudioart.org/ "REACH Studio Art Center Homepage"
-[2]: /img/spotlight/reach-studio-art/reach-studio-art-.jpg "REACH Studio Art Center"
-[3]: /img/spotlight/reach-studio-art/reach-studio-art-.jpg "REACH Studio Art Center"
-[4]: /img/spotlight/reach-studio-art/reach-studio-art-.jpg "REACH Studio Art Center"
-[5]: /img/spotlight/reach-studio-art/reach-studio-art-.jpg "REACH Studio Art Center"
-[6]: /img/spotlight/reach-studio-art/reach-studio-art-.jpg "REACH Studio Art Center"
+[2]: /img/spotlight/reach-studio-art/reach-studio-art-center-all-age-paint.jpg "REACH - All Ages Painting"
+[3]: /img/spotlight/reach-studio-art/reach-studio-art-center-clay-paint.jpg "REACH - Painting Clay"
+[4]: /img/spotlight/reach-studio-art/reach-studio-art-center-clay.jpg "REACH - Adult Clay"
+[5]: /img/spotlight/reach-studio-art/reach-studio-art-center-graffiti.jpg "REACH - Teen Graffiti Art"
+[6]: /img/spotlight/reach-studio-art/reach-studio-art-center-painting.jpg "REACH - Painting Class"
 [7]: http://www.lansingschools.net/ "Lansing School District Homepage"
 [8]: https://www.google.com/maps/d/u/1/viewer?mid=1N63PV80nRtkBE40qSORTGJzWsuA "Community Art Projects Map"
 [9]: http://www.reachstudioart.org/tos/ "Teen Open Studio at REACH"
