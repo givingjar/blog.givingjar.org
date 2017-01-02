@@ -9,10 +9,12 @@ image:
   width: 800
   height: 532
 description: >
-  REACH Studio Art Center.
+  REACH Studio Art Center runs educational art programs that are affordable and
+  close to Lansing residents. By exposing more people to art and creativity,
+  REACH helps enrich lives and bring communities together.
 ---
 
-[REACH Studio Art Center][1].
+[REACH Studio Art Center][1] runs educational art programs that are affordable and close to Lansing residents. By exposing more people to art and creativity, REACH helps enrich lives and bring communities together.
 
 In this charity spotlight, I spoke with the Executive Director of REACH Studio Art Center, Alice Brinkman.
 
@@ -30,13 +32,13 @@ The first classes were offered in a building close to downtown in 2003. It's one
 
 ## Today
 
-In 2013, REACH expanded into the surrounding five buildings. They offer a wealth of [classes][11] to all ages and make sure classes are affordable to anyone who might want to attend.
+In 2013, [REACH][1] expanded into the surrounding five buildings. They offer a wealth of [classes][11] to all ages and make sure classes are affordable for anyone who might want to attend.
 
 [Adults][13] can learn a variety of clay, drawing, and painting techniques through the studio's adult clay, _Picture This_, and _Mud &amp; Mug_ classes. Similarly, [kids][14] as young as age two can find clay, drawing, and painting classes that fit their skill level.
 
 The center offers art exploration classes, a K-3 summer school program, and an [open studio][9] for teens. REACH also has a Late State Wednesday program to Lansing School District students and programs for [homeschoolers][12].
 
-The studio also features the works of local artists in their youth gallery, hosts special events, and participates in many public art and community events.
+The studio also features the works of local artists in their gallery, hosts special events, and participates in a variety of community events. Their art truck helps improve exposure to art by traveling to other locations across Lansing.
 
 ![][4]
 
