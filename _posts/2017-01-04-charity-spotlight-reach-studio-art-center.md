@@ -50,7 +50,7 @@ The [Teen Open Studio's][9] _Community Art Projects_ helps teens work with local
 
 ## Goals
 
-The art center has has only completed some of the renovations in their [facility expansion project][10], leaving plenty of room to grow. As new wings are completed, REACH will explore new possibilities with those spaces, including a fiber arts studio, digital media lab, and a performing arts studio.
+The art center has only completed some of the renovations in their [facility expansion project][10], leaving them plenty of room to grow. As new wings are completed, REACH will explore new possibilities with those spaces, including a fiber arts studio, digital media lab, and a performing arts studio.
 
 ![][5]
 
