@@ -32,11 +32,13 @@ In this charity spotlight, I spoke with the Executive Director of REACH Studio A
 
 ## Big Wins
 
+REACH's expansion in 2013 has been a great boon to their mission. More classes can be held simultaneously, which means the studio can reach even more people than ever. Working with the [Lansing School District][7] has also helped expose art to more kids.
 
+The [Teen Open Studio's][9] Community Arts Program helps teens work with local businesses to create public art exhibits and has had a wonderful impact on the community. You've probably seen one of these [exhibits][8] yourself!
 
 ## Goals
 
-
+The art center has has only completed some of the renovations in their [facility expansion project][10], leaving plenty of room to grow. As new wings are completed, REACH will explore new possibilities with those spaces, including a fiber arts studio, digital media lab, and a performing arts studio.
 
 ![][5]
 
@@ -72,3 +74,7 @@ If you want to learn more about [REACH Studio Art Center][1], you can reach them
 [4]: /img/spotlight/reach-studio-art/reach-studio-art-.jpg "REACH Studio Art Center"
 [5]: /img/spotlight/reach-studio-art/reach-studio-art-.jpg "REACH Studio Art Center"
 [6]: /img/spotlight/reach-studio-art/reach-studio-art-.jpg "REACH Studio Art Center"
+[7]: http://www.lansingschools.net/ "Lansing School District Homepage"
+[8]: https://www.google.com/maps/d/u/1/viewer?mid=1N63PV80nRtkBE40qSORTGJzWsuA "Community Art Projects Map"
+[9]: http://www.reachstudioart.org/tos/ "Teen Open Studio at REACH"
+[10]: http://www.reachstudioart.org/expandingourreach/ "REACH Facility Expansion Project"
