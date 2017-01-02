@@ -24,20 +24,27 @@ While teaching an after-school program at Moores Park School, Alice noticed that
 
 Alice thought that art shouldn't only be available to those who can pay for it. This idea became a dream that she would hold onto for years while she connected with the community to find a studio space at an accessible location where she could offer affordable art classes.
 
-In 2003, the first classes were offered. The building was close to downtown and it's one large classroom offered art programs for ages ranging from toddlers to adults and using many materials including clay and fiber.
+The first classes were offered in a building close to downtown in 2003. It's one large classroom offered art programs for ages ranging from toddlers to adults and using many materials including clay and fiber.
 
 ![][3]
 
 ## Today
 
+In 2013, REACH expanded into the surrounding five buildings. They offer a wealth of [classes][11] to all ages and make sure classes are affordable to anyone who might want to attend.
+
+[Adults][13] can learn a variety of clay, drawing, and painting techniques through the studio's adult clay, _Picture This_, and _Mud &amp; Mug_ classes. Similarly, [kids][14] as young as age two can find clay, drawing, and painting classes that fit their skill level.
+
+The center offers art exploration classes, a K-3 summer school program, and an [open studio][9] for teens. REACH also has a Late State Wednesday program to Lansing School District students and programs for [homeschoolers][12].
+
+The studio also features the works of local artists in their youth gallery, hosts special events, and participates in many public art and community events.
 
 ![][4]
 
 ## Big Wins
 
-REACH's expansion in 2013 has been a great boon to their mission. More classes can be held simultaneously, which means the studio can reach even more people than ever. Working with the [Lansing School District][7] has also helped expose art to more kids.
+REACH's expansion has been a great boon to their mission. More classes can be held simultaneously, which means the studio can reach even more people than ever. Working with the [Lansing School District][7] has also helped expose art to more kids.
 
-The [Teen Open Studio's][9] Community Arts Program helps teens work with local businesses to create public art exhibits and has had a wonderful impact on the community. You've probably even seen some of these [exhibits][8]!
+The [Teen Open Studio's][9] _Community Art Projects_ helps teens work with local businesses to create public art exhibits and has had a wonderful impact on the community. You've probably even seen some of these [exhibits][8]!
 
 ## Goals
 
@@ -81,3 +88,7 @@ If you want to learn more about [REACH Studio Art Center][1], you can reach them
 [8]: https://www.google.com/maps/d/u/1/viewer?mid=1N63PV80nRtkBE40qSORTGJzWsuA "Community Art Projects Map"
 [9]: http://www.reachstudioart.org/tos/ "Teen Open Studio at REACH"
 [10]: http://www.reachstudioart.org/expandingourreach/ "REACH Facility Expansion Project"
+[11]: http://www.reachstudioart.org/programming/ "REACH Studio Art Center Programs"
+[12]: http://www.reachstudioart.org/learn-517/ "Learn517 Homeschool Program"
+[13]: http://www.reachstudioart.org/foradults-2/ "REACH Studio Programs for Adults"
+[14]: http://www.reachstudioart.org/forchildren-2/ "REACH Studio Programs for Kids"
