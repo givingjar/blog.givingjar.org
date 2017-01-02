@@ -42,11 +42,17 @@ In this charity spotlight, I spoke with the Executive Director of REACH Studio A
 
 ## For Nonprofits
 
+> "If you think that you want to continue doing your own art, think twice."
 
+This was the advice Alice received from her mentor, Carol Rose. Alice explains that when you find something important enough to open up opportunities for others, it may close some for you.
 
-## For Volunteers
+Operating a nonprofit is challenging and it's easy to get burnt out. Starting a nonprofit takes a lot of growth and trust in others. Make sure you're committed.
 
+## For Donors and Volunteers
 
+Nonprofits have to be careful to accept donations and volunteers they know they can use. If an organization can't utilize your time, skills, or specific donation requests, it may cause more work if they accept your time or gift anyway.
+
+You can avoid this by being flexible with your donations. Don't be too specific with your requests or, at the very least, be understanding and patient if your contribution can't be used right away.
 
 ![][6]
 
