@@ -26,27 +26,29 @@ While teaching an after-school program at Moores Park School, Alice noticed that
 
 Alice thought that art shouldn't only be available to those who can pay for it. This idea became a dream that she would hold onto for years while she connected with the community to find a studio space at an accessible location where she could offer affordable art classes.
 
-The first classes were offered in a building close to downtown in 2003. It's one large classroom offered art programs for ages ranging from toddlers to adults and using many materials including clay and fiber.
+By 2003, Alice had found a space close to downtown, within reach of thousands of Lansing residents, and started teaching classes. The building had one large classroom where all of the original programs were hosted. These classes were available to any age&mdash;adults, teens, even toddlers&mdash;and utilized a variety of materials including fiber and clay.
+
+This one classroom would become the foundation upon which REACH Studio Art Center would be built.
 
 ![][3]
 
 ## Today
 
-In 2013, [REACH][1] expanded into the surrounding five buildings. They offer a wealth of [classes][11] to all ages and make sure classes are affordable for anyone who might want to attend.
+In 2013, [REACH][1] expanded into the surrounding five buildings. They continue to offer a variety of [classes][11] to all ages and make sure classes are affordable to anyone who may wish to attend.
 
 [Adults][13] can learn a variety of clay, drawing, and painting techniques through the studio's adult clay, _Picture This_, and _Mud &amp; Mug_ classes. Similarly, [kids][14] as young as age two can find clay, drawing, and painting classes that fit their skill level.
 
-The center offers art exploration classes, a K-3 summer school program, and an [open studio][9] for teens. REACH also has a Late State Wednesday program to Lansing School District students and programs for [homeschoolers][12].
+The center offers art exploration classes, a K-3 summer school program, and an [open studio][9] for teens. The studio also participates in Lansing School District's _Late State Wednesday_ and offers additional programs to [homeschoolers][12].
 
-The studio also features the works of local artists in their gallery, hosts special events, and participates in a variety of community events. Their art truck helps improve exposure to art by traveling to other locations across Lansing.
+REACH also features the works of local artists in their gallery, hosts special events, and participates in a variety of community events. Their art truck travels to other locations across Lansing to further improve the community's access to art.
 
 ![][4]
 
 ## Big Wins
 
-REACH's expansion has been a great boon to their mission. More classes can be held simultaneously, which means the studio can reach even more people than ever. Working with the [Lansing School District][7] has also helped expose art to more kids.
+REACH's expansion has been a great boon to their mission. More classes can be held simultaneously, which means the studio can reach more people than ever. Working with the [Lansing School District][7] has also helped expose more kids to art.
 
-The [Teen Open Studio's][9] _Community Art Projects_ helps teens work with local businesses to create public art exhibits and has had a wonderful impact on the community. You've probably even seen some of these [exhibits][8]!
+The [Teen Open Studio's][9] _Community Art Projects_ has also been a great success. The studio connects teens with local businesses to create public art exhibits. It has had a wonderful impact on the community. You've probably even seen some of the [exhibits][8]!
 
 ## Goals
 
@@ -60,13 +62,13 @@ The art center has only completed some of the renovations in their [facility exp
 
 This was the advice Alice received from her mentor, Carol Rose. Alice explains that when you find something important enough to open up opportunities for others, it may close some for you.
 
-Operating a nonprofit is challenging and it's easy to get burnt out. Starting a nonprofit takes a lot of growth and trust in others. Make sure you're committed.
+Operating a nonprofit is challenging and it's easy to get burnt out. Starting a nonprofit requires a lot of personal growth and trust in others. Make sure you're committed.
 
 ## For Donors and Volunteers
 
 Nonprofits have to be careful to accept donations and volunteers they know they can use. If an organization can't utilize your time, skills, or specific donation requests, it may cause more work if they accept your time or gift anyway.
 
-You can avoid this by being flexible with your donations. Don't be too specific with your requests or, at the very least, be understanding and patient if your contribution can't be used right away.
+You can avoid this by being flexible with your donations. Try not to be too specific with your requests and understand that your contribution might not be used right away.
 
 ![][5]
 
