@@ -42,11 +42,13 @@ In this charity spotlight, I spoke with the Executive Director of Haven House, A
 
 ## For Nonprofits
 
+The first time you do fundraising for a nonprofit, you might be shy about asking too much or too often of your donors. Angie says that's okay, but it _is_ important to ask. Donors don't know when your support is needed unless you ask. It's also very important to thank them afterward.
 
+When you communicate with your supporters, make sure your message is clear. Set their expectations appropriately. If you're worried that your message is too big or different, ease into it. You don't have to do it all at once. Your supporters will appreciate that.
 
-## For Volunteers
+## For Donors
 
-
+Many nonprofits are as busy in July as they are in December and in need of just as much support. Holiday giving is wonderful, but if you can, consider donating throughout the year. Your year-round donations can help an organization like Haven House keep kids from having to sleep in a car all year long.
 
 ![][6]
 
