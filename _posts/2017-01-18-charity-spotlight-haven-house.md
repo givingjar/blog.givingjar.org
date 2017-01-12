@@ -20,7 +20,13 @@ In this charity spotlight, I spoke with the Executive Director of Haven House, A
 
 ## Origin Story
 
+Amid the early 1980s recession, Michigan was hit especially hard with high unemployment. By September 1982, unemployment in Michigan reached 14.5%, the highest in the nation.
 
+This high unemployment caused an abrupt increase in the number of people unable to afford homes and food for their families. Members of the Lansing community saw the need for a family shelter and responded by creating one.
+
+For several years, the shelter operated at the [St. John Student Parish][7], offering short-term housing and food to families with or without children. In 1985, the shelter move to a new location in East Lansing and narrowed their focus to families with children.
+
+Today, Haven House continues to serve families in the Lansing area by providing emergency housing while developing each family's self-sufficiency.
 
 ![][3]
 
@@ -68,3 +74,4 @@ If you want to learn more about [Haven House][1], you can reach them by clicking
 [4]: /img/spotlight/haven-house/haven-house-.jpg "Haven House"
 [5]: /img/spotlight/haven-house/haven-house-.jpg "Haven House"
 [6]: /img/spotlight/haven-house/haven-house-.jpg "Haven House"
+[7]: http://stjohnmsu.org/ "St. John Church and Student Center Homepage"
