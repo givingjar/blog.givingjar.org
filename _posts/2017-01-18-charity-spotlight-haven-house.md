@@ -46,11 +46,15 @@ Angie compares Haven House's approach to a "gentle hug while being nudged out th
 
 ## Big Wins
 
+Haven House's rapid rehousing approach has been very successful. More than 91% of the families that find housing with Haven House's support remain in their new home for more than a year!
 
+Angie also described how recent changes at the house have improved what they do. They reconfigured the house to offer staff and tenants more privacy and put the kids' playroom in a more accessible location. Volunteers have also eliminated the need for a paid cook, freeing that money to be used elsewhere.
 
 ## Goals
 
+The staff at Haven House have noticed that when they are able to pay for a family's first month of rent, it cuts anywhere from ten to twenty days off the family's stay at Haven House. When the average duration of a family's stay drops by that much, Haven House has been able to help up to 50% more families.
 
+Establishing an endowment to make that first month's rent a permanent fixture of Haven House would help keep a lot more children out of shelters each year. This is a very desirable goal for the organization!
 
 ![][5]
 
