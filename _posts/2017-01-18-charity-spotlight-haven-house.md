@@ -32,7 +32,15 @@ Today, Haven House continues to serve families in the Lansing area by providing 
 
 ## Today
 
+Many of the families that Haven House helps are homeless for the first time. They know how to make ends meet, but are in a time of crisis and need a little support to regain their stability.
 
+Haven House provides this support to one- and two-parent families with children. Up to ten families are welcomed into the house. During their stay, families receive basic needs and life skills training while looking for permanent housing.
+
+While at Haven House, families are responsible for finding their own permanent housing. Staff members hold daily check-ins to keep families on track and offer assistance when necessary. Residents are also expected to help with household chores during their stay.
+
+Once a family finds a new home, Haven House follows up with the family for up to a year. Non-food stamp items and other assistance is offered to the family during this critical period while they regain their self-sufficiency.
+
+Angie compares Haven House's approach to a "gentle hug while being nudged out the door."
 
 ![][4]
 
