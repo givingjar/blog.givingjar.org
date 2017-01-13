@@ -5,9 +5,9 @@ subtitle: "Providing emergency housing and support to families with children."
 permalink: /charity-spotlight-haven-house/
 tags: [spotlight]
 image:
-  path: /img/spotlight/haven-house/haven-house-.jpg
+  path: /img/spotlight/haven-house/haven-house-playroom.jpg
   width: 800
-  height: 532
+  height: 534
 description: >
   Haven House helps families with children find permanent housing and stability
   when they are suddenly without. They do this by giving families a temporary
@@ -19,7 +19,7 @@ description: >
 
 In this charity spotlight, I spoke with the Executive Director of Haven House, Angie Mayeaux.
 
-![][2]
+![][4]
 
 ## Origin Story
 
@@ -45,7 +45,7 @@ Once a family finds a new home, Haven House follows up with the family for up to
 
 Angie compares Haven House's approach to a "gentle hug while being nudged out the door."
 
-![][4]
+![][2]
 
 ## Big Wins
 
@@ -84,9 +84,9 @@ If you want to learn more about [Haven House][1], you can reach them by clicking
 
 
 [1]: http://www.havenhouseel.org/ "Haven House Homepage"
-[2]: /img/spotlight/haven-house/haven-house-.jpg "Haven House"
-[3]: /img/spotlight/haven-house/haven-house-.jpg "Haven House"
-[4]: /img/spotlight/haven-house/haven-house-.jpg "Haven House"
-[5]: /img/spotlight/haven-house/haven-house-.jpg "Haven House"
-[6]: /img/spotlight/haven-house/haven-house-.jpg "Haven House"
+[2]: /img/spotlight/haven-house/haven-house-backpacks.jpg "Haven House"
+[3]: /img/spotlight/haven-house/haven-house-gift-wrapping.jpg "Haven House"
+[4]: /img/spotlight/haven-house/haven-house-motherly-love.jpg "Haven House"
+[5]: /img/spotlight/haven-house/haven-house-playroom.jpg "Haven House"
+[6]: /img/spotlight/haven-house/haven-house-support.jpg "Haven House"
 [7]: http://stjohnmsu.org/ "St. John Church and Student Center Homepage"
