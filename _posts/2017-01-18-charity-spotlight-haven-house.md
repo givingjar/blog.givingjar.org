@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Haven House"
-subtitle: "."
+subtitle: "Providing emergency housing and support to families with children."
 permalink: /charity-spotlight-haven-house/
 tags: [spotlight]
 image:
@@ -9,10 +9,13 @@ image:
   width: 800
   height: 532
 description: >
-  Haven House.
+  Haven House helps families with children find permanent housing and stability
+  when they are suddenly without. They do this by giving families a temporary
+  home while providing essential life skills and the assistance they need to
+  regain their self-sufficiency.
 ---
 
-[Haven House][1].
+[Haven House][1] helps families with children find permanent housing and stability when they are suddenly without. They do this by giving families a temporary home while providing essential life skills and the assistance they need to regain their self-sufficiency.
 
 In this charity spotlight, I spoke with the Executive Director of Haven House, Angie Mayeaux.
 
