@@ -5,9 +5,9 @@ subtitle: "Providing emergency housing and support to families with children."
 permalink: /charity-spotlight-haven-house/
 tags: [spotlight]
 image:
-  path: /img/spotlight/haven-house/haven-house-playroom.jpg
+  path: /img/spotlight/haven-house/haven-house-backpacks.jpg
   width: 800
-  height: 534
+  height: 532
 description: >
   Haven House helps families with children find permanent housing and stability
   when they are suddenly without. They do this by giving families a temporary
@@ -84,9 +84,9 @@ If you want to learn more about [Haven House][1], you can reach them by clicking
 
 
 [1]: http://www.havenhouseel.org/ "Haven House Homepage"
-[2]: /img/spotlight/haven-house/haven-house-backpacks.jpg "Haven House"
-[3]: /img/spotlight/haven-house/haven-house-gift-wrapping.jpg "Haven House"
-[4]: /img/spotlight/haven-house/haven-house-motherly-love.jpg "Haven House"
-[5]: /img/spotlight/haven-house/haven-house-playroom.jpg "Haven House"
-[6]: /img/spotlight/haven-house/haven-house-support.jpg "Haven House"
+[2]: /img/spotlight/haven-house/haven-house-backpacks.jpg "Buried in backpacks at Haven House"
+[3]: /img/spotlight/haven-house/haven-house-gift-wrapping.jpg "Gift wrapping at Haven House"
+[4]: /img/spotlight/haven-house/haven-house-motherly-love.jpg "Motherly love at Haven House"
+[5]: /img/spotlight/haven-house/haven-house-playroom.jpg "Haven House's Playroom"
+[6]: /img/spotlight/haven-house/haven-house-support.jpg "Haven House Helpers"
 [7]: http://stjohnmsu.org/ "St. John Church and Student Center Homepage"
