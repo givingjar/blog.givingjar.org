@@ -27,7 +27,7 @@ Amid the early 1980s recession, Michigan was hit especially hard with high unemp
 
 This high unemployment caused an abrupt increase in the number of people unable to afford homes and food for their families. Members of the Lansing community saw the need for a family shelter and responded by creating one.
 
-For several years, the shelter operated at the [St. John Student Parish][7], offering short-term housing and food to families with or without children. In 1985, the shelter moved to a new location in East Lansing and narrowed their focus to families with children.
+For several years, the shelter partnered with [St. John Student Parish][7] to offer short-term housing and food to families with or without children. In 1985, the shelter moved to a new location in East Lansing and narrowed their focus to families with children.
 
 Today, Haven House continues to serve families in the Lansing area by providing emergency housing while developing each family's self-sufficiency.
 
