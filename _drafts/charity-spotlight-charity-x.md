@@ -9,10 +9,10 @@ image:
   width: 800
   height: 532
 description: >
-  Charity.
+  CharityX.
 ---
 
-[Charity][1].
+[CharityX][1].
 
 In this charity spotlight, I spoke with the Executive Director of CharityX, First Last.
 
