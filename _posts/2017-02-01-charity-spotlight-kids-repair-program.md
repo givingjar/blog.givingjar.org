@@ -35,7 +35,9 @@ In this charity spotlight, I spoke with the Director of Kids Repair Program, Jea
 
 ## Big Wins
 
+Jeanne has seen&mdash;and helped&mdash;the whole program reinvigorated since she first helped answer phones in 2012. In addition to Jeanne's help, Kids Repair Program has also benefitted from an [AmeriCorps VISTA][7] and received more donations from local police departments.
 
+All of this support has revitalized the organization and led to a stronger bike camp program, which in turn encourages more children to pursue their dreams while providing them the right tools do so.
 
 ## Goals
 
@@ -75,3 +77,4 @@ If you want to learn more about [Kids Repair Program][1], you can reach them by 
 [4]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
 [5]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
 [6]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
+[7]: https://www.nationalservice.gov/programs/americorps/americorps-vista "AmeriCorps VISTA Program"
