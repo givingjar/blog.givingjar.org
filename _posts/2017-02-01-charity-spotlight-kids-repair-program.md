@@ -35,13 +35,13 @@ Today, the Kids Repair Program has a shop near Hill Career Center in south Lansi
 
 ## Today
 
-At the heart of Kids Repair Program is their summer bike camps. During these week-long camps an instructor teaches kids how a bike works, how to repair their own bike using tools they already have, and how to be safe on the road.
+At the heart of Kids Repair Program is their summer bike camps. During these week-long camps, an instructor teaches kids how a bike works, how to repair their own bike using tools they already have, and how to be safe on the road.
 
-The camp uses videos, Matchbox car simulations, hands-on practice, and parking lot drills to help kids get as much out of the program as possible. Instructors also cover the history of bicycles, nutrition, biking for exercise, and even how to ride a bike.
+The camp utilizes video, Matchbox car simulations, hands-on practice, and parking lot drills to help kids get as much out of the program as possible. Instructors also cover the history of bicycles, nutrition, biking for exercise, and even how to ride a bike.
 
 At the end of the week, a police officer accompanies the kids on a bike trip to [Hawk Island][9] and the kids are given a bicycle, helmet, and lock. The program is open to any kid, including those with disabilities, in Clinton, Eaton, or Ingham county. KRP is also a [Community Mental Health][8] training site.
 
-Every Wednesday, the repair program also hosts an _Open Work Shop_ where adults can bring their bikes and learn how to make repairs. Kids Repair Program is always accepting bike and part donations.
+Every Wednesday, the repair program also hosts an _Open Work Shop Night_ where adults can bring their bikes and learn how to make repairs. Kids Repair Program is always accepting bike and part donations.
 
 ![][4]
 
@@ -63,7 +63,7 @@ Of course, more volunteers are always welcome, too.
 
 Your nonprofit will rely on others for support and your budget will demand it, so it will be extremely beneficial for you to get comfortable working with the public! Don't be afraid to reach out to the community&mdash;in any medium&mdash;to seek help.
 
-When you do reach out for help, whether your looking for volunteers or donations, Jeanne recommends keeping your message simple. Make it clear and make it encouraging. Go ahead and take "can't" out of your dictionary, too.
+When you do reach out for help, whether you're looking for volunteers or donations, Jeanne recommends keeping your message simple. Make it clear and make it encouraging. Go ahead and take "can't" out of your dictionary, too.
 
 ## For Volunteers
 
