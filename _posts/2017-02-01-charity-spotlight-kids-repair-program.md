@@ -45,7 +45,9 @@ In this charity spotlight, I spoke with the Director of Kids Repair Program, Jea
 
 ## For Nonprofits
 
+Your nonprofit will rely on others for support and your budget will demand it, so it will be extremely beneficial for you to get comfortable working with the public! Don't be afraid to reach out to the community&mdash;in any medium&mdash;to seek help.
 
+When you do reach out for help, whether your looking for volunteers or donations, Jeanne recommends keeping your message simple. Make it clear and make it encouraging. Go ahead and take "can't" out of your dictionary, too.
 
 ## For Volunteers
 
