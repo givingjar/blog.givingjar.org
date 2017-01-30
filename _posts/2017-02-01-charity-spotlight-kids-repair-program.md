@@ -51,7 +51,9 @@ When you do reach out for help, whether your looking for volunteers or donations
 
 ## For Volunteers
 
+Organizations that rely on volunteers usually have a to-do list that's a mile long. If you've found someplace that you want to help, don't worry that they might not need your help, because they definitely do.
 
+If you are a leader in a nonprofit, Jeanne also has recommendations to make it easy to support your volunteers: write your to-do list down and let volunteers pick from it. It's a great way to empower your volunteers and it shows that you really do have a need their help!
 
 ![][6]
 
