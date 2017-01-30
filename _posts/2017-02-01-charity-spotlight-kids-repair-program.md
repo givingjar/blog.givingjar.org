@@ -29,7 +29,13 @@ In this charity spotlight, I spoke with the Director of Kids Repair Program, Jea
 
 ## Today
 
+At the heart of Kids Repair Program is their summer bike camps. During these week-long camps an instructor teaches kids how a bike works, how to repair their own bike using tools they already have, and how to be safe on the road.
 
+The camp uses videos, Matchbox car simulations, hands-on practice, and parking lot drills to help kids get as much out of the program as possible. Instructors also cover the history of bicycles, nutrition, biking for exercise, and even how to ride a bike.
+
+At the end of the week, a police officer accompanies the kids on a bike trip to [Hawk Island][9] and the kids are given a bicycle, helmet, and lock. The program is open to all kids in the tri-county region, including those with disabilities. KRP is also a [Community Mental Health][8] training site.
+
+Every Wednesday, the repair program also hosts an _Open Work Shop_ where adults can bring their bikes and learn how to make repairs. Kids Repair Program is also always accepting bike and part donations.
 
 ![][4]
 
@@ -78,3 +84,5 @@ If you want to learn more about [Kids Repair Program][1], you can reach them by 
 [5]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
 [6]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
 [7]: https://www.nationalservice.gov/programs/americorps/americorps-vista "AmeriCorps VISTA Program"
+[8]: http://www.ceicmh.org/ "Community Mental Health Homepage"
+[9]: http://pk.ingham.org/Parks/HawkIsland.aspx "Hawk Island Homepage"
