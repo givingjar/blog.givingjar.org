@@ -39,7 +39,9 @@ In this charity spotlight, I spoke with the Director of Kids Repair Program, Jea
 
 ## Goals
 
+One new grant could be all it takes to add another part-time manager to the repair program's staff. The extra help would allow KRP to prepare many more bikes for their camps. The manager could also fill in when they are short on volunteers and help keep up with donations and bike parts.
 
+Of course, more volunteers are always welcome, too.
 
 ![][5]
 
