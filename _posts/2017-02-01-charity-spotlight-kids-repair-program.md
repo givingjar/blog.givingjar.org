@@ -23,7 +23,13 @@ In this charity spotlight, I spoke with the Director of Kids Repair Program, Jea
 
 ## Origin Story
 
+Curt Eure&mdash;known by many as "Grandad"&mdash;was already interested in neighborhood and youth development when he first started teaching kids about bike ownership, safety, and repair in 1995. He saw bike education as an opportunity to cultivate responsibility in children while alleviating bike theft and neglect.
 
+Grandad started the program by investing his time and money, looking for bike donations, and teaching kids how to repair their own bikes. The kids Grandad helped told their friends and it didn't take long before the program built a lot of momentum.
+
+Support poured in from the [Lansing Police Department][10], [City Council][11], the Mayor's office, and many local bike shops. Before outgrowing the space, they even operated at [Impression 5][12] for a time.
+
+Today, the Kids Repair Program has a shop near Hill Career Center in south Lansing and serves the entire Tri-County Area.
 
 ![][3]
 
@@ -33,9 +39,9 @@ At the heart of Kids Repair Program is their summer bike camps. During these wee
 
 The camp uses videos, Matchbox car simulations, hands-on practice, and parking lot drills to help kids get as much out of the program as possible. Instructors also cover the history of bicycles, nutrition, biking for exercise, and even how to ride a bike.
 
-At the end of the week, a police officer accompanies the kids on a bike trip to [Hawk Island][9] and the kids are given a bicycle, helmet, and lock. The program is open to all kids in the tri-county region, including those with disabilities. KRP is also a [Community Mental Health][8] training site.
+At the end of the week, a police officer accompanies the kids on a bike trip to [Hawk Island][9] and the kids are given a bicycle, helmet, and lock. The program is open to any kid, including those with disabilities, in Clinton, Eaton, or Ingham county. KRP is also a [Community Mental Health][8] training site.
 
-Every Wednesday, the repair program also hosts an _Open Work Shop_ where adults can bring their bikes and learn how to make repairs. Kids Repair Program is also always accepting bike and part donations.
+Every Wednesday, the repair program also hosts an _Open Work Shop_ where adults can bring their bikes and learn how to make repairs. Kids Repair Program is always accepting bike and part donations.
 
 ![][4]
 
@@ -86,3 +92,6 @@ If you want to learn more about [Kids Repair Program][1], you can reach them by 
 [7]: https://www.nationalservice.gov/programs/americorps/americorps-vista "AmeriCorps VISTA Program"
 [8]: http://www.ceicmh.org/ "Community Mental Health Homepage"
 [9]: http://pk.ingham.org/Parks/HawkIsland.aspx "Hawk Island Homepage"
+[10]: http://www.lansingmi.gov/398/Police-Department "Lansing Police Department"
+[11]: http://www.lansingmi.gov/267/City-Council "Lansing City Council"
+[12]: http://www.impression5.org/ "Impression 5 Science Center"
