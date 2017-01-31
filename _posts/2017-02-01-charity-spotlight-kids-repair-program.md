@@ -5,9 +5,9 @@ subtitle: "Boosting childhood self-esteem through bike ownership, safety, and ma
 permalink: /charity-spotlight-kids-repair-program/
 tags: [spotlight]
 image:
-  path: /img/spotlight/kids-repair-program/kids-repair-program-.jpg
+  path: /img/spotlight/kids-repair-program/kids-repair-program-tires.jpg
   width: 800
-  height: 532
+  height: 533
 description: >
   Kids Repair Program teaches children how to properly own, operate, and
   maintain a bicycle. Supportive experiences and education empower children
@@ -77,18 +77,18 @@ If you are a leader in a nonprofit, Jeanne also has recommendations to make it e
 
 If you want to learn more about [Kids Repair Program][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.kidsrepairprogram.yolasite.com/" facebook="KidsRepairProgram" %}
+{% include web-links.html home="http://www.kidsrepairprogram.yolasite.com/" facebook="KidsRepairProgram" flickr="76311648@N05" %}
 
 ###### Photographs courtesy of [Kids Repair Program][1].
 
 
 
 [1]: http://www.kidsrepairprogram.yolasite.com/ "Kids Repair Program Homepage"
-[2]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
-[3]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
-[4]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
-[5]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
-[6]: /img/spotlight/kids-repair-program/kids-repair-program-.jpg "Charity"
+[2]: /img/spotlight/kids-repair-program/kids-repair-program-grandad.jpg "Curt 'Grandad' Eure"
+[3]: /img/spotlight/kids-repair-program/kids-repair-program-tires.jpg "Learn to change a tire at KRP"
+[4]: /img/spotlight/kids-repair-program/kids-repair-program-practice.jpg "Learning repairs on their own bikes"
+[5]: /img/spotlight/kids-repair-program/kids-repair-program-safety.jpg "Learning rules of the road and bike safety"
+[6]: /img/spotlight/kids-repair-program/kids-repair-program-grads.jpg "Kids Repair Program Graduates"
 [7]: https://www.nationalservice.gov/programs/americorps/americorps-vista "AmeriCorps VISTA Program"
 [8]: http://www.ceicmh.org/ "Community Mental Health Homepage"
 [9]: http://pk.ingham.org/Parks/HawkIsland.aspx "Hawk Island Homepage"
