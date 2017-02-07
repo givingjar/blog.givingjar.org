@@ -47,7 +47,7 @@ Every Wednesday, the repair program also hosts an _Open Work Shop Night_ where a
 
 ## Big Wins
 
-Jeanne has seen&mdash;and helped&mdash;the whole program reinvigorated since she first helped answer phones in 2012. In addition to Jeanne's help, Kids Repair Program has also benefitted from an [AmeriCorps VISTA][7] and received more donations from local police departments.
+Jeanne has seen&mdash;and helped&mdash;the whole program become reinvigorated since she first helped answer phones in 2012. In addition to Jeanne's help, Kids Repair Program has also benefitted from an [AmeriCorps VISTA][7] and received more donations from local police departments.
 
 All of this support has revitalized the organization and led to a stronger bike camp program, which in turn encourages more children to pursue their dreams while providing them the right tools do so.
 
