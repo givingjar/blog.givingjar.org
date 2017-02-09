@@ -38,7 +38,7 @@ In this charity spotlight, I spoke with the Executive Director of Lansing Sympho
 
 Lansing Symphony Orchestra would love to introduce more programs, new performers, and full family concerts. They would also like to revisit and resume programs from their past that are no longer running.
 
-In order to achieve those goals, LSO would like to eliminate outstanding debt, build a stronger endowment, and raise funds that can be used as risk capital.
+In order to achieve those goals, LSO would like to eliminate any long-term debt, build a stronger endowment, and raise funds that can be used as risk capital.
 
 ![][5]
 
