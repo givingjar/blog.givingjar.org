@@ -42,9 +42,13 @@ In this charity spotlight, I spoke with the Executive Director of Lansing Sympho
 
 ## For Nonprofits
 
+Funding and audience/donor engagement are two challenges you will always face in a nonprofit. Courtney offers several pieces of advice to help tackle them: be clear about who your organization is, avoid mission creep, and focus on your strengths.
 
+Don't always pursue opportunities for money, either. Be willing to pass on grants and other forms of funding if they don't align with your mission and values. It will help you focus on what's important.
 
-## For Volunteers
+Courtney adds that this advice can apply to your personal life too!
+
+## For Volunteers and Patrons
 
 
 
@@ -54,7 +58,7 @@ In this charity spotlight, I spoke with the Executive Director of Lansing Sympho
 
 If you want to learn more about [Lansing Symphony Orchestra][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.lansingsymphony.org/" facebook="LansingSymphony" twitter="LansingSymphony" instagram="lansingsymphony" %}
+{% include web-links.html home="http://www.lansingsymphony.org/" facebook="LansingSymphony" twitter="LansingSymphony" %}
 
 ###### Photographs courtesy of [Lansing Symphony Orchestra][1].
 
