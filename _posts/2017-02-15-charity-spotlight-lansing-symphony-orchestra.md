@@ -46,11 +46,11 @@ Funding and audience/donor engagement are two challenges you will always face in
 
 Don't always pursue opportunities for money, either. Be willing to pass on grants and other forms of funding if they don't align with your mission and values. It will help you focus on what's important.
 
-Courtney adds that this advice can apply to your personal life too!
-
 ## For Volunteers and Patrons
 
+_How_ you help an organization will change over time. Courtney recommends finding something you absolutely love and are willing to support _however_ you can.
 
+Being a reliable and consistent volunteer is an especially meaningful way to help&mdash;you will always make a nonprofit smile! 🙂
 
 ![][6]
 
