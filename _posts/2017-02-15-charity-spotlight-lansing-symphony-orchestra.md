@@ -32,11 +32,13 @@ In this charity spotlight, I spoke with the Executive Director of Lansing Sympho
 
 ## Big Wins
 
+Strong community collaboration continues to be a great way for LSO to reach new people and venues. Fresh programming also helps them reach new audiences and grow their overall profile while keeping existing patrons happy.
 
+Courtney is also proud of the great strides they have made toward growing their budget and chipping away at debt.
 
 ## Goals
 
-Lansing Symphony Orchestra would love to introduce more programs, new performers, and full family concerts. They would also like to revisit and resume programs from their past that are no longer running.
+Lansing Symphony Orchestra would love to introduce more types of programs, new performers, and full family concerts. They would also like to revisit and resume programs from their past that are no longer running.
 
 In order to achieve those goals, LSO would like to eliminate any long-term debt, build a stronger endowment, and raise funds that can be used as risk capital.
 
