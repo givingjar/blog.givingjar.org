@@ -9,10 +9,13 @@ image:
   width: 800
   height: 532
 description: >
-  Lansing Symphony Orchestra.
+  Lansing Symphony Orchestra performs classical music for a wide variety of
+  audiences across Greater Lansing. Their diverse programming and education
+  help them reach new ears, inspire and reinvigorate a love of orchestral music,
+  and ensure the prosperity of local symphony.
 ---
 
-[Lansing Symphony Orchestra][1].
+[Lansing Symphony Orchestra][1] performs classical music for a wide variety of audiences across Greater Lansing. Their diverse programming and education help them reach new ears, inspire and reinvigorate a love of orchestral music, and ensure the prosperity of local symphony.
 
 In this charity spotlight, I spoke with the Executive Director of Lansing Symphony Orchestra, Courtney Millbrook.
 
