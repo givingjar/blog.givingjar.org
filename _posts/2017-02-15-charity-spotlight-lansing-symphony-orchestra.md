@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Lansing Symphony Orchestra"
-subtitle: "."
+subtitle: "Dazzling audiences with great classical music and music education."
 permalink: /charity-spotlight-lansing-symphony-orchestra/
 tags: [spotlight]
 image:
