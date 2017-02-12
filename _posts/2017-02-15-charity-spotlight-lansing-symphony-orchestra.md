@@ -23,7 +23,13 @@ In this charity spotlight, I spoke with the Executive Director of Lansing Sympho
 
 ## Origin Story
 
+The Roaring Twenties was an historic decade for music and culture in the United States. Jazz exploded in popularity. Classical music remained fashionable, but found itself being fused with elements of jazz and blues. Jazz artists were also influenced by classical music as they began to write jazz arrangements for the first time and adapt classical music's rhythm into a new style known as swing.
 
+In 1929, Izler Solomon introduced the first season of the Lansing Symphony Orchestra's&mdash;then known as the Lansing Civic Orchestra&mdash;at the young age of nineteen. Later that year, the stock market crashed, sending the country into the Great Depression and marking the end of the Roaring Twenties.
+
+Fortunately, Lansing's new orchestra had quickly become a treasure of mid-Michigan. The durability of classical music and the supportive communities around Lansing helped the organization persevere through the Great Depression and many more decades thereafter.
+
+Lansing Symphony Orchestra is now recognized as Lansing's oldest art nonprofit and they continue to delight fans with performances of classical music, jazz, and more.
 
 ![][3]
 
