@@ -5,21 +5,21 @@ subtitle: "Dazzling audiences with great classical music and music education."
 permalink: /charity-spotlight-lansing-symphony-orchestra/
 tags: [spotlight]
 image:
-  path: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg
+  path: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-conducting.jpg
   width: 800
   height: 532
 description: >
   Lansing Symphony Orchestra performs classical music for a wide variety of
   audiences across Greater Lansing. Their diverse programming and education
-  help them reach new ears, inspire and reinvigorate a love of orchestral music,
+  help them reach new ears, inspire and nourish a love of orchestral music,
   and ensure the prosperity of local symphony.
 ---
 
-[Lansing Symphony Orchestra][1] performs classical music for a wide variety of audiences across Greater Lansing. Their diverse programming and education help them reach new ears, inspire and reinvigorate a love of orchestral music, and ensure the prosperity of local symphony.
+[Lansing Symphony Orchestra][1] performs classical music for a wide variety of audiences across Greater Lansing. Their diverse programming and education help them reach new ears, inspire and nourish a love of orchestral music, and ensure the prosperity of local symphony.
 
 In this charity spotlight, I spoke with the Executive Director of Lansing Symphony Orchestra, Courtney Millbrook.
 
-![][2]
+![][3]
 
 ## Origin Story
 
@@ -31,7 +31,7 @@ Fortunately, Lansing's new orchestra had quickly become a treasure of mid-Michig
 
 Lansing Symphony Orchestra is now recognized as Lansing's oldest art nonprofit and they continue to delight fans with performances of classical music, jazz, and more.
 
-![][3]
+![][2]
 
 ## Today
 
@@ -77,16 +77,16 @@ If you want to learn more about [Lansing Symphony Orchestra][1], you can reach t
 
 {% include web-links.html home="http://www.lansingsymphony.org/" facebook="LansingSymphony" twitter="LansingSymphony" %}
 
-###### Photographs courtesy of [Lansing Symphony Orchestra][1].
+###### Photographs courtesy of [David Trumpie][14] and [Lansing Symphony Orchestra][1].
 
 
 
 [1]: http://www.lansingsymphony.org/ "Lansing Symphony Orchestra Homepage"
-[2]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg "Charity"
-[3]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg "Charity"
-[4]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg "Charity"
-[5]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg "Charity"
-[6]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg "Charity"
+[2]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-brass.jpg "Charity"
+[3]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-conducting.jpg "Charity"
+[4]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-recorder.jpg "Charity"
+[5]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-string.jpg "Charity"
+[6]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-youth-patrons.jpg "Charity"
 [7]: http://lansingsymphony.org/SeasonProfile/SeasonProfileMasterWorks/tabid/83/Default.aspx "Lansing Symphony Orchestra's MasterWorks Series"
 [8]: http://lansingsymphony.org/SeasonProfile/SeasonProfilePops/tabid/85/Default.aspx "Lansing Symphony Orchestra's Pops Series"
 [9]: http://lansingsymphony.org/SeasonProfile/SeasonProfileChamberConcerts/tabid/84/Default.aspx "Lansing Symphony Orchestra's Chamber Series"
@@ -94,3 +94,4 @@ If you want to learn more about [Lansing Symphony Orchestra][1], you can reach t
 [11]: http://www.lansingsymphony.org/Portals/0/Family%20Series%20Flyer_1.pdf "Lansing Symphony Orchestra's Family Series at the Library Program"
 [12]: http://www.lansingsymphony.org/Education/SidebySidePerformance/tabid/165/Default.aspx "Lansing Symphony Orchestra's Side-by-Side Program"
 [13]: http://www.lansingsymphony.org/Education/YoungPeoplesConcerts/tabid/79/Default.aspx "Lansing Symphony Orchestra's Young People's Concerts"
+[14]: https://www.facebook.com/david.trumpie "David Trumpie on Facebook"
