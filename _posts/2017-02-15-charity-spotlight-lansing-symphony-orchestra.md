@@ -35,7 +35,11 @@ Lansing Symphony Orchestra is now recognized as Lansing's oldest art nonprofit a
 
 ## Today
 
+Lansing Symphony performances are broken up into four series. Their [MasterWorks concerts][7] cover traditional classical pieces performed by their 60- to 70-person orchestra as well as guest artists. The symphony's [Pops Series][8] includes holiday music and popular arrangements from movies such as _Star Wars_.
 
+Smaller groups from the orchestra also perform in [Chamber concerts][9] at Molly Grove Chapel and cover a variety of classical ensembles. Lansing Symphony's [Jazz Band][10] covers a wide range of big band classics and modern jazz.
+
+Music education is also a big part of Lansing Symphony's mission. They host a [family series][11] at the downtown Lansing library and city market that covers different musical topics and crafts after a performance. LSO also mentors high school students in their [Side-by-Side][12] program and hosts [Young People's Concerts][13] in partnership with Carnegie Mellon.
 
 ![][4]
 
@@ -83,3 +87,10 @@ If you want to learn more about [Lansing Symphony Orchestra][1], you can reach t
 [4]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg "Charity"
 [5]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg "Charity"
 [6]: /img/spotlight/lansing-symphony-orchestra/lansing-symphony-orchestra-.jpg "Charity"
+[7]: http://lansingsymphony.org/SeasonProfile/SeasonProfileMasterWorks/tabid/83/Default.aspx "Lansing Symphony Orchestra's MasterWorks Series"
+[8]: http://lansingsymphony.org/SeasonProfile/SeasonProfilePops/tabid/85/Default.aspx "Lansing Symphony Orchestra's Pops Series"
+[9]: http://lansingsymphony.org/SeasonProfile/SeasonProfileChamberConcerts/tabid/84/Default.aspx "Lansing Symphony Orchestra's Chamber Series"
+[10]: http://lansingsymphony.org/SeasonProfile/SeasonProfileBigBand/tabid/86/Default.aspx "Lansing Symphony Orchestra's Jazz Band"
+[11]: http://www.lansingsymphony.org/Portals/0/Family%20Series%20Flyer_1.pdf "Lansing Symphony Orchestra's Family Series at the Library Program"
+[12]: http://www.lansingsymphony.org/Education/SidebySidePerformance/tabid/165/Default.aspx "Lansing Symphony Orchestra's Side-by-Side Program"
+[13]: http://www.lansingsymphony.org/Education/YoungPeoplesConcerts/tabid/79/Default.aspx "Lansing Symphony Orchestra's Young People's Concerts"
