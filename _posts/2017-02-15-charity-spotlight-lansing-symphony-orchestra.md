@@ -35,11 +35,11 @@ Lansing Symphony Orchestra is now recognized as Lansing's oldest art nonprofit a
 
 ## Today
 
-Lansing Symphony performances are broken up into four series. Their [MasterWorks concerts][7] cover traditional classical pieces performed by their 60- to 70-person orchestra as well as guest artists. The symphony's [Pops Series][8] includes holiday music and popular arrangements from movies such as _Star Wars_.
+Lansing Symphony performances are broken up into four series. Their [MasterWorks concerts][7] cover traditional classical pieces performed by their 60- to 70-person orchestra as well as guest artists. The Symphony's [Pops Series][8] includes holiday music and popular arrangements from Broadway productions and movies such as _Star Wars_, in addition to featuring tribute bands.
 
 Smaller groups from the orchestra also perform in [Chamber concerts][9] at Molly Grove Chapel and cover a variety of classical ensembles. Lansing Symphony's [Jazz Band][10] covers a wide range of big band classics and modern jazz.
 
-Music education is also a big part of Lansing Symphony's mission. They host a [family series][11] at the downtown Lansing library and city market that covers different musical topics and crafts after a performance. LSO also mentors high school students in their [Side-by-Side][12] program and hosts [Young People's Concerts][13] in partnership with Carnegie Mellon.
+Music education is also a big part of Lansing Symphony's mission. They host a free [Family Series][11] at the Downtown Lansing Library and Lansing City Market that covers different musical topics and crafts after a mini concert performance. LSO also mentors high school students in their [Side-by-Side][12] program and hosts [Young People's Concerts][13] in partnership with Carnegie Hall.
 
 ![][4]
 
@@ -61,7 +61,7 @@ In order to achieve those goals, LSO would like to eliminate any long-term debt,
 
 Funding and audience/donor engagement are two challenges you will always face in a nonprofit. Courtney offers several pieces of advice to help tackle them: be clear about who your organization is, avoid mission creep, and focus on your strengths.
 
-Don't always pursue opportunities for money, either. Be willing to pass on grants and other forms of funding if they don't align with your mission and values. It will help you focus on what's important.
+Don't always be quick to pursue opportunities for available money, either. Be willing to pass on grants and other forms of funding if they don't align with your mission and values. It will help you focus on what's important.
 
 ## For Volunteers and Patrons
 
