@@ -5,9 +5,9 @@ subtitle: "Get 100% of every PayPal donation and open up new ways to raise funds
 permalink: /how-to-enroll-in-paypal-giving-fund/
 tags: [howto]
 image:
-  path: /img/spotlight/charity-x/charity-x-.jpg
+  path: /img/paypal-giving-fund/ppgf-do-more-good.jpg
   width: 800
-  height: 532
+  height: 400
 description: >
   PayPal Giving Fund is a 501(c)(3) organization that allows registered
   nonprofits to receive 100% of every donation received through their donation
@@ -16,6 +16,8 @@ description: >
 ---
 
 [PayPal Giving Fund][1]{:target="\_blank"} is a 501(c)(3) organization that allows registered nonprofits to receive 100% of every donation received through their donation page or one of their partner programs such as eBay for Charity, Humble Bundle, or GoFundMe.
+
+![][29]
 
 If you help run a nonprofit, using PayPal Giving Fund will feel like an add-on or upgrade to your existing [PayPal][2]{:target="\_blank"} business account. Donors will still use their PayPal accounts to donate and those donations will ultimately wind up in your PayPal account.
 
@@ -33,11 +35,13 @@ PayPal Giving Fund wants you to receive every penny of every donation, but they 
 
 ### You must register to receive donations
 
-If you [search for your nonprofit][3]{:target="\_blank"} on PayPal Giving Fund, you may discover that you already have a donation page (albeit a very plain looking one).
+If you [search for your nonprofit][3]{:target="\_blank"} on PayPal Giving Fund, you may discover that you already have a donation page. According to PayPal Giving Fund's [Donation Delivery Policy][4]{:target="\_blank"}, only nonprofits enrolled in PayPal Giving Fund will receive donations.
 
-According to PayPal Giving Fund's [Donation Delivery Policy][4]{:target="\_blank"}, only nonprofits enrolled in PayPal Giving Fund will receive donations. If you are not enrolled or ineligible to claim the funds, PayPal Giving Fund may redirect the donation. This policy isn't dissimilar from [Amazon Smile's][5]{:target="\_blank"} [delivery policy][6]{:target="\_blank"}.
+If you are not enrolled or ineligible to claim the funds, PayPal Giving Fund may redirect the donation. This policy isn't dissimilar from [Amazon Smile's][5]{:target="\_blank"} [delivery policy][6]{:target="\_blank"}.
 
 Since PayPal Giving Fund and all enrolled nonprofits have 501(c)(3) status with the IRS, all donations remain tax-deductible even if they are redirected.
+
+![][30]
 
 ## New ways to raise funds online
 
@@ -50,6 +54,8 @@ Finding details about each of these programs can be a little time-consuming, so 
 This is the premiere benefit of PayPal Giving Fund. Once enrolled, your nonprofit will get a customizable donation page that shows your logo, a description of your organization, mission area, EIN, and a link to your website.
 
 In order to fully take advantage of this page, we recommend replacing your existing _Donate with PayPal_ button with a link or button to your PayPal Giving Fund donation page. Your old button will continue to work, but it will also continue to apply those pesky fees.
+
+![][31]
 
 ### eBay for Charity
 
@@ -65,6 +71,8 @@ Not only can sellers donate to your charity using PayPal Giving Fund, buyers can
 
 If you have supporters who regularly buy items on eBay, you can ask them to add your organization to their favorites using [eBay's charity search][9]{:target="\_blank"}.
 
+![][32]
+
 ### Humble Bundle
 
 [Humble Bundle][10]{:target="\_blank"} sells bundles of video games and e-books. They let buyers name their price and allocate their money to Humble Bundle, makers of the for-sale products, and charities however they see fit. If your supporters love video games or books, Humble Bundle is a great way for them to donate to your cause and get fantastic goodies in return.
@@ -73,6 +81,8 @@ Once enrolled in PayPal Giving Fund, it may take several days or weeks for your 
 
 Use [Humble Bundle's charity search][11]{:target="\_blank"} to find your nonprofit. Click on your logo in the search results to get a link that donor's can use to select your charity before purchasing a bundle. Once a buyer selects your charity, it will stay selected on return visits.
 
+![][33]
+
 ### GoFundMe
 
 If your organization wants to try out crowdfunding online, you can quickly create a fundraiser on [GoFundMe][12]{:target="\_blank"} once you're registered on PayPal Giving Fund. Not only that, but _anyone_ can create a fundraiser that supports your charity.
@@ -80,6 +90,8 @@ If your organization wants to try out crowdfunding online, you can quickly creat
 When creating a fundraiser on GoFundMe, just change the campaign type to "Certified Charity" and fill in your nonprofit's name or EIN to dedicate a campaign to your organization. Fill in a few more text boxes, including a goal amount, and then share the campaign with anyone and everyone.
 
 The funds raised will go directly to the nonprofit's PayPal account. GoFundMe does have a fee for using their platform though: 7.9% + 30¢ per donation.
+
+![][34]
 
 ### Giving Jar Shopper
 
@@ -264,3 +276,9 @@ If you found this article helpful, please consider [donating][27]{:target="\_bla
 [26]: https://www.paypal.com/givingfund/profile "PayPal Giving Fund Profile Page"
 [27]: https://www.paypal.com/fundraiser/charity/196655 "Donate to Giving Jar"
 [28]: http://bit.ly/HowToPPGFSlides "Enrolling in PayPal Giving Fund Slides, courtesy of Giving Jar"
+[29]: /img/paypal-giving-fund/ppgf-do-more-good.jpg "Do More Good with PayPal Giving Fund. Photo Credit: PayPal Giving Fund"
+[30]: /img/paypal-giving-fund/ppgf-how-it-works.jpg "How PayPal Giving Fund works. Photo Credit: PayPal Giving Fund"
+[31]: /img/paypal-giving-fund/ebay-for-charity.jpg "eBay for Charity. Photo Credit: eBay"
+[32]: /img/paypal-giving-fund/humble-bundle.jpg "Humble Bundle: Pay what you want and help charity. Photo Credit: Humble Bundle"
+[33]: /img/paypal-giving-fund/gofundme.jpg "GoFundMe: Fundraising for life. Photo Credit: GoFundMe"
+[34]: /img/paypal-giving-fund/givingjar-shopper.jpg "Giving Jar Shopper: Donate to charity when you shop online."
