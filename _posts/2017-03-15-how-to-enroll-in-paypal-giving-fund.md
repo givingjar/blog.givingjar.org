@@ -35,7 +35,7 @@ PayPal Giving Fund wants you to receive every penny of every donation, but they 
 
 If you [search for your nonprofit][3] on PayPal Giving Fund, you may discover that you already have a donation page (albeit a very plain looking one).
 
-According to PayPal Giving Fund's _[Donation Delivery Policy][4]_, only nonprofits enrolled in PayPal Giving Fund will receive donations. If you are not enrolled or ineligible to claim the funds, PayPal Giving Fund may redirect the donation. This policy is not dissimilar from [Amazon Smile's][5] [delivery policy][6].
+According to PayPal Giving Fund's _[Donation Delivery Policy][4]_, only nonprofits enrolled in PayPal Giving Fund will receive donations. If you are not enrolled or ineligible to claim the funds, PayPal Giving Fund may redirect the donation. This policy isn't dissimilar from [Amazon Smile's][5] [delivery policy][6].
 
 Since PayPal Giving Fund and all enrolled nonprofits have 501(c)(3) status with the IRS, all donations remain tax-deductible even if they are redirected.
 
@@ -154,11 +154,11 @@ Make sure you've completed steps 1-4 above before starting this process. After y
 
 #### 6. Confirmed statement name
 
-Okay, _technically_ this is not a requirement for enrolling in PayPal Giving Fund, but it only takes a few seconds to make sure people can recognize your organization on their credit card statement, so why not do it now?
+Okay, _technically_ this isn't a requirement for enrolling in PayPal Giving Fund, but it only takes a few seconds to make sure people can recognize your organization on their credit card statement, so why not do it now?
 
 Go to [My Selling Tools][21] and click _Update_ next to the _Credit card statement name_ row to set them. There are two names you will need to provide: one is 11 letters, the other is 19.
 
-> **Tip:** 11 letters is not much to work with. Remove spaces and words such as 'the' to shorten your business name. Abbreviating also works!
+> **Tip:** 11 letters isn't much to work with. Remove spaces and words such as 'the' to shorten your business name. Abbreviating also works!
 {:.tip}
 
 ### Enroll in PayPal Giving Fund
@@ -176,7 +176,7 @@ Once documentation is provided, it may take a business day or two or more before
 
 After you sign in for the first time, visit your PayPal Giving Fund [profile][26] to customize your donation page.
 
-> **Tip:** From now on, access your PayPal Giving Fund account [here][1]. Your dashboard provides links to your donation page, PayPal account, donation activity, and other resources.
+> **Tip:** Access your PayPal Giving Fund account [here][1]. Your dashboard provides links to your donation page, PayPal account, donation activity, and other resources.
 {:.tip}
 
 There are six aspects of your PayPal Giving Fund account that you can customize. Most of them will be visible on your donation page, the others affect how donors find our interact with your organization.
@@ -199,7 +199,7 @@ Use a large (400x400 pixels), high-resolution (100+ DPI) PNG image for the best 
 
 #### 3. Call to Action
 
-As far as we can tell, the call to action is not displayed on your donation page, in search results, or on any of the partner pages, so it's not clear to us if and how PayPal Giving Fund uses this information. You only get 90 characters, though, so make it count!
+As far as we can tell, the call to action isn't displayed on your donation page, in search results, or on any of the partner pages, so it's not clear to us if and how PayPal Giving Fund uses this information. You only get 90 characters, though, so make it count!
 
 #### 4. Mission Area
 
