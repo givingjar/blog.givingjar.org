@@ -15,9 +15,9 @@ description: >
   or GoFundMe.
 ---
 
-[PayPal Giving Fund][1] is a 501(c)(3) organization that allows registered nonprofits to receive 100% of every donation received through their donation page or one of their partner programs such as eBay for Charity, Humble Bundle, or GoFundMe.
+[PayPal Giving Fund][1]{:target="\_blank"} is a 501(c)(3) organization that allows registered nonprofits to receive 100% of every donation received through their donation page or one of their partner programs such as eBay for Charity, Humble Bundle, or GoFundMe.
 
-If you help run a nonprofit, using PayPal Giving Fund will feel like an add-on or upgrade to your existing [PayPal][2] business account. Donors will still use their PayPal accounts to donate and those donations will ultimately wind up in your PayPal account.
+If you help run a nonprofit, using PayPal Giving Fund will feel like an add-on or upgrade to your existing [PayPal][2]{:target="\_blank"} business account. Donors will still use their PayPal accounts to donate and those donations will ultimately wind up in your PayPal account.
 
 One way that PayPal Giving Fund differs from PayPal is that you will receive 100% of every donation made through PayPal Giving Fund whereas money received through PayPal will incur at least 2.2% + 30¢ in fees. PayPal Giving Fund also sends automatic tax receipts by email.
 
@@ -33,9 +33,9 @@ PayPal Giving Fund wants you to receive every penny of every donation, but they 
 
 ### You must register to receive donations
 
-If you [search for your nonprofit][3] on PayPal Giving Fund, you may discover that you already have a donation page (albeit a very plain looking one).
+If you [search for your nonprofit][3]{:target="\_blank"} on PayPal Giving Fund, you may discover that you already have a donation page (albeit a very plain looking one).
 
-According to PayPal Giving Fund's _[Donation Delivery Policy][4]_, only nonprofits enrolled in PayPal Giving Fund will receive donations. If you are not enrolled or ineligible to claim the funds, PayPal Giving Fund may redirect the donation. This policy isn't dissimilar from [Amazon Smile's][5] [delivery policy][6].
+According to PayPal Giving Fund's [Donation Delivery Policy][4]{:target="\_blank"}, only nonprofits enrolled in PayPal Giving Fund will receive donations. If you are not enrolled or ineligible to claim the funds, PayPal Giving Fund may redirect the donation. This policy isn't dissimilar from [Amazon Smile's][5]{:target="\_blank"} [delivery policy][6]{:target="\_blank"}.
 
 Since PayPal Giving Fund and all enrolled nonprofits have 501(c)(3) status with the IRS, all donations remain tax-deductible even if they are redirected.
 
@@ -53,7 +53,7 @@ In order to fully take advantage of this page, we recommend replacing your exist
 
 ### eBay for Charity
 
-About a couple of business days after you are registered for PayPal Giving Fund, your nonprofit will also appear on [eBay for Charity][7]. Without taking any other actions, sellers on eBay can choose to donate a portion of items they sell to your charity.
+About a couple of business days after you are registered for PayPal Giving Fund, your nonprofit will also appear on [eBay for Charity][7]{:target="\_blank"}. Without taking any other actions, sellers on eBay can choose to donate a portion of items they sell to your charity.
 
 You can also add direct sellers to your nonprofit's eBay for Charity account. Direct sellers can dedicate 100% of items sold to your charity. Money from those sales will go directly into your nonprofit's PayPal account and the seller will also receive a lower selling fee.
 
@@ -61,21 +61,21 @@ You can also add direct sellers to your nonprofit's eBay for Charity account. Di
 
 Not only can sellers donate to your charity using PayPal Giving Fund, buyers can too.
 
-[eBay Give at Checkout][8] allows buyers to choose a charity from PayPal Giving Fund to receive a donation. This donation is in addition to the auction price and buyers can select an amount ranging from $1 to $25. As expected, 100% of the donation amount goes to your nonprofit's PayPal account.
+[eBay Give at Checkout][8]{:target="\_blank"} allows buyers to choose a charity from PayPal Giving Fund to receive a donation. This donation is in addition to the auction price and buyers can select an amount ranging from $1 to $25. As expected, 100% of the donation amount goes to your nonprofit's PayPal account.
 
-If you have supporters who regularly buy items on eBay, you can ask them to add your organization to their favorites using [eBay's charity search][9].
+If you have supporters who regularly buy items on eBay, you can ask them to add your organization to their favorites using [eBay's charity search][9]{:target="\_blank"}.
 
 ### Humble Bundle
 
-[Humble Bundle][10] sells bundles of video games and e-books. They let buyers name their price and allocate their money to Humble Bundle, makers of the for-sale products, and charities however they see fit. If your supporters love video games or books, Humble Bundle is a great way for them to donate to your cause and get fantastic goodies in return.
+[Humble Bundle][10]{:target="\_blank"} sells bundles of video games and e-books. They let buyers name their price and allocate their money to Humble Bundle, makers of the for-sale products, and charities however they see fit. If your supporters love video games or books, Humble Bundle is a great way for them to donate to your cause and get fantastic goodies in return.
 
 Once enrolled in PayPal Giving Fund, it may take several days or weeks for your organization to appear on Humble Bundle. Even then, not all bundles allow the buyer to choose a PayPal Giving Fund charity.
 
-Use [Humble Bundle's charity search][11] to find your nonprofit. Click on your logo in the search results to get a link that donor's can use to select your charity before purchasing a bundle. Once a buyer selects your charity, it will stay selected on return visits.
+Use [Humble Bundle's charity search][11]{:target="\_blank"} to find your nonprofit. Click on your logo in the search results to get a link that donor's can use to select your charity before purchasing a bundle. Once a buyer selects your charity, it will stay selected on return visits.
 
 ### GoFundMe
 
-If your organization wants to try out crowdfunding online, you can quickly create a fundraiser on [GoFundMe][12] once you're registered on PayPal Giving Fund. Not only that, but _anyone_ can create a fundraiser that supports your charity.
+If your organization wants to try out crowdfunding online, you can quickly create a fundraiser on [GoFundMe][12]{:target="\_blank"} once you're registered on PayPal Giving Fund. Not only that, but _anyone_ can create a fundraiser that supports your charity.
 
 When creating a fundraiser on GoFundMe, just change the campaign type to "Certified Charity" and fill in your nonprofit's name or EIN to dedicate a campaign to your organization. Fill in a few more text boxes, including a goal amount, and then share the campaign with anyone and everyone.
 
@@ -83,9 +83,9 @@ The funds raised will go directly to the nonprofit's PayPal account. GoFundMe do
 
 ### Giving Jar Shopper
 
-Our fledgeling donation software, [Giving Jar Shopper][13], is a browser add-on that reminds people to donate when they shop online. If a user of our add-on decides to donate, we send them to their selected charity's PayPal Giving Fund donation page. This ensures every penny goes to their cause. Our add-on supports dozens of charities.
+Our fledgeling donation software, [Giving Jar Shopper][13]{:target="\_blank"}, is a browser add-on that reminds people to donate when they shop online. If a user of our add-on decides to donate, we send them to their selected charity's PayPal Giving Fund donation page. This ensures every penny goes to their cause. Our add-on supports dozens of charities.
 
-If you want your nonprofit added to our software, [contact us][14]! We'll do a short interview,  write an article about what you do on our [blog][18], and add you to our program. We like our relationships with nonprofits to be personal. 🙂
+If you want your nonprofit added to our software, [contact us][14]{:target="\_blank"}! We'll do a short interview,  write an article about what you do on our [blog][18], and add you to our program. We like our relationships with nonprofits to be personal. 🙂
 
 _Disclaimer: Giving Jar is not an official partner of PayPal Giving Fund._
 
@@ -101,7 +101,7 @@ Each of these steps has its own hurdles to overcome, though, and we also have a 
 
 ### Setup your PayPal business account
 
-If you don't already have a PayPal business account, the first step is to [create one][15]. Do not use a personal account!
+If you don't already have a PayPal business account, the first step is to [create one][15]{:target="\_blank"}. Do not use a personal account!
 
 > **Tip:** Use an email address that can be reused by future members of your organization, such as `treasurer@mynonprof.org`. Avoid email addresses that have names in them like `sarah.jay@mynonprof.org`.
 {:.tip}
@@ -119,12 +119,12 @@ Having a verified email is how PayPal knows that when they send you an email, yo
 
 It's fairly common for board members and staff at nonprofits to change. Make sure the contact on your PayPal account is correct. If not, go ahead and start the process of changing it now:
 
-1. Click _[Change][16]_ next to the contact name
+1. Click _[Change][16]{:target="\_blank"}_ next to the contact name
 2. Select _Your contact name has changed_ and click _Continue_
 3. Upload the required documents (there can be as many as four!)
 4. Wait a few days for the change to occur
 
-> **Tip:** Check your email daily to make sure no additional action is required of you. Visit the [Resolution Center][17] regularly to make sure nothing is being requested of you there either.
+> **Tip:** Check your email daily to make sure no additional action is required of you. Visit the [Resolution Center][17]{:target="\_blank"} regularly to make sure nothing is being requested of you there either.
 {:.tip}
 
 #### 3. Accurate business info
@@ -133,21 +133,21 @@ Make sure your business name is up-to-date. It should match what is on your 501(
 
 Your business URL will be displayed on your PayPal Giving Fund donation page. Make sure it's accurate, too!
 
-To change your business info, click _Update_ next to the _Business information_ row on your [PayPal Business Profile][19].
+To change your business info, click _Update_ next to the _Business information_ row on your [PayPal Business Profile][19]{:target="\_blank"}.
 
 #### 4. Linked bank account
 
 If you receive donations through PayPal, you probably want to transfer those funds to a bank account so you can put that money toward your cause.
 
-First, go to your [My Money][20] page and add a bank account. After you have provided the account and routing information, PayPal will make two small deposits to your bank account. It will take 2-3 business days for this money to show up. Once it does, go back to PayPal and enter the two amounts to confirm your bank account.
+First, go to your [My Money][20]{:target="\_blank"} page and add a bank account. After you have provided the account and routing information, PayPal will make two small deposits to your bank account. It will take 2-3 business days for this money to show up. Once it does, go back to PayPal and enter the two amounts to confirm your bank account.
 
 #### 5. Confirmed as a charity
 
 Before enrolling in PayPal Giving Fund, you must confirm your charity status in PayPal. Even if you don't follow through with PayPal Giving Fund enrollment, you should complete this step because it will get you a reduced transaction fee (2.2% instead of 2.9%) for almost all PayPal transactions, including donations.
 
-To start the verification, start at PayPal's [Charity Confirmation][22] page. Have a digital copy of your IRS designation letter, your EIN, and a recent bank statement ready. You'll have to provide these in order to complete the verification.
+To start the verification, start at PayPal's [Charity Confirmation][22]{:target="\_blank"} page. Have a digital copy of your IRS designation letter, your EIN, and a recent bank statement ready. You'll have to provide these in order to complete the verification.
 
-> **Tip:** Any documents uploaded to PayPal must be less than 2 MB. We've had the best luck with JPG and PDF files. If you get a vague error when uploading a file, visit the [Resolution Center][17] to see if a specific document has been requested and upload it there.
+> **Tip:** Any documents uploaded to PayPal must be less than 2 MB. We've had the best luck with JPG and PDF files. If you get a vague error when uploading a file, visit the [Resolution Center][17]{:target="\_blank"} to see if a specific document has been requested and upload it there.
 {:.tip}
 
 Make sure you've completed steps 1-4 above before starting this process. After you've provided all of the documentation, the confirmation will likely take at least a day.
@@ -156,27 +156,27 @@ Make sure you've completed steps 1-4 above before starting this process. After y
 
 Okay, _technically_ this isn't a requirement for enrolling in PayPal Giving Fund, but it only takes a few seconds to make sure people can recognize your organization on their credit card statement, so why not do it now?
 
-Go to [My Selling Tools][21] and click _Update_ next to the _Credit card statement name_ row to set them. There are two names you will need to provide: one is 11 letters, the other is 19.
+Go to [My Selling Tools][21]{:target="\_blank"} and click _Update_ next to the _Credit card statement name_ row to set them. There are two names you will need to provide: one is 11 letters, the other is 19.
 
 > **Tip:** 11 letters isn't much to work with. Remove spaces and words such as 'the' to shorten your business name. Abbreviating also works!
 {:.tip}
 
 ### Enroll in PayPal Giving Fund
 
-Once your contact/business info are up-to-date and you see all those green checks on your [Account Setup][23] page, you're ready to enroll in PayPal Giving Fund! 🤘
+Once your contact/business info are up-to-date and you see all those green checks on your [Account Setup][23]{:target="\_blank"} page, you're ready to enroll in PayPal Giving Fund! 🤘
 
-To enroll, [start here][24]. You will need to provide documentation to confirm your 501(c)(3) status and upload a recent bank statement. Sound familiar? Yep, you basically repeat the steps to confirm your charity status in step 5 up above.
+To enroll, [start here][24]{:target="\_blank"}. You will need to provide documentation to confirm your 501(c)(3) status and upload a recent bank statement. Sound familiar? Yep, you basically repeat the steps to confirm your charity status in step 5 up above.
 
-> **Tip:** If you get any errors during this process or PayPal Giving Fund shows that you have provided the necessary steps but will not let you proceed, check PayPal's [Resolution Center][17] and your email for requests of additional information.
+> **Tip:** If you get any errors during this process or PayPal Giving Fund shows that you have provided the necessary steps but will not let you proceed, check PayPal's [Resolution Center][17]{:target="\_blank"} and your email for requests of additional information.
 {:.tip}
 
-Once documentation is provided, it may take a business day or two or more before you can access your PayPal Giving Fund account. If you think the enrollment is taking too long or you need assistance, use PayPal Giving Fund's [contact page][25] to request assistance.
+Once documentation is provided, it may take a business day or two or more before you can access your PayPal Giving Fund account. If you think the enrollment is taking too long or you need assistance, use PayPal Giving Fund's [contact page][25]{:target="\_blank"} to request assistance.
 
 ### Customize your donation page
 
-After you sign in for the first time, visit your PayPal Giving Fund [profile][26] to customize your donation page.
+After you sign in for the first time, visit your PayPal Giving Fund [profile][26]{:target="\_blank"} to customize your donation page.
 
-> **Tip:** Access your PayPal Giving Fund account [here][1]. Your dashboard provides links to your donation page, PayPal account, donation activity, and other resources.
+> **Tip:** Access your PayPal Giving Fund account [here][1]{:target="\_blank"}. Your dashboard provides links to your donation page, PayPal account, donation activity, and other resources.
 {:.tip}
 
 There are six aspects of your PayPal Giving Fund account that you can customize. Most of them will be visible on your donation page, the others affect how donors find our interact with your organization.
@@ -192,7 +192,7 @@ Your nonprofit's description will appear on the donation page. We recommend incl
 
 The logo will be presented front and center in a circle on your nonprofit's donation page. Upload a high-resolution, square version of your logo. If your logo is rectangular in shape, add a little bit of padding so your logo does not come too close to the circle it will be displayed in.
 
-Use a large (400x400 pixels), high-resolution (100+ DPI) PNG image for the best results. The image will be scaled down to as little as 58 pixels on mobile devices, but browsers do a great job shrinking hi-res images on the fly.
+Use a large (400×400 pixels), high-resolution (100+ DPI) PNG image for the best results. The image will be scaled down to as little as 58 pixels on mobile devices, but browsers do a great job shrinking hi-res images on the fly.
 
 > **Tip:** Do not use transparency in your image. When displaying your logo, PayPal Giving Fund uses a white background, but eBay uses black. If you use transparency in your image, there's a good chance it won't look good on one of those two sites!
 {:.tip}
@@ -221,15 +221,18 @@ This contact is different from your PayPal business account contact and can be c
 
 ## Troubleshooting
 
-If you get stuck during enrollment or need help administering your PayPal Giving Fund account, first check your email and PayPal's [Resolution Center][17]. It's not uncommon for PayPal or PayPal Giving Fund to request additional information in one of those two places.
+If you get stuck during enrollment or need help administering your PayPal Giving Fund account, first check your email and PayPal's [Resolution Center][17]{:target="\_blank"}. It's not uncommon for PayPal or PayPal Giving Fund to request additional information in one of those two places.
 
 In the case that a document is requested via email, ask that a case be opened in the Resolution Center so that you can be certain that the information is being provided securely to the correct recipient.
 
-If there is no information from PayPal in your inbox or the Resolution Center, you can ask for support on PayPal Giving Fund's [contact page][25].
+If there is no information from PayPal in your inbox or the Resolution Center, you can ask for support on PayPal Giving Fund's [contact page][25]{:target="\_blank"}.
 
 ## Thank You
 
-If you found this article helpful, please consider [donating][27] to Giving Jar. It only takes a few dollars to keep our servers running each month!
+If you found this article helpful, please consider [donating][27]{:target="\_blank"} to Giving Jar. It only takes a few dollars to keep our servers running each month!
+
+> **Tip:** Looking for a summary of this article to share with your nonprofit? We made [a slide deck][28]{:target="\_blank"} for that!
+{:.tip}
 
 
 
@@ -260,3 +263,4 @@ If you found this article helpful, please consider [donating][27] to Giving Jar.
 [25]: https://www.paypal.com/givingfund/contact "PayPal Giving Fund Contact Page"
 [26]: https://www.paypal.com/givingfund/profile "PayPal Giving Fund Profile Page"
 [27]: https://www.paypal.com/fundraiser/charity/196655 "Donate to Giving Jar"
+[28]: http://bit.ly/HowToPPGFSlides "Enrolling in PayPal Giving Fund Slides, courtesy of Giving Jar"
