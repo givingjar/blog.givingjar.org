@@ -99,7 +99,7 @@ Our fledgeling donation software, [Giving Jar Shopper][13]{:target="\_blank"}, i
 
 If you want your nonprofit added to our software, [contact us][14]{:target="\_blank"}! We'll do a short interview,  write an article about what you do on our [blog][18], and add you to our program. We like our relationships with nonprofits to be personal. 🙂
 
-_Disclaimer: Giving Jar is not an official partner of PayPal Giving Fund._
+> _**Disclaimer:** Giving Jar is not an official partner of PayPal Giving Fund._
 
 ## Enrolling in PayPal Giving Fund
 
@@ -109,7 +109,7 @@ On the surface, enrolling in PayPal Giving Fund seems as easy as:
 2. Upgrading to PayPal Giving Fund
 3. And customizing your donation page
 
-Each of these steps has its own hurdles to overcome, though, and we also have a variety of tips to make your life easier as your work through the process.
+Each of these steps has its own hurdles to overcome, though, and we have plenty of tips to help you along.
 
 ### Setup your PayPal business account
 
@@ -119,6 +119,8 @@ If you don't already have a PayPal business account, the first step is to [creat
 {:.tip}
 
 Once you have a business account, there are six key areas of your account that should be in order before enrolling in PayPal Giving Fund:
+
+![][35]
 
 #### 1. Verified email
 
@@ -184,6 +186,8 @@ To enroll, [start here][24]{:target="\_blank"}. You will need to provide documen
 
 Once documentation is provided, it may take a business day or two or more before you can access your PayPal Giving Fund account. If you think the enrollment is taking too long or you need assistance, use PayPal Giving Fund's [contact page][25]{:target="\_blank"} to request assistance.
 
+![][36]
+
 ### Customize your donation page
 
 After you sign in for the first time, visit your PayPal Giving Fund [profile][26]{:target="\_blank"} to customize your donation page.
@@ -231,6 +235,8 @@ Enter at least five words to help donors find your organization, separated by co
 
 This contact is different from your PayPal business account contact and can be changed without providing a variety of documentation. Pick someone who has the authority and access to manage your PayPal account information.
 
+![][37]
+
 ## Troubleshooting
 
 If you get stuck during enrollment or need help administering your PayPal Giving Fund account, first check your email and PayPal's [Resolution Center][17]{:target="\_blank"}. It's not uncommon for PayPal or PayPal Giving Fund to request additional information in one of those two places.
@@ -243,7 +249,7 @@ If there is no information from PayPal in your inbox or the Resolution Center, y
 
 If you found this article helpful, please consider [donating][27]{:target="\_blank"} to Giving Jar. It only takes a few dollars to keep our servers running each month!
 
-> **Tip:** Looking for a summary of this article to share with your nonprofit? We made [a slide deck][28]{:target="\_blank"} for that!
+> **Tip:** Looking for a summary of this article to share with your nonprofit? We made a [slide deck][28]{:target="\_blank"} for that!
 {:.tip}
 
 
@@ -281,4 +287,7 @@ If you found this article helpful, please consider [donating][27]{:target="\_bla
 [31]: /img/paypal-giving-fund/ebay-for-charity.jpg "eBay for Charity. Photo Credit: eBay"
 [32]: /img/paypal-giving-fund/humble-bundle.jpg "Humble Bundle: Pay what you want and help charity. Photo Credit: Humble Bundle"
 [33]: /img/paypal-giving-fund/gofundme.jpg "GoFundMe: Fundraising for life. Photo Credit: GoFundMe"
-[34]: /img/paypal-giving-fund/givingjar-shopper.jpg "Giving Jar Shopper: Donate to charity when you shop online."
+[34]: /img/paypal-giving-fund/givingjar-shopper.jpg "Giving Jar Shopper: Donate to charity when you shop online"
+[35]: /img/paypal-giving-fund/setup-paypal-account.jpg "Setup your PayPal business account"
+[36]: /img/paypal-giving-fund/ppgf-givingjar-donation-page.jpg "Giving Jar's donation page on PayPal Giving Fund"
+[37]: /img/paypal-giving-fund/paypal-resolution-center.jpg "PayPal Resolution Center"
