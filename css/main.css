@@ -81,6 +81,12 @@ img {
   max-width: 100%;
 }
 
+a.center {
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+}
+
 .main-content {
   padding-top: 80px;
 }
