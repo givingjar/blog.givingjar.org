@@ -23,6 +23,9 @@ If you work at a nonprofit, using PayPal Giving Fund will feel like an upgrade t
 
 One way that PayPal Giving Fund differs from PayPal is that you will receive 100% of every donation made through PayPal Giving Fund whereas money received through PayPal will incur at least 2.2% + 30¢ in fees. PayPal Giving Fund also sends automatic tax receipts by email.
 
+> **Tip:** Looking for a summary of this article to share with your nonprofit? We made a [slide deck][28]{:target="\_blank"} for that!
+{:.tip}
+
 ## First, some fine print
 
 Of course, a lack of fees isn't the _only_ way that PayPal Giving Fund and PayPal are different.
