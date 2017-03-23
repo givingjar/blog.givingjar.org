@@ -229,7 +229,7 @@ Use a large (400×400 pixels), high-resolution (100+ DPI) PNG image for the best
 
 #### 3. Call to Action
 
-As far as we can tell, the call to action isn't displayed on your donation page, in search results, or on any of the partner pages, so it's not clear to us if and how PayPal Giving Fund uses this information. You only get 90 characters, though, so make it count!
+The call to action does not appear to be used on any PayPal Giving Fund pages, but it does show up as the "slogan" of your nonprofit on eBay. This field is limited to 90 characters, so be concise!
 
 #### 4. Mission Area
 
