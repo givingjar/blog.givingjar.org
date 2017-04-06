@@ -25,7 +25,7 @@ In this charity spotlight, I spoke with the Founder and President of Leonie's Lo
 
 Without a convent or other community for support, many women who return to the secular world from a religious one feel isolated and look for their experience to be normalized. With little more than the clothes on her back, the transition to lay life may require a woman to endure many extraordinarily stressful circumstances.
 
-In 2012, Theresa found herself in such a situation: without a community, but dependent upon others. She went online seeking respite and encouragement, but found very little. Knowing she wasn't alone, Theresa set out to create the place that she and many other women needed.
+In 2012, Theresa found herself in such a situation: without a community, but dependent upon others. She went online seeking respite and encouragement but found very little. Knowing she wasn't alone, Theresa set out to create the place that she and many other women needed.
 
 By April of the following year, [Leonie's Longing][1] was launched. It didn't take long before visitors and their friends and family offered their help to strengthen this new community.
 
@@ -35,7 +35,7 @@ By April of the following year, [Leonie's Longing][1] was launched. It didn't ta
 
 Leonie's Longing now hosts hundreds of posts that help women make the transition to lay life. Articles such as _[A Hairy Story!][7]_ offer practical, light-hearted advice, such as how to style short hair that is common amongst sisters who wear the habit. Other articles, like _[The Art of Awkward][8]_, encourage women to embrace the awkwardness they may experiencing.
 
-Much of the content tempers humor with the reality of the situation many readers are going through. This helps readers approach questions they may have about idea&mdash;questions such as _Who am I?_, _Where am I going?_, and _Who will I become?_&mdash;in an approachable, light-hearted way.
+Much of the content tempers humor with the reality of the situation many readers are going through. This helps readers approach questions they may have about identity&mdash;questions such as _Who am I?_, _Where am I going?_, and _Who will I become?_&mdash;in an approachable, light-hearted way.
 
 In addition to advice and story-sharing, there are also _Monday Memes_ that touch on familiar convent life topics, book and movie reviews, an [e-newsletter][9], and resources for friends and family. The nonprofit tries to respond to all comments and offers direct support by helping those in need find counselors, places to stay, clothes, and more.
 
@@ -57,7 +57,7 @@ Theresa would also like to better categorize the content of their website in its
 
 ## For Nonprofits
 
-When you're ready to take the plunge, do it! Not only that, but do it in your own style. Recognize that we're all different and use that to draw on your own strengths and the strengths of the people you work with.
+When you're ready to take the plunge, do it! Not only that but do it in your own style. Recognize that we're all different and use that to draw on your own strengths and the strengths of the people you work with.
 
 Theresa also encourages people to find ways to overcome their own deficiencies. If you frequently roadblock yourself&mdash;or you're just shy to start something new&mdash;try putting yourself out there once in awhile. If you're a risk-taker, do some research first.
 
