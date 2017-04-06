@@ -20,7 +20,11 @@ In this charity spotlight, I spoke with the Founder and President of Leonie's Lo
 
 ## Origin Story
 
+Without a convent or other community for support, many women who return to the secular world from a religious one feel isolated and look for their experience to be normalized. With little more than the clothes on her back, the transition to lay life may require a woman to endure many extraordinarily stressful circumstances.
 
+In 2012, Theresa found herself in such a situation: without a community, but dependent upon others. She went online seeking respite and encouragement, but found very little. Knowing she wasn't alone, Theresa set out to create the place that she and many other women needed.
+
+By April of the following year, [Leonie's Longing][1] was launched. It didn't take long before visitors and their friends and family offered their help to strengthen this new community.
 
 ![][3]
 
