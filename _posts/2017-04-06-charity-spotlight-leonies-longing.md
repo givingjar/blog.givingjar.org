@@ -30,7 +30,11 @@ By April of the following year, [Leonie's Longing][1] was launched. It didn't ta
 
 ## Today
 
+Leonie's Longing now hosts hundreds of posts that help women make the transition to lay life. Articles such as _[A Hairy Story!][7]_ offer practical, light-hearted advice, such as how to style short hair that is common amongst sisters who wear the habit. Other articles, like _[The Art of Awkward][8]_, encourage women to embrace the awkwardness they may experiencing.
 
+Much of the content tempers humor with the reality of the situation many readers are going through. This helps readers approach questions they may have about idea&mdash;questions such as _Who am I?_, _Where am I going?_, and _Who will I become?_&mdash;in an approachable, light-hearted way.
+
+In addition to advice and story-sharing, there are also _Monday Memes_ that touch on familiar convent life topics, book and movie reviews, an [e-newsletter][9], and resources for friends and family. The nonprofit tries to respond to all comments and offers direct support by helping those in need find counselors, places to stay, clothes, and more.
 
 ![][4]
 
@@ -78,3 +82,6 @@ If you want to learn more about [Leonie's Longing][1], you can reach them by cli
 [4]: /img/spotlight/leonies-longing/leonies-longing-.jpg "Charity"
 [5]: /img/spotlight/leonies-longing/leonies-longing-.jpg "Charity"
 [6]: /img/spotlight/leonies-longing/leonies-longing-.jpg "Charity"
+[7]: http://www.leonieslonging.org/a-hairy-story/ "A Hairy Story! by Liz Miller"
+[8]: http://www.leonieslonging.org/awkward/ "The Art of Awkward by Cora Cantata"
+[9]: http://leonieslonging.us4.list-manage.com/subscribe?u=07052eaf86f285796f7b7a122&id=3802a60895 "Signup for Leonie's Longing Newsletter"
