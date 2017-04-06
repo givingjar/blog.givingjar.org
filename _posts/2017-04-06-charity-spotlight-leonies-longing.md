@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Leonie's Longing"
-subtitle: "."
+subtitle: "A community of support for women who have returned to lay life from one of religion."
 permalink: /charity-spotlight-leonies-longing/
 tags: [spotlight]
 image:
@@ -9,10 +9,13 @@ image:
   width: 800
   height: 532
 description: >
-  Leonie's Longing.
+  Leonie's Longing is an online community that aids women who have been in a
+  convent or monastery and have returned to the secular world. By building new
+  relationships and a network of support, Leonie's Longing helps ease the
+  transition to lay life.
 ---
 
-[Leonie's Longing][1].
+[Leonie's Longing][1] is an online community that aids women who have been in a convent or monastery and have returned to the secular world. By building new relationships and a network of support, Leonie's Longing helps ease the transition to lay life.
 
 In this charity spotlight, I spoke with the Founder and President of Leonie's Longing, Theresa Jasko.
 
