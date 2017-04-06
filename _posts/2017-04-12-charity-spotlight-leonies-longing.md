@@ -5,9 +5,9 @@ subtitle: "A community of support for women who have returned to lay life from o
 permalink: /charity-spotlight-leonies-longing/
 tags: [spotlight]
 image:
-  path: /img/spotlight/leonies-longing/leonies-longing-.jpg
+  path: /img/spotlight/leonies-longing/leonies-longing-logo.jpg
   width: 800
-  height: 532
+  height: 319
 description: >
   Leonie's Longing is an online community that aids women who have been in a
   convent or monastery and have returned to the secular world. By building new
@@ -29,7 +29,7 @@ In 2012, Theresa found herself in such a situation: without a community, but dep
 
 By April of the following year, [Leonie's Longing][1] was launched. It didn't take long before visitors and their friends and family offered their help to strengthen this new community.
 
-![][3]
+![][6]
 
 ## Today
 
@@ -67,7 +67,7 @@ Before you start volunteering, gather some information. Ask lots of questions, k
 
 Avoid overcommitting and be direct; it's okay to say "no." If something doesn't work out, you can always make a change. That also means you don't have to be afraid to try something new.
 
-![][6]
+![][3]
 
 ## Get Involved
 
@@ -80,11 +80,11 @@ If you want to learn more about [Leonie's Longing][1], you can reach them by cli
 
 
 [1]: http://www.leonieslonging.org/ "Leonie's Longing Homepage"
-[2]: /img/spotlight/leonies-longing/leonies-longing-.jpg "Charity"
-[3]: /img/spotlight/leonies-longing/leonies-longing-.jpg "Charity"
-[4]: /img/spotlight/leonies-longing/leonies-longing-.jpg "Charity"
-[5]: /img/spotlight/leonies-longing/leonies-longing-.jpg "Charity"
-[6]: /img/spotlight/leonies-longing/leonies-longing-.jpg "Charity"
+[2]: /img/spotlight/leonies-longing/leonies-longing-logo.jpg "Leonie's Longing Logo"
+[3]: /img/spotlight/leonies-longing/leonies-longing-hopping-with-joy.jpg "Hopping with Joy"
+[4]: /img/spotlight/leonies-longing/leonies-longing-forgotten-name-meme.jpg "Monday Memes: I'm calling you 'sister' because I don't remember your name"
+[5]: /img/spotlight/leonies-longing/leonies-longing-live-dangerously-meme.jpg "Monday Memes: I too like to live dangerously"
+[6]: /img/spotlight/leonies-longing/leonies-longing-questions.jpg "Leonie's Longing helps with questions of identity"
 [7]: http://www.leonieslonging.org/a-hairy-story/ "A Hairy Story! by Liz Miller"
 [8]: http://www.leonieslonging.org/awkward/ "The Art of Awkward by Cora Cantata"
 [9]: http://leonieslonging.us4.list-manage.com/subscribe?u=07052eaf86f285796f7b7a122&id=3802a60895 "Signup for Leonie's Longing Newsletter"
