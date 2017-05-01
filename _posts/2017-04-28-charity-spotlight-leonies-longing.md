@@ -35,7 +35,7 @@ By April of the following year, [Leonie's Longing][1] was launched. It didn't ta
 
 Leonie's Longing now hosts hundreds of posts that help women make the transition to lay life. Articles such as _[A Hairy Story!][7]_ offer practical, light-hearted advice, such as how to style short hair that is common amongst sisters who wear the habit. Other articles, like _[Ouch][8]_, describes the melancholy and eventual acceptance one experiences when they leave their community.
 
-Much of the content tempers humor with the reality of the situation many readers are going through. This helps readers approach questions they may have about identity&mdash;questions such as _Who am I?_, _Where am I going?_, and _Who will I become?_&mdash;in an approachable, light-hearted way.
+Much of the content tempers humor with the reality of the situation many readers are going through. This helps readers approach questions they may have about identity&mdash;questions such as _Who am I?_, _Where am I going?_, and _Who will I become?_&mdash;in a friendly, light-hearted way.
 
 In addition to advice and story-sharing, there are also _Monday Memes_ that touch on familiar convent life topics, book and movie reviews, an [e-newsletter][9], and resources for friends and family. The nonprofit tries to respond to all comments and offers direct support by helping those in need find counselors, places to stay, clothes, and more.
 
