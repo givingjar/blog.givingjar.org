@@ -17,7 +17,7 @@ avatar: "/img/giving-jar-icon-square.svg"
 
 # List of links in the navigation bar
 navbar-links:
-  Newsletter: "http://givingjar.org"
+  Newsletter: "https://givingjar.org"
   Spotlights: "/tag/spotlight/"
   About: "/about/"
 
@@ -41,7 +41,7 @@ tag_meta:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: "Giving Jar, Inc."
-  url: http://givingjar.org
+  url: https://givingjar.org
   email: "hello@givingjar.org"
   facebook: givingjarorg
   twitter: givingjar

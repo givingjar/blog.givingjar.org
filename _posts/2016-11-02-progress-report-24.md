@@ -64,5 +64,5 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [9]: https://lansingrotary.wordpress.com/ "Rotary Club of Lansing Homepage"
 [10]: http://bit.ly/GivingJarShopper "Giving Jar Shopper for Chrome"
 [11]: http://blog.givingjar.org/charity-spotlight-happendance/ "HappenDance Spotlight on the Giving Jar Blog"
-[12]: http://givingjar.org/ "Giving Jar Homepage"
+[12]: https://givingjar.org/ "Giving Jar Homepage"
 [13]: https://www.paypal.com/givingfund/ "PayPal Giving Fund Homepage"

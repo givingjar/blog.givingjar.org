@@ -64,7 +64,7 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [8]: http://bit.ly/GivingJarShopper "Giving Jar Shopper for Chrome"
 [9]: http://blog.givingjar.org/charity-spotlight-greater-lansing-food-bank/ "Greater Lansing Food Bank Spotlight"
 [10]: http://www.voiceless-mi.org/ "Voiceless-MI Homepage"
-[11]: http://givingjar.org/video-giveaway/ "Giving Tuesday Video Giveaway"
+[11]: https://givingjar.org/video-giveaway/ "Giving Tuesday Video Giveaway"
 [12]: http://afplansingmi.afpnet.org/ "Association of Fundraising Professionals Capital Area Chapter"
 [13]: http://blog.givingjar.org/charity-spotlight-hospice-of-lansing/ "Hospice of Lansing Spotlight on the Giving Jar Blog"
 [14]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"
