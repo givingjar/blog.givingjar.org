@@ -103,8 +103,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - package.json
-  - Gruntfile.js
-  - node_modules
-  - deploy.sh
-  - crontab
+  - netlify.toml
