@@ -1,0 +1,6 @@
+[build]
+  publish = "_site"
+  command = "jekyll build"
+
+[context.master]
+  command = "jekyll build --config _config.yml,_config.test.yml"
