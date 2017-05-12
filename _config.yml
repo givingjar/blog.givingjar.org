@@ -1,6 +1,6 @@
 # --- Serving options --- #
 
-url: "http://blog.givingjar.org"
+url: "http://localhost:4000"
 baseurl: ""
 
 # Name of website
@@ -74,7 +74,8 @@ google_analytics: "UA-62666024-5"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-future: false
+future: true
+show_drafts: true
 timezone: "UTC"
 markdown: kramdown
 highlighter: pygments
