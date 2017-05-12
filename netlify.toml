@@ -4,6 +4,3 @@
 
 [context.master]
   command = "jekyll build --config _config.yml,_config.test.yml"
-
-[context.netlify]
-  command = "jekyll build --config _config.yml,_config.test.yml"
