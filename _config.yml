@@ -60,7 +60,7 @@ footer-links-active:
 
 facebook:
   app_id: 1711460762418877
-  admins: 1261535380,8372708,100009366311900,2300841
+  admins: "1261535380,8372708,100009366311900,2300841"
 
 twitter:
   username: givingjar
