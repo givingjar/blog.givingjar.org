@@ -63,6 +63,6 @@ As always, Giving Jar is looking for charities to interview. If you know a chari
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-creating-heroes-stephens-way/ "Charity Spotlight: Creating Heroes Stephen's Way"
+[8]: /charity-spotlight-creating-heroes-stephens-way/ "Charity Spotlight: Creating Heroes Stephen's Way"
 [9]: http://thefirecrackerfoundation.org/ "Firecracker Foundation Homepage"
 [10]: http://www.helpingwomenperiod.org/ "Helping Women Period Homepage"

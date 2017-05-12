@@ -60,7 +60,7 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
 [8]: http://bit.ly/GivingJarShopper "Giving Jar Shopper for Chrome"
-[9]: http://blog.givingjar.org/charity-spotlight-child-and-family-charities/ "Child and Family Charities Spotlight"
+[9]: /charity-spotlight-child-and-family-charities/ "Child and Family Charities Spotlight"
 [10]: https://www.facebook.com/donate/10211106785646477/ "Backwards Burglar Fundraiser on Facebook"
 [11]: https://consiva.net/OMS/Registration/BeforeYouStart "Register your nonprofit on Consiva, a CyberGrants program"
 [12]: http://www.havenhouseel.org/ "Haven House Homepage"

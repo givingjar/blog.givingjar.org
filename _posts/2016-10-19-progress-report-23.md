@@ -60,7 +60,7 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-nottingham-nature-nook/ "Nottingham Nature Nook Spotlight"
+[8]: /charity-spotlight-nottingham-nature-nook/ "Nottingham Nature Nook Spotlight"
 [9]: http://backwardsburglar.com/ "Backwards Burglar Homepage"
 [10]: http://afplansingmi.afpnet.org/ "Association for Fundraising Professionals - Capital Area Chapter Homepage"
 [11]: https://www.michigancreative.com/ "Michigan Creative Homepage"

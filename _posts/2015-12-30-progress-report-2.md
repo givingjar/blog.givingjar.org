@@ -96,7 +96,7 @@ It doesn't sound like much, but with two days off for New Years, it's enough!
 [3]: #thanks "Thanks Section"
 [4]: #upcoming "Upcoming Section"
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
-[6]: http://blog.givingjar.org/charity-spotlight-building-twentyone/ "Charity Spotlight: Building Twentyone"
+[6]: /charity-spotlight-building-twentyone/ "Charity Spotlight: Building Twentyone"
 [7]: http://www.buildingtwentyone.org/ "Building Twentyone Homepage"
 [8]: http://technicalrex.com "Technical Rex Homepage"
 [9]: http://technicalrex.com/whats-in-a-landing-page/ "What's in a Landing Page? on Technical Rex"

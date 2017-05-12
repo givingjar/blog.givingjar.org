@@ -14,7 +14,7 @@ description: >
     new progress report.
 ---
 
-***Note:** Progress reports will be trimmed back for a while to assess the importance of the extra details in the original reports. If you want those details back, ask for them in an email or on social media.*
+> _**Note:** Progress reports will be trimmed back for a while to assess the importance of the extra details in the original reports. If you still want those details, ask for them in an email or on social media._
 
 Progress reports are Giving Jar's way of celebrating *[Success][1]*, reflecting on *[Failure][2]* (and what was learned from it), giving *[Thanks][3]*, and taking a peek at what's *[Up and Coming][4]*. Hopefully you will find these progress reports informative. As always, all [feedback][5] is welcome!
 
@@ -68,7 +68,7 @@ As always, Giving Jar is looking for charities to interview. If you know a chari
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-cuts-and-convos/ "Charity Spotlight: Cuts and Convos"
+[8]: /charity-spotlight-cuts-and-convos/ "Charity Spotlight: Cuts and Convos"
 [9]: http://cutsandconvos.com "Cuts and Convos Homepage"
 [10]: http://www.creatingheroesstephensway.com/ "Creating Heroes Stephen's Way Homepage"
 [11]: http://www.helpingwomenperiod.org/ "Helping Women Period Homepage"

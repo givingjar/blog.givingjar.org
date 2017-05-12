@@ -61,7 +61,7 @@ As always, Giving Jar is looking for charities to interview. If you know a chari
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-lansing-art-gallery/ "Lansing Art Gallery Spotlight"
+[8]: /charity-spotlight-lansing-art-gallery/ "Lansing Art Gallery Spotlight"
 [9]: http://www.lansingpromise.org/ "Lansing Promise Homepage"
 [10]: http://www.michiganwomenshalloffame.org/ "Michigan Women's Historical Center and Hall of Fame Homepage"
 [11]: http://allenneighborhoodcenter.org/ "Allen Neighborhood Center Homepage"

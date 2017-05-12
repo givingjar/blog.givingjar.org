@@ -62,7 +62,7 @@ As always, Giving Jar is looking for charities to interview. If you know a chari
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-happendance/ "Happendance Spotlight"
+[8]: /charity-spotlight-happendance/ "Happendance Spotlight"
 [9]: http://lansingartgallery.org/ "Lansing Art Gallery Homepage"
 [10]: http://technicalrex.com/scheduling-static-site-content/ "Schedule Blog Content for a Static Site on TechnicalRex.com"
 [11]: http://www.purelansing.com/ "Lansing Economic Area Partnership Homepage"

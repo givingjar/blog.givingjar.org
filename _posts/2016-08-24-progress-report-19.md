@@ -58,5 +58,5 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-hannahs-house/ "Hannah's House Spotlight"
+[8]: /charity-spotlight-hannahs-house/ "Hannah's House Spotlight"
 [9]: https://www.paypal.com/fundraiser/charity/196655 "Giving Jar's Donation Page on PayPal Giving Fund"

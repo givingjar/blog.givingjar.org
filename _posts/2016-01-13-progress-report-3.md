@@ -98,6 +98,6 @@ As always, Giving Jar is looking for charities to interview. If you know a chari
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-michigan-remembers-9-11/ "Charity Spotlight: Michigan Remembers 9/11"
+[8]: /charity-spotlight-michigan-remembers-9-11/ "Charity Spotlight: Michigan Remembers 9/11"
 [9]: http://www.michiganremembers.dreamhosters.com/ "Michigan Remembers 9/11 Homepage"
 [10]: http://www.agpccpa.com/ "Abraham and Gaffney, P.C. Homepage"

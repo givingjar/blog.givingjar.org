@@ -62,7 +62,7 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
 [8]: http://bit.ly/GivingJarShopper "Giving Jar Shopper for Chrome"
-[9]: http://blog.givingjar.org/charity-spotlight-voiceless-mi/ "Voiceless-MI Spotlight"
+[9]: /charity-spotlight-voiceless-mi/ "Voiceless-MI Spotlight"
 [10]: http://www.childandfamily.org/ "Child and Family Charities Homepage"
 [11]: https://www.facebook.com/donate/10211106785646477/ "Backwards Burglar Fundraiser on Facebook"
 [12]: http://www.cristoreycommunity.org/ "Cristo Rey Community Center Homepage"

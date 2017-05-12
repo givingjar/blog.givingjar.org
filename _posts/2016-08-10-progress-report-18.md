@@ -62,7 +62,7 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-origami-rehab/ "Origami Brain Injury Rehabilitation Center Spotlight"
+[8]: /charity-spotlight-origami-rehab/ "Origami Brain Injury Rehabilitation Center Spotlight"
 [9]: http://hannahshouselansing.org "Hannah's House Homepage"
 [10]: https://www.paypal.com/givingfund/ "PayPal Giving Fund Homepage"
 [11]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"

@@ -285,7 +285,7 @@ If you found this article helpful, please consider [donating][27]{:target="\_bla
 [15]: https://www.paypal.com/us/webapps/mpp/account-selection "Sign up for a PayPal account"
 [16]: https://www.paypal.com/businessprofile/settings/name "Change your PayPal contact name"
 [17]: https://www.paypal.com/cgi-bin/webscr?cmd=_complaint-view "PayPal Resolution Center"
-[18]: http://blog.givingjar.org/ "Giving Jar Blog"
+[18]: / "Giving Jar Blog"
 [19]: https://www.paypal.com/businessprofile/settings/ "PayPal - Business Profile"
 [20]: https://www.paypal.com/businessprofile/mymoney "PayPal - My Money"
 [21]: https://www.paypal.com/businessprofile/mytools "PayPal - My Selling Tools"

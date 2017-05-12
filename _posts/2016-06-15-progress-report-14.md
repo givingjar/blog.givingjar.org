@@ -62,7 +62,7 @@ We are always looking for charities in the Greater Lansing area to write about. 
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-joshuas-place/ "Joshua's Place Spotlight"
+[8]: /charity-spotlight-joshuas-place/ "Joshua's Place Spotlight"
 [9]: http://www.williamstontheatre.org/ "Williamston Theatre Homepage"
 [10]: http://www.thedaviesproject.org/ "The Davies Project Homepage"
 [11]: http://www.unodeuce.com/ "UnoDeuce Multimedia Homepage"

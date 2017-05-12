@@ -63,5 +63,5 @@ As always, Giving Jar is looking for charities to interview. If you know a chari
 [5]: mailto:hello@givingjar.org "Email Giving Jar"
 [6]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [7]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
-[8]: http://blog.givingjar.org/charity-spotlight-firecracker-foundation/ "Firecracker Foundation Spotlight"
+[8]: /charity-spotlight-firecracker-foundation/ "Firecracker Foundation Spotlight"
 [9]: http://happendance.org/ "Happendance Homepage"

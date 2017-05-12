@@ -143,7 +143,7 @@ It doesn't sound like much, but with Christmas falling at the end of the next we
 [5]: http://technicalrex.com/whats-in-a-landing-page/ "What's in a Landing Page? on the Technical Rex Blog"
 [6]: http://technicalrex.com "Technical Rex Blog"
 [7]: #failure "Failure Section"
-[8]: http://blog.givingjar.org "Giving Jar Blog"
+[8]: / "Giving Jar Blog"
 [9]: https://github.com/givingjar/filing-cabinet "Giving Jar Filing Cabinet"
 [10]: https://github.com/givingjar/filing-cabinet/blob/master/files/guides/blogging-guide.md "Giving Jar Blogging Guide"
 [11]: https://github.com/givingjar/filing-cabinet/blob/master/files/guides/social-media-guide.md "Giving Jar Social Media Guide"
