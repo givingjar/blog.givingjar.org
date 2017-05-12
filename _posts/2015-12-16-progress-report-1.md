@@ -137,7 +137,7 @@ It doesn't sound like much, but with Christmas falling at the end of the next we
 
 
 [1]: mailto:hello@givingjar.org "Email Giving Jar"
-[2]: http://givingjar.org "Giving Jar Landing Page"
+[2]: https://givingjar.org "Giving Jar Landing Page"
 [3]: https://twitter.com/givingjar "Giving Jar on Twitter"
 [4]: https://www.facebook.com/givingjarorg "Giving Jar on Facebook"
 [5]: http://technicalrex.com/whats-in-a-landing-page/ "What's in a Landing Page? on the Technical Rex Blog"
