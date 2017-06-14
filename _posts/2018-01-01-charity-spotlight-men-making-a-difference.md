@@ -36,7 +36,9 @@ In this charity spotlight, I spoke with the Founder of Men Making a Difference, 
 
 ## Goals
 
+Every new family MMAD sees at their annual cookout raises at least that much more awareness about diversity and the importance of family and community. The continued success of their festival is an important goal they maintain each year.
 
+Men Making a Difference also wishes to introduce a life mentoring program someday. Mentoring fits very much in line with the virtues they promote, but to formalize a mentorship program they must first overcome the financial barrier of starting it.
 
 ![][5]
 
