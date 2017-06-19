@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Men Making a Difference"
-subtitle: "."
+subtitle: "Demonstrating the importance of family and volunteerism in our community."
 permalink: /charity-spotlight-men-making-a-difference/
 tags: [spotlight]
 image:
@@ -9,10 +9,13 @@ image:
   width: 800
   height: 532
 description: >
-  Men Making a Difference.
+  Men Making a Difference creates positive fatherhood and volunteer opportunities
+  that allow men to improve upon themselves, their family, and their community.
+  These experiences enrich fathers' lives and the lives of young people around
+  them.
 ---
 
-[Men Making a Difference][1].
+[Men Making a Difference][1] creates positive fatherhood and volunteer opportunities that allow men to improve upon themselves, their family, and their community. These experiences enrich fathers' lives and the lives of young people around them.
 
 In this charity spotlight, I spoke with the Founder of Men Making a Difference, Andrew Brewer Jr.
 
@@ -32,7 +35,7 @@ In this charity spotlight, I spoke with the Founder of Men Making a Difference, 
 
 ## Big Wins
 
-
+In 2013, Men Making a Difference was recognized by the Lansing City Council for their positive influence on the community. The following year, they also received the NAACP Community Service Award. The biggest reward that MMAD continues to receive, however, is the support and trust of the community that they serve.
 
 ## Goals
 
