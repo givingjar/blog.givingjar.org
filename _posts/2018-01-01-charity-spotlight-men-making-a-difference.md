@@ -23,13 +23,25 @@ In this charity spotlight, I spoke with the Founder of Men Making a Difference, 
 
 ## Origin Story
 
+In the summer of 2007, Andrew Brewer Jr. decided to organize a picnic at Hawk Island Park as a way to give something back to his community. He pulled together a small group of volunteers &mdash; nine men in total &mdash; and organized a small community cookout, complete with free food and drinks.
 
+Twenty families attended, and even though Andrew realized there was much to learn about hosting such an event, the impact on the children was clear. Seeing fathers going above and beyond for their families and community was a great way to encourage their young ones to do the same.
+
+The cookout was held again the next year, families invited their friends, the picnic grew, and the organizers learned more about working together and making a big impact. By the third year, hundreds of people were attending and the organizers' mission was clear.
+
+They established [Men Making a Difference][1] as a way to create positive change in their families and community.
 
 ![][3]
 
 ## Today
 
+MMAD's [Community Cookout][2] now serves over 2,000 people and is hosted at Benjamin Davis Park in Lansing on the third Saturday of July. Free food and drinks are offered, as well as new activities such as a bounce house, music, and dancing.
 
+Other organizations such as [Potter Park Zoo][9], the Dangerous Knights Chess Club, and [Impression 5][8] also participate in the cookout and offer more ways for people to engage with their community while keeping the event family-first.
+
+Mr. Brewer sees beauty in unity. Fathers, families, volunteers, and whole communities come together to show young people how to become better versions of themselves.
+
+The cookout isn't MMAD's only source of positive influence, either. They mentor at the [Boys and Girls Club][10], participate in _100 Men in Suits_ at [Mid-Michigan Leadership Academy][11], and demonstrate positive volunteer experiences at numerous other events throughout the year.
 
 ![][4]
 
@@ -68,8 +80,13 @@ If you want to learn more about [Men Making a Difference][1], you can reach them
 
 
 [1]: http://www.mmad.us/ "Men Making a Difference Homepage"
-[2]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
+[2]: http://www.mmad.us/signature-event-family-community-cookout/ "Men Making a Difference - Community Cookout"
 [3]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
 [4]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
 [5]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
 [6]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
+[7]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
+[8]: https://impression5.org/ "Impression 5 Science Center Homepage"
+[9]: http://www.potterparkzoo.org/ "Potter Park Zoo Homepage"
+[10]: http://bgclansing.org/ "Boys and Girls Club of Lansing Homepage"
+[11]: https://mmla.sabis.net/ "Mid-Michigan Leadership Academy Homepage"
