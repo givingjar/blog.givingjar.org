@@ -5,9 +5,9 @@ subtitle: "Demonstrating the importance of family and volunteerism in our commun
 permalink: /charity-spotlight-men-making-a-difference/
 tags: [spotlight]
 image:
-  path: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg
+  path: /img/spotlight/men-making-a-difference/men-making-a-difference-cookout.jpg
   width: 800
-  height: 532
+  height: 530
 description: >
   Men Making a Difference creates positive fatherhood and volunteer opportunities
   that allow men to improve upon themselves, their family, and their community.
@@ -19,7 +19,7 @@ description: >
 
 In this charity spotlight, I spoke with the Founder of Men Making a Difference, Andrew Brewer Jr.
 
-![][2]
+![][3]
 
 ## Origin Story
 
@@ -31,7 +31,7 @@ The cookout was held again the next year, families invited their friends, the pi
 
 They established [Men Making a Difference][1] as a way to create positive change in their families and community.
 
-![][3]
+![][4]
 
 ## Today
 
@@ -43,7 +43,7 @@ Mr. Brewer sees beauty in unity. Fathers, families, volunteers, and whole commun
 
 The cookout isn't MMAD's only source of positive influence, either. They mentor at the [Boys and Girls Club][10], participate in _100 Men in Suits_ at [Mid-Michigan Leadership Academy][11], and demonstrate positive volunteer experiences at numerous other events throughout the year.
 
-![][4]
+![][7]
 
 ## Big Wins
 
@@ -53,7 +53,7 @@ In 2013, Men Making a Difference was recognized by the Lansing City Council for 
 
 Every new family MMAD sees at their annual cookout raises at least that much more awareness about diversity and the importance of family and community. The continued success of their festival is an important goal they maintain each year.
 
-Men Making a Difference also wishes to introduce a life mentoring program someday. Mentoring fits very much in line with the virtues they promote, but to formalize a mentorship program they must first overcome the financial barrier of starting it.
+Men Making a Difference also wishes to introduce a life mentoring program someday. Mentoring fits very much in line with the virtues they promote, but to formalize a mentorship program they must first overcome the financial barrier to starting it.
 
 ![][5]
 
@@ -81,11 +81,11 @@ If you want to learn more about [Men Making a Difference][1], you can reach them
 
 [1]: http://www.mmad.us/ "Men Making a Difference Homepage"
 [2]: http://www.mmad.us/signature-event-family-community-cookout/ "Men Making a Difference - Community Cookout"
-[3]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
-[4]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
-[5]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
-[6]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
-[7]: /img/spotlight/men-making-a-difference/men-making-a-difference-.jpg "Charity"
+[3]: /img/spotlight/men-making-a-difference/men-making-a-difference-cookout.jpg "Men Making a Difference Community Cookout"
+[4]: /img/spotlight/men-making-a-difference/men-making-a-difference-chess-club.jpg "Men Making a Difference: Chess Club"
+[5]: /img/spotlight/men-making-a-difference/men-making-a-difference-food-service.jpg "Men Making a Difference serving food"
+[6]: /img/spotlight/men-making-a-difference/men-making-a-difference-young-audience.jpg "Men Making a Difference: Young people watch on"
+[7]: /img/spotlight/men-making-a-difference/men-making-a-difference-100-men.jpg "Men Making a Difference: 100 Men in Suits"
 [8]: https://impression5.org/ "Impression 5 Science Center Homepage"
 [9]: http://www.potterparkzoo.org/ "Potter Park Zoo Homepage"
 [10]: http://bgclansing.org/ "Boys and Girls Club of Lansing Homepage"
