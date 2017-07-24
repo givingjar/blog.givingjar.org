@@ -38,7 +38,7 @@ In 2013, [REACH][1] expanded into the surrounding five buildings. They continue 
 
 [Adults][13] can learn a variety of clay, drawing, and painting techniques through the studio's adult clay, _Picture This_, and _Mud &amp; Mug_ classes. Similarly, [kids][14] as young as age two can find clay, drawing, and painting classes that fit their skill level.
 
-The center offers art exploration classes, a K-3 summer school program, and an [open studio][9] for teens. The studio also participates in Lansing School District's _Late State Wednesday_ and offers additional programs to [homeschoolers][12].
+The center offers art exploration classes, a K-3 summer school program, and an [open studio][9] for teens. The studio also participates in Lansing School District's _Late Start Wednesday_ and offers additional programs to [homeschoolers][12].
 
 REACH also features the works of local artists in their gallery, hosts special events, and participates in a variety of community events. Their art truck travels to other locations across Lansing to further improve the community's access to art.
 
