@@ -75,7 +75,7 @@ Being a reliable and consistent volunteer is an especially meaningful way to hel
 
 If you want to learn more about [Lansing Symphony Orchestra][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.lansingsymphony.org/" facebook="LansingSymphony" twitter="LansingSymphony" %}
+{% include web-links.html home="http://www.lansingsymphony.org/" facebook="LansingSymphony" twitter="LansingSymphony" instagram="lansingsymphony" %}
 
 ###### Photographs courtesy of [David Trumpie][14] and [Lansing Symphony Orchestra][1].
 

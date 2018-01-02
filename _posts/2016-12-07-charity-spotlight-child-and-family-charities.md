@@ -75,7 +75,7 @@ Julie also points out the importance of being sensitive to secondary trauma. Peo
 
 If you want to learn more about [Child and Family Charities][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.childandfamily.org/" facebook="ChildandFamilyCharities" twitter="CFCharity" %}
+{% include web-links.html home="http://www.childandfamily.org/" facebook="ChildandFamilyCharities" twitter="CFCharity" instagram="childandfamilycharities" %}
 
 ###### Photographs courtesy of [Child and Family Charities][1].
 

@@ -74,7 +74,7 @@ Everyone at Refugee Development Center started out as a volunteer. Coming back t
 
 If you want to learn more about [Refugee Development Center][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.refugeedevelopmentcenter.org/" facebook="RefugeeDevelopmentCenter" twitter="RDCLansing" youtube="user/RDCLansing" %}
+{% include web-links.html home="http://www.refugeedevelopmentcenter.org/" facebook="RefugeeDevelopmentCenter" twitter="RDCLansing" youtube="user/RDCLansing" instagram="rdclansing" %}
 
 ###### Photographs courtesy of [Refugee Development Center][1].
 

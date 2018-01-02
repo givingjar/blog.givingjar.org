@@ -72,7 +72,7 @@ People who work well together are important for your nonprofit, but it's also im
 
 If you want to learn more about [Greater Lansing Food Bank][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://greaterlansingfoodbank.org/" facebook="GreaterLansingFoodBank" twitter="GLFoodBank" pinterest="glfoodbank" gplus="GreaterlansingfoodbankOrg" %}
+{% include web-links.html home="http://greaterlansingfoodbank.org/" facebook="GLFoodBank1" twitter="GLFoodBank1" pinterest="glfoodbank" gplus="GreaterlansingfoodbankOrg" instagram="glfoodbank1" %}
 
 ###### Photographs courtesy of [Greater Lansing Food Bank][1] and [Ian Kast][6].
 
