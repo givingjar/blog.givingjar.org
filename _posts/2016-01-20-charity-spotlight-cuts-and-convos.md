@@ -16,7 +16,7 @@ description: >
     turning someone's life around.
 ---
 
-[Cuts and Convos][1] helps low-income residents of Michigan look good, feel good, and ultimately become gainfully employed. The charity accomplishes this through complimentary haircuts and beauty services with uplifting conversations. They know that a fresh look and improved outlook on life may be the key to turning someone's life around.
+Cuts and Convos helps low-income residents of Michigan look good, feel good, and ultimately become gainfully employed. The charity accomplishes this through complimentary haircuts and beauty services with uplifting conversations. They know that a fresh look and improved outlook on life may be the key to turning someone's life around.
 
 In this charity spotlight I spoke with the President of Cuts and Convos, Jonathan Arias.
 
@@ -38,7 +38,7 @@ They are able to connect with so many people by working with other charitable or
 
 ## Big Wins
 
-Cuts and Convos has won the [Soup Grant Lansing][8] micro-grant twice and they recently introduced a free van service to help get interested persons to church, but for Jonathan the big wins are the personal stories.
+Cuts and Convos has won the [SoupGrant Lansing][8] micro-grant twice and they recently introduced a free van service to help get interested persons to church, but for Jonathan the big wins are the personal stories.
 
 One such story was about a man who was in prison for 21 years and had just been released three days prior. His hair had not been cut in seven years and he was eager for a fresh start. Jonathan wasn't just cutting a man's hair that day, he was cutting his past away and helping him move forward with a new life.
 
@@ -64,9 +64,9 @@ If you're interested in donating to a charity, look at the work the charity is d
 
 If you want to learn more about Cuts and Convos, you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://cutsandconvos.com" twitter="cutsandconvos" facebook="cutsandconvos" %}
+{% include web-links.html twitter="cutsandconvos" facebook="cutsandconvos" %}
 
-###### Photographs courtesy of [Cuts and Convos][1] with consent from subjects.
+###### Photographs courtesy of Cuts and Convos with consent from subjects.
 
 
 
