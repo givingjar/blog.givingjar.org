@@ -71,7 +71,7 @@ Emily says "Come on down!" Volunteering for an organization that hosts performan
 
 If you want to learn more about [Williamston Theatre][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.williamstontheatre.org/" twitter="WilliamstonThtr" facebook="williamstontheatre" youtube="williamstontheatre" %}
+{% include web-links.html home="http://www.williamstontheatre.org/" twitter="WilliamstonThtr" facebook="williamstontheatre" youtube="user/williamstontheatre" %}
 
 ###### Photographs Courtesy of [Chris Purchis][2] and [Ian Kast][17]
 

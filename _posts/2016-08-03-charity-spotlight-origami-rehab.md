@@ -71,7 +71,7 @@ When working for a nonprofit, make sure everything you do is in support of your 
 
 If you want to learn more about [Origami Brain Injury Rehabilitation Center][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.origamirehab.org/" twitter="origamirehab" facebook="origamirehab" youtube="origamirehab" %}
+{% include web-links.html home="http://www.origamirehab.org/" twitter="origamirehab" facebook="origamirehab" youtube="user/origamirehab" %}
 
 ###### Photographs Courtesy of [Origami Brain Injury Rehabilitation Center][1].
 

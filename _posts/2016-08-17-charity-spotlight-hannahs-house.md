@@ -75,7 +75,7 @@ Before you donate to a charity, do a little research so you understand how your 
 
 If you want to learn more about [Hannah's House][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://hannahshouselansing.org/" facebook="hannahshouselansing" instagram="hannahshouselansing" %}
+{% include web-links.html home="http://hannahshouselansing.org/" facebook="hannahshouselansing" instagram="hannahshouselansing" twitter="HannahsLansing" %}
 
 ###### Photographs Courtesy of [Hannah's House][1]. Video Courtesy of [UnoDeuce Multimedia][2].
 

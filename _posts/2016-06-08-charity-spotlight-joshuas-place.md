@@ -67,7 +67,7 @@ Many charities like to add fun activities and events to their standard programs.
 
 If you want to learn more about [Joshua's Place][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="http://www.joshuasplaceinc.org/" twitter="inc_place" facebook="joshuasplaceinc.org" %}
+{% include web-links.html home="http://www.joshuasplaceinc.org/" %}
 
 ###### Photographs Courtesy of [Joshua's Place][2]. Video Courtesy of [UnoDeuce Multimedia][7].
 

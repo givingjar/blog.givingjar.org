@@ -69,7 +69,7 @@ Nonprofits can't operate if they don't make money. Not only that, but they also 
 
 If you want to learn more about [Lansing Makers Network][1], you can reach them by clicking one of the buttons below.
 
-{% include web-links.html home="https://www.lansingmakersnetwork.org/" twitter="LansingMakers" facebook="LansingMakersNetwork" %}
+{% include web-links.html home="https://www.lansingmakersnetwork.org/" twitter="LansingMakers" facebook="LansingMakersNetwork" instagram="LansingMakersNetwork" youtube="LansingMakersNetworkOrg" %}
 
 ###### Photographs Courtesy of [Lansing Makers Network][12]
 
