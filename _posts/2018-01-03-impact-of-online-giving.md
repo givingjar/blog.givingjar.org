@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nottingham Nature Nook and the Impact of Online Giving"
+title: "The Impact of Online Giving"
 subtitle: "A great example of why your nonprofit should add online fundraising to its repertoire."
 permalink: /impact-of-online-giving-nottingham-nature-nook/
 tags: [progress-report]
