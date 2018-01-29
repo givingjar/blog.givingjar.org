@@ -26,13 +26,19 @@ Meegan saw a lot of potential in this technology to help people on the autism sp
 
 Years later, in early 2017, a new opportunity arose when she met Brian Town, the CEO of [Michigan Creative][2]. Brian was using similar technologies to help local businesses. This time, Meegan went all-in. She quit her job to focus on helping people with autism learn new skills and explore new places using state-of-the-art technology.
 
-At the end of August, 2017, [Able Eyes][1] was launched, serving not only those with autism, but anyone of any ability level.
+[Able Eyes][1] launched at the end of August 2017, serving not only those with autism, but anyone of any ability.
 
 ![][3]
 
 ## Today
 
+Able Eyes' premiere service is their [360° Video Tours][3]. These interactive tours allow the public to explore a business or public place online. They are useful for familiarizing oneself with a layout and amenities of a location, preparing for a first-time visit to a new place, and considering accessibility options.
 
+Families affected by autism, Asperger's, anxiety, and other accessibility considerations aren't the only ones to benefit from virtual tours. Parents can also see how kid-friendly a business is before bringing their child. 360° tours are also an effective marketing tool for the businesses themselves! Typically this is a paid service, but donors may also sponsor the creation of a tour at a specific location if they wish.
+
+Able Eyes also creates [How-to Video Models][4]. These instructional videos show first-person perspectives of tasks being performed. They are a visual way for individuals to learn skills such as tying shoes, washing dishes, and vacuuming at their own pace in the safety of their home.
+
+Anyone who wants to join the Able Eyes community is encouraged to [submit their own videos][5]. Once reviewed, Able Eyes will host the video on their website. This way, we can all open up new pathways for each other.
 
 ![][4]
 
@@ -68,8 +74,11 @@ If you want to learn more about [Able Eyes][1], you can reach them by clicking o
 
 [1]: https://www.ableeyes.org/ "Able Eyes Homepage"
 [2]: https://www.michigancreative.com/ "Michigan Creative Homepage"
-[2]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
-[3]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
-[4]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
-[5]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
+[3]: https://www.ableeyes.org/360-videos-virtual-tours/ "More about Able Eyes 360° Video Tours"
+[4]: https://www.ableeyes.org/how-to-video-modeling/ "More about Able Eyes How-to and Video Modeling"
+[5]: https://www.ableeyes.org/submit-videos/ "Submit your own video to the Able Eyes Community"
 [6]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
+[7]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
+[8]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
+[9]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
+[10]: /img/spotlight/able-eyes/able-eyes-.jpg "Charity"
