@@ -35,7 +35,7 @@ When the property for building Joshua's Place was purchased, the lot across the 
 
 The amazing support received so far has helped Joshua's Place reach the amount needed to begin building, but they are still shy of their $1 million goal.
 
-{% include youtube.html url="https://www.youtube.com/embed/6Ixxt7gT2ek" %}
+{% include responsive-iframe.html url="https://www.youtube.com/embed/6Ixxt7gT2ek" %}
 
 ## Today
 

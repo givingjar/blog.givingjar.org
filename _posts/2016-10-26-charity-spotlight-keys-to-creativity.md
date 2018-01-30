@@ -41,7 +41,7 @@ Keys to Creativity has also continued leasing their space in the Lansing Mall as
 
 The group also offers a variety of [classes][14] to introduce people to acrylics, watercolor, oil painting, drawing, and more. Keys to Creativity also takes over Macy's Court for their _1st Sunday Artz_ events, often working with other groups to demonstrate different art forms and get shoppers involved with art.
 
-{% include youtube.html url="https://www.youtube.com/embed/r4DjiX5Llfg" %}
+{% include responsive-iframe.html url="https://www.youtube.com/embed/r4DjiX5Llfg" %}
 
 ## Big Wins
 

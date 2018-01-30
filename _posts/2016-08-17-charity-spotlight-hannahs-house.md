@@ -43,7 +43,7 @@ Some of the routines and training include devotional studies, parenting lessons,
 
 Hannah's House also holds several fundraising events each year, including [International Dessert Night and Silent Auction][4], a screening of *[Gimme Shelter][5]*, [Bowl for Babies][6], and [Hike for Hannah’s House][7].
 
-{% include youtube.html url="https://www.youtube.com/embed/5Dfxey_kunk" %}
+{% include responsive-iframe.html url="https://www.youtube.com/embed/5Dfxey_kunk" %}
 
 ## Big Wins
 
