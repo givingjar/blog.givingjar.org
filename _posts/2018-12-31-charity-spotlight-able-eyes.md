@@ -6,8 +6,8 @@ permalink: /charity-spotlight-able-eyes/
 tags: [spotlight]
 image:
   path: /img/spotlight/able-eyes/able-eyes-logo.png
-  width: 800
-  height: 532
+  width: 300
+  height: 208
 description: >
   Able Eyes uses state of the art virtual tours and video to help people learn
   about new places and skills. Their high-tech approach for experiencing the
