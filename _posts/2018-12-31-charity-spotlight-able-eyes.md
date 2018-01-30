@@ -23,13 +23,13 @@ In this charity spotlight, I spoke with the Executive Director of Able Eyes, Mee
 
 ## Origin Story
 
-In 2011, Meegan taught children with autism spectrum disorder through the Jackson County Intermediate School District. At an education conference in Chicago, she met a CEO who created online digital tours known as WebWalks to help people with disabilities explore real world spaces without leaving their home.
+In 2011, Meegan taught children with autism spectrum disorder through the Jackson County Intermediate School District. At an education conference in Chicago, she met a CEO who created online digital tours known as WebWalks to help people with disabilities explore real-world spaces without leaving their home.
 
 Meegan saw a lot of potential in this technology to help people on the autism spectrum experience new and unknown places before venturing there in person. Unfortunately, this particular opportunity from her conference visit didn't work out &mdash; but the idea stuck.
 
 Years later, in April of 2017, a new opportunity arose when she met Brian Town, the CEO of [Michigan Creative][2] and discovered his business was using similar technology to help local businesses. This time, Meegan went all-in. She quit her job to focus on helping people with autism learn new skills and explore new places using state of the art technology.
 
-[Able Eyes][1] launched at the end of August 2017, serving not only those with autism, but anyone of any ability.
+[Able Eyes][1] launched at the end of August 2017, serving not only those with autism but anyone of any ability.
 
 ![][7]
 
@@ -49,7 +49,7 @@ Anyone who wants to join the Able Eyes community is encouraged to [submit their 
 
 Building a community that empowers people with disabilities is one of several goals Meegan has for Able Eyes. She also wants to improve the exposure of Able Eyes and the virtual tours they create for businesses and other public venues across Lansing.
 
-Receiving donations for their first sponsored tour was also a very uplifting experience for Meegan. She would love to see more sponsorships and partnerships at Able Eyes.
+Receiving donations for their first sponsored tour was also a very uplifting experience for Meegan. She would love to see more sponsorships and partnerships with Able Eyes.
 
 ## Big Wins
 
