@@ -24,7 +24,7 @@ In 2011, Meegan taught children with autism spectrum disorder through the Jackso
 
 Meegan saw a lot of potential in this technology to help people on the autism spectrum experience new and unknown places before venturing there in person. Unfortunately, this particular opportunity from her conference visit didn't work out &mdash; but the idea stuck.
 
-Years later, in early 2017, a new opportunity arose when she met Brian Town, the CEO of [Michigan Creative][2]. Brian was using similar technologies to help local businesses. This time, Meegan went all-in. She quit her job to focus on helping people with autism learn new skills and explore new places using state-of-the-art technology.
+Years later, in April of 2017, a new opportunity arose when she met Brian Town, the CEO of [Michigan Creative][2] and discovered his business was using similar technology to help local businesses. This time, Meegan went all-in. She quit her job to focus on helping people with autism learn new skills and explore new places using state-of-the-art technology.
 
 [Able Eyes][1] launched at the end of August 2017, serving not only those with autism, but anyone of any ability.
 
@@ -32,9 +32,9 @@ Years later, in early 2017, a new opportunity arose when she met Brian Town, the
 
 ## Today
 
-Able Eyes' premiere service is their [360° Video Tours][3]. These interactive tours allow the public to explore a business or public place online. They are useful for familiarizing oneself with a layout and amenities of a location, preparing for a first-time visit to a new place, and considering accessibility options.
+Able Eyes' premiere service is [360° Video Tours][3]. These interactive tours allow the public to explore a business or public place online. They are useful for familiarizing oneself with a layout and amenities of a location, preparing for a first-time visit to a new place, and considering accessibility options.
 
-Families affected by autism, Asperger's, anxiety, and other accessibility considerations aren't the only ones to benefit from virtual tours. Parents can also see how kid-friendly a business is before bringing their child. 360° tours are also an effective marketing tool for the businesses themselves! Typically this is a paid service, but donors may also sponsor the creation of a tour at a specific location if they wish.
+Virtual tours are helpful for people with autism, Asperger's, anxiety, and other accessibility needs, but others can benefit from them as well. For example, parents can see how kid-friendly a business is before bringing their child. 360° tours are also an effective marketing tool for the businesses themselves! And while this is a typically a paid service, donors may also sponsor tours at specific locations if they wish.
 
 Able Eyes also creates [How-to Video Models][4]. These instructional videos show first-person perspectives of tasks being performed. They are a visual way for individuals to learn skills such as tying shoes, washing dishes, and vacuuming at their own pace in the safety of their home.
 
@@ -42,23 +42,25 @@ Anyone who wants to join the Able Eyes community is encouraged to [submit their 
 
 ![][4]
 
-## Big Wins
-
-
-
 ## Goals
 
+Building a community that empowers people with disabilities is one of several goals Meegan has for Able Eyes. She also wants to improve the exposure of Able Eyes and the virtual tours they create for businesses and other public venues across Lansing.
 
+Receiving donations for their first sponsored tour was also a very uplifting experience for Meegan. She would love to see more sponsorships and partnerships at Able Eyes.
+
+## Big Wins
+
+Not six months after launch, Able Eyes has created virtual tours for more than two dozen businesses around Lansing and even more how-to videos. Each tour is built from real connections with real people. These connections are a great accomplishment for Able Eyes because they are the foundation of a community in the making.
+
+Those same connections are also an accomplishment for Meegan because she finds herself somewhat reserved around new people. Her mission &mdash; Able Eyes' mission &mdash; takes her out of her comfort zone to pursue something bigger than herself.
 
 ![][5]
 
-## For Nonprofits
+## Advice
 
+Meegan has learned to trust her inner voice and she encourages those pursuing their own cause to do the same. If you're contemplating trying something new, Meegan recommends asking yourself "What's the worst that could happen?" The answer may not be as bad as you think. Just keep your eye on the prize and have faith that you're on the right track.
 
-
-## For Volunteers
-
-
+It's also helpful to build an inclusive community around your mission. There will be people who share your ideals and want to help, give them a way. Meegan also encourages feedback. It's a great way to improve a nonprofit's services!
 
 ![][6]
 
