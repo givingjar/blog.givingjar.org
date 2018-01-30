@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charity Spotlight: Able Eyes"
-subtitle: "."
+subtitle: "Sharing skills and places online using interactive virtual tours and video."
 permalink: /charity-spotlight-able-eyes/
 tags: [spotlight]
 image:
@@ -9,10 +9,13 @@ image:
   width: 800
   height: 532
 description: >
-  Able Eyes.
+  Able Eyes uses state of the art virtual tours and video to help people learn
+  about new places and skills. Their high-tech approach for experiencing the
+  world enables people with disabilities and other special needs to explore
+  unfamiliar territory from the safety of their own home.
 ---
 
-[Able Eyes][1].
+[Able Eyes][1] uses state of the art virtual tours and video to help people learn about new places and skills. Their high-tech approach for experiencing the world enables people with disabilities and other special needs to explore unfamiliar territory from the safety of their own home.
 
 In this charity spotlight, I spoke with the Executive Director of Able Eyes, Meegan Winters.
 
@@ -24,7 +27,7 @@ In 2011, Meegan taught children with autism spectrum disorder through the Jackso
 
 Meegan saw a lot of potential in this technology to help people on the autism spectrum experience new and unknown places before venturing there in person. Unfortunately, this particular opportunity from her conference visit didn't work out &mdash; but the idea stuck.
 
-Years later, in April of 2017, a new opportunity arose when she met Brian Town, the CEO of [Michigan Creative][2] and discovered his business was using similar technology to help local businesses. This time, Meegan went all-in. She quit her job to focus on helping people with autism learn new skills and explore new places using state-of-the-art technology.
+Years later, in April of 2017, a new opportunity arose when she met Brian Town, the CEO of [Michigan Creative][2] and discovered his business was using similar technology to help local businesses. This time, Meegan went all-in. She quit her job to focus on helping people with autism learn new skills and explore new places using state of the art technology.
 
 [Able Eyes][1] launched at the end of August 2017, serving not only those with autism, but anyone of any ability.
 
